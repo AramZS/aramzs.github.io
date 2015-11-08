@@ -23,7 +23,6 @@
 
   {% if page.title %}
   	<!-- Article specific OG data -->
-  	<meta property="og:image" content="{{page.image}}" />
   	<meta property="og:type" content="article" />
   	<meta property="article:published_time" content="{{page.date}}" />
   	{% if page.modified %}
@@ -38,7 +37,13 @@
   	<meta name="twitter:card" content="summary_large_image" />
   	<meta name="twitter:creator" content="@chronotope" />
   	<meta name="twitter:title" content="{{page.title}}" />
-  	<meta name="twitter:image" content="{{page.image}}" />
+	{% if page.image %}
+	  	<meta property="og:image" content="{{page.image}}" />
+	  	<meta name="twitter:image" content="{{page.image}}" />
+  	{% else %}
+  		<meta property="og:image" content="https://41.media.tumblr.com/709bb3c371b9924add351bfe3386e946/tumblr_nxdq8uFdx81qzocgko1_1280.jpg" />
+  		<meta name="twitter:image" content="https://41.media.tumblr.com/709bb3c371b9924add351bfe3386e946/tumblr_nxdq8uFdx81qzocgko1_1280.jpg" />
+  	{% endif %}
 
   {% else %}
   	<!-- OG data for homepage -->
