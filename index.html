@@ -15,7 +15,7 @@ layout: default
             <a class="post-link entry-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           </h2>
         </div>
-        {% if page.image %}
+        {% if post.image %}
           <div class="post-image">
             <img alt="{{ post.title }}" src="{{ post.image }}" />
           </div>
