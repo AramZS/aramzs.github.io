@@ -162,7 +162,15 @@
     }
 }
 
-
+/**
+ * Archives pages
+ */
+article.post {
+    border-bottom: 1px solid black;
+    &:after {
+        @extend %clearfix;
+    }
+}
 
 /**
  * Page content
