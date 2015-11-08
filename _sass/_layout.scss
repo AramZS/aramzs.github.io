@@ -167,6 +167,7 @@
  */
 .home article.post {
     border-bottom: 1px solid black;
+    margin-bottom: 22px;
     &:after {
         @extend %clearfix;
     }
