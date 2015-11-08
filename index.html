@@ -18,7 +18,7 @@ layout: default
             <p>
               {{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}
             </p>
-            {{% endif %}}
+            {% endif %}
         </div>
         {% if post.image %}
           <div class="post-image">
