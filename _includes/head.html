@@ -23,10 +23,16 @@
   	<!-- Article specific OG data -->
   	<meta property="og:image" content="{{page.image}}" />
   	<meta property="og:type" content="article" />
+  	<meta property="article:published_time" content="{{page.date}}" />
+  	<meta property="article:author" content="http://facebook.com/aramzs" />
+  	<meta property="article:section" content="{{page.vertical}}" />
+  	{% for tags in page.categories %}
+
+  	{% endfor %}
 
   {% else %}
   	<!-- OG data for homepage -->
-  	<meta property="og:image" content="http://example.com/ogp.jpg" />
+  	<meta property="og:image" content="https://41.media.tumblr.com/709bb3c371b9924add351bfe3386e946/tumblr_nxdq8uFdx81qzocgko1_1280.jpg" />
   	<meta property="og:type" content="website" />
   {% endif %}
 
