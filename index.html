@@ -14,9 +14,11 @@ layout: default
           <h2>
             <a class="post-link entry-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           </h2>
-          <p>
-            {% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}
-          </p>
+            {% if page.excerpt %}
+            <p>
+              {{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}
+            </p>
+            {{% endif %}}
         </div>
         {% if post.image %}
           <div class="post-image">
