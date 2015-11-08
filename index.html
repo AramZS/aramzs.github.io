@@ -22,7 +22,7 @@ layout: default
         </div>
         {% if post.image %}
           <div class="post-image">
-            <img alt="{{ post.title }}" src="{{ post.image }}" />
+            <a href="{{ post.url | prepend: site.baseurl }}" ><img alt="{{ post.title }}" src="{{ post.image }}" /></a>
           </div>
         {% endif %}
       </article>
