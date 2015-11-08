@@ -170,6 +170,17 @@ article.post {
     &:after {
         @extend %clearfix;
     }
+
+    .post-header {
+        float: left;
+    }
+
+    .post-image {
+        float: right;
+        img {
+            max-height: 150px;
+        }
+    }
 }
 
 /**
