@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-<article class="post single" itemscope itemtype="http://schema.org/BlogPosting">
+<article class="post single {% if page.image %}post-with-image{% endif %}" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="post-header {% if page.image %}image-header{% endif %}">
+  <header class="post-header">
   	<div class="title-box">
     	<h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
 	</div>
