@@ -269,6 +269,14 @@
         position: relative;
     }
 
+    .title-box {
+        position: absolute;
+        bottom: 20px;
+        z-index: 2;
+        width: 90%;
+        left: 10px;
+    }
+
     .post-title {
         font-size: 42px;
         letter-spacing: -1px;
@@ -276,11 +284,6 @@
         background: transparent;
         color: black;
 
-        position: absolute;
-        bottom: 20px;
-        z-index: 2;
-        width: 90%;
-        left: 10px;
         background-color: white;
         box-shadow: 10px 0 0 #fff, -10px 0 0 #fff;
 
@@ -289,6 +292,11 @@
         -ms-box-decoration-break: clone;
         -o-box-decoration-break: clone;
         box-decoration-break: clone;
+
+        white-space: pre-wrap;
+        display: inline;
+        position: relative;
+        padding: 8px;
 
         @include media-query($on-laptop) {
             font-size: 36px;

@@ -4,7 +4,9 @@ layout: default
 <article class="post single" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+  	<div class="title-box">
+    	<h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+	</div>
     {% if page.image %}
       <div class="post-image">
         <img alt="{{ page.title }}" src="{{ page.image }}" />
