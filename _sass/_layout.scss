@@ -279,6 +279,7 @@
 
     .post-title {
         font-size: 42px;
+        line-height: 55px;
         letter-spacing: -1px;
         line-height: 1;
         background: transparent;
@@ -296,10 +297,11 @@
         white-space: pre-wrap;
         display: inline;
         position: relative;
-        padding: 2px;
+        padding: 0;
 
         @include media-query($on-laptop) {
             font-size: 36px;
+            line-height: 49px;
         }
     }
 
