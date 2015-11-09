@@ -277,12 +277,18 @@
         color: black;
 
         position: absolute;
-        bottom: -20px;
+        bottom: 20px;
         z-index: 2;
         width: 90%;
-        left: -10px;
+        left: 10px;
         background-color: white;
         box-shadow: 10px 0 0 #fff, -10px 0 0 #fff;
+
+        display: inline;
+        -webkit-box-decoration-break: clone;
+        -ms-box-decoration-break: clone;
+        -o-box-decoration-break: clone;
+        box-decoration-break: clone;
 
         @include media-query($on-laptop) {
             font-size: 36px;
