@@ -261,7 +261,7 @@
     }
 }
 
-.single {
+.single .image-header {
     .post-header {
         margin-bottom: $spacing-unit;
         width: 100%;
@@ -271,7 +271,7 @@
 
     .title-box {
         position: absolute;
-        bottom: 20px;
+        bottom: 40px;
         z-index: 2;
         width: 90%;
         left: 10px;
@@ -296,7 +296,7 @@
         white-space: pre-wrap;
         display: inline;
         position: relative;
-        padding: 8px;
+        padding: 2px;
 
         @include media-query($on-laptop) {
             font-size: 36px;

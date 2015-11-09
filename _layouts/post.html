@@ -3,7 +3,7 @@ layout: default
 ---
 <article class="post single" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="post-header">
+  <header class="post-header {% if page.image %}image-header{% endif %}">
   	<div class="title-box">
     	<h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
 	</div>
