@@ -273,16 +273,23 @@
         font-size: 42px;
         letter-spacing: -1px;
         line-height: 1;
-        background-color: white;
+        background: transparent;
         color: black;
 
         position: absolute;
-        bottom: -71px;
+        bottom: -20px;
         z-index: 2;
         width: 90%;
-        left: -37px;
+        left: -10px;
+        background-color: white;
+        box-shadow: 10px 0 0 #fff, -10px 0 0 #fff;
+
         @include media-query($on-laptop) {
             font-size: 36px;
         }
+    }
+
+    .post-content {
+
     }
 }
