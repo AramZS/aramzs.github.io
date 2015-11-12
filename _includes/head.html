@@ -12,7 +12,6 @@
 
   <meta name="author" content="Aram Zucker-Scharff" />
 
-  <meta property="article:author" content="https://www.facebook.com/aramzs" />
   <meta property="og:title" content="{% if page.title %}{{ page.title | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.title }}{% endif %}">
   <meta property="og:site_name" content="{{ site.title }}" />
   <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
@@ -29,8 +28,9 @@
   		<meta property="article:modified_time" content="{{page.modified}}" />
   	{% endif %}
   	<meta property="article:author" content="http://facebook.com/aramzs" />
+    <meta property="article:publisher" content="https://www.facebook.com/aramzs" />
   	<meta property="article:section" content="{{page.vertical}}" />
-  	{% for tag in page.categories | split:" " %}
+  	{% for tag in page.categories %}
   		<meta property="article:tag" content="{{tag}}" />
   	{% endfor %}
 

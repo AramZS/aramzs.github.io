@@ -279,9 +279,9 @@
 
     .post-title {
         font-size: 42px;
-        line-height: 55px;
+        //line-height: 55px;
         letter-spacing: -1px;
-        line-height: 1;
+        line-height: 1.4;
         background: transparent;
         color: black;
 
@@ -303,6 +303,10 @@
             font-size: 36px;
             line-height: 49px;
         }
+    }
+
+    .highlight {
+      overflow-wrap: break-word;
     }
 
     .post-content {
