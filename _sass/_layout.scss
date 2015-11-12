@@ -173,11 +173,21 @@
     }
 
     .post-header {
+        width: 100%;
         float: left;
+        margin-bottom: 2px;
+        &:after {
+            @extend %clearfix;
+        }
+    }
+
+    .post-preview {
+
     }
 
     .post-image {
         float: right;
+        margin-left: 10px;
         img {
             max-height: 150px;
         }
