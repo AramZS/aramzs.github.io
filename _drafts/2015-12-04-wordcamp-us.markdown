@@ -114,7 +114,7 @@ WordCampUS : opensource
 		- Share the same lexical `this` as the surrounding code.
 	- Javascript gets default parameters.
 		- Rest parameters - all the rest of the parameters after defined defaults go into array `...a`.
-	- #wpFutureStack
+	- [\#wpFutureStack][hash-search-wpfuturestack]
 
 
 # Random Notes
