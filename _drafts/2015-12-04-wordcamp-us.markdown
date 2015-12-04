@@ -237,6 +237,7 @@ WordCampUS : opensource
 	- Related posts and search over multiple sites.
 - GlotPress
 	- Find similar strings that have been translated.
+- Additional data about images in the API.
 
 # Random Notes
 
