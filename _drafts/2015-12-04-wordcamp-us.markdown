@@ -274,7 +274,10 @@ WordCampUS : opensource
 
 # Session 10 - Advanced Topics in WordPress Development - Andrew Nacin (@nacin)
 
-- 
+- "We don't want users to experience pain when they don't have to ... so we handle the edge case."
+- We do break things but we figure out the most graceful, least intrusive way to do so
+- We're not trying to break your plugins.
+- Wrote a unit test to check to make sure that there are no ampersands in a JS file. 
 
 # Random Notes
 
