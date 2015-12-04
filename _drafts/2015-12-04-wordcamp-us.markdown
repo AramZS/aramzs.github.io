@@ -128,12 +128,22 @@ WordCampUS : opensource
 	- "waiting for a doorknob to grow before you can use the door" no more!
 	- Now you have all these different states that the UI can be in. How to manage it?
 	- Editor UI States?
+	- Viewable all on [GitHub][calypso-github]
 - React benefits
 	- Small API that is easy to learn.
 	- No need for a separate template language. Embrace Javascript
 	- Events are bound as element properties which limits need for DOM traversal.
 	- Composition of components is simple and first-class.
-	- 
+	- http://rauchg.com/2015/pure-ui
+	- JSX
+	- They compile with [Webpack][webpack] and [Babel][babel].
+	- Components instead of Progressive enhancement
+		- Create little packages of components, including encapsulating SASS
+		- Sass goes with small components.
+- Components become semantics
+	- You create a syntax for your site
+- Live components gallery in Calypso
+- A [Boilerplate for WP plugins][wp-react-boilerplate]
 
 # Random Notes
 
@@ -153,3 +163,5 @@ WordCampUS : opensource
 [future-stack]:https://2015.us.wordcamp.org/session/the-future-stack-running-wordpress-with-tomorrows-technologies/
 [react-wp-session]:https://2015.us.wordcamp.org/session/react-wordpress/
 [calypso]:http://developer.wordpress.com/calypso
+[calypso-github]:https://github.com/Automattic/wp-calypso
+[wp-react-boilerplate]:https://github.com/gcorne/wp-react-boilerplate
