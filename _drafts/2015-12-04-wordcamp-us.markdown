@@ -205,6 +205,12 @@ WordCampUS : opensource
 - Analytics engine
 - Multi-lingual
 - Think about it as a funhouse mirror, a different way to store data.
+- Pagely, VIA and WP Engine are all using with WP. As are a number of agencies, alley, and 10up.
+- Six main use cases.
+- Site Search
+	- Better than built in search.
+	- Easier to do faceted (filtered-down) searching.
+	- 
 
 # Random Notes
 
