@@ -239,6 +239,10 @@ WordCampUS : opensource
 	- Find similar strings that have been translated.
 - Additional data about images in the API.
 
+# Session 9 - [Introduction to WordPress unit testing][https://2015.us.wordcamp.org/session/introduction-to-wordpress-unit-testing/] - Carl Alexander (@)
+
+- 
+
 # Random Notes
 
 - AeroPress for good french press coffee
