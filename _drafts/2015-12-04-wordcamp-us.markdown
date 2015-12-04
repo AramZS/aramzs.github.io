@@ -171,6 +171,7 @@ WordCampUS : opensource
 - Added an event handler to route visitors that click on our logo image in the header to send back to home page.
 - Add logic to handle posts into its own JS file, have the homepage write that script.
 - Puts the post ID on a div.
+- In the API you have to keep the resources separate. Base the `&_embed` object to get a lot of the extra data and get post by post name. 
 
 # Random Notes
 
