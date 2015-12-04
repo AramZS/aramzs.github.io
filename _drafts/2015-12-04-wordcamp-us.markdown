@@ -159,7 +159,18 @@ WordCampUS : opensource
 # Session 6 - [Build a Theme with the REST API][rest-theme-session] - Rachel Baker (@rachelbaker)
 
 - https://speakerdeck.com/rachelbaker/build-a-theme-with-the-wp-rest-api
-- 
+- Why?
+	- Because you can
+	- Your content needs to update or change dynamically.
+	- You want to separate your business logic from your views.
+- Using jQuery, Underscore.js and Director for routing.
+- Includes `wp_head()` to hook styles and scripts.
+- Uses the `aria-live="assertive"` to tell screen readers to pay attention to what changes in the js-data window.
+- Declares 3 routs. One of home, one for page, one for single posts. (All URL and permalink building occurs here)
+- `site/wp-json` will list all the routes.
+- Added an event handler to route visitors that click on our logo image in the header to send back to home page.
+- Add logic to handle posts into its own JS file, have the homepage write that script.
+- Puts the post ID on a div.
 
 # Random Notes
 
