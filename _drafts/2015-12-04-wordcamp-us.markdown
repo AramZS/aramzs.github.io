@@ -66,32 +66,65 @@ WordCampUS : opensource
 	- [WP Migrate DB (PRO)][migrate-db-plugin]
  - Invest the time in the beginning of a project to put good tools into place ... [things] will go a lot more smoothly.
  - "I don't commit compiled javascript"
-  - Repositories are only for code that is touched by human hands.
+	- Repositories are only for code that is touched by human hands.
 
 # Session 3 - [The Future Stack][future-stack] - Zack Tollman (@tollmanz), Aaron Jorbin (@aaronjorbin)
 
-	- PHP7 came out yesterday!
-	- Facebook pushed out HHVM, cool stuff, lets you run Hack, fast.
-	- PHP7 got pushed to get their shit together.
-	- PHP7 overhalls the internals of PHP, everything is faster, 2-3x faster.
-	- WordPress will warn you with depreciation notices.
-	- Variable variables has altered
-		 - Expressions will always be processed left to right.
-		 - `$$a['b'][$c]`
-	- List function will now go left to right, no longer accept empty variables.
-	- HTTP/2
-		- First major HTTP upgrade in a long time.
-		- It's a new web which needs a new HTTP
-		- Much faster. It does this by trying to manage latency. 
+- PHP7 came out yesterday!
+- Facebook pushed out HHVM, cool stuff, lets you run Hack, fast.
+- PHP7 got pushed to get their shit together.
+- PHP7 overhalls the internals of PHP, everything is faster, 2-3x faster.
+- WordPress will warn you with depreciation notices.
+- Variable variables has altered
+	 - Expressions will always be processed left to right.
+	 - `$$a['b'][$c]`
+- List function will now go left to right, no longer accept empty variables.
+- New WordPress works great with HTTP/2
+	- First major HTTP upgrade in a long time.
+	- It's a new web which needs a new HTTP
+	- Much faster. It does this by trying to manage latency.
+	- Handles latency better with multiplexing.
+- Your CSS - CSS4, not around yet, but the CSS working group is starting to put together the specs that will be the future of CSS
+	- `:read-`
+	- `:read-only`
+	- `:write`
+	- `:nth-match` (not yet supported anywhere)
+	- `:nth-last-` (not yet supported anywhere)
+	- `color()` function, native, with no pre-compile step, in the future of CSS. No browsers yet support this.
+	- Custom properties for cascading variables - native setting of CSS variables.
+- HTTPS:
+	- IETF - "Pervasive monitoring is an attack"
+	- Some browser APIs are HTTPS only.
+	- WordPress loves HTTPS.
+	- Hardest is migrating HTTP to HTTPS.
+	- Move to HTTPS can programmatically move people to HTTPS.
+	- [Let's Encrypt][lets-encrypt] - get free certificates.
+	- ACME - protocol for RESTful HTTP interface for certificate management and issuance.
+	- `wp cert new` in the works.
+- ECMAScript6 / Javascript2015
+	- New update.
+	- More modular.
+	- new Promises
+		- Pending
+		- Resolved
+		- Rejected
+		- Append to promises!
+		- Babel - Javascript compiler that lets you use tomorrow's javascript today.
+	- Arrow functions.
+		- Share the same lexical `this` as the surrounding code.
+	- Javascript gets default parameters.
+		- Rest parameters - all the rest of the parameters after defined defaults go into array `...a`.
+	- 
+
 
 # Random Notes
 
-	- AeroPress for good french press coffee
-	- Should grind right before you make.
-	- Pourover method.
-		- Hario makes best pourover containers.
-	- Crazy method - Vacuum siphon method
-	- March coffee festival in Brooklyn.
+- AeroPress for good french press coffee
+- Should grind right before you make.
+- Pourover method.
+	- Hario makes best pourover containers.
+- Crazy method - Vacuum siphon method
+- March coffee festival in Brooklyn.
 
 
 
