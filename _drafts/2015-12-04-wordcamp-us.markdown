@@ -25,7 +25,9 @@ WordCampUS : opensource
  - Dwell on your praise - at Automattic, they get hugs from customers and send compliments to each other internally.
  - Don't be afraid to share your knowledge.
 
-# Session 2 - [Developers Toolbox][dev-tools] - Tracy Rotton
+# Session 2 - [Developers Toolbox][dev-tools] - Tracy Rotton (@taupecat)
+
+ - Slides: http://taupecat.github.io/wordpress-toolbox
 
 
 [techie-continuum]: https://2015.us.wordcamp.org/session/the-techie-continuum/
