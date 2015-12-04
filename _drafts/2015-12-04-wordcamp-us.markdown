@@ -229,7 +229,14 @@ WordCampUS : opensource
 		- Dumps anything into the ES log.
 	- Uses with Kibana.
 - Content Reranking
-	- 
+	- We know this user, show them what they want, not just the general stuff.
+	- ES supports lat and long to rank based on distance.
+	- Show readers articles that are local to them.
+- Break the blog boundary.
+	- Through a ton of blogs into one big ES index to make searching and filtering easier.
+	- Related posts and search over multiple sites.
+- GlotPress
+	- Find similar strings that have been translated.
 
 # Random Notes
 
