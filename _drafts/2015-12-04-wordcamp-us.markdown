@@ -239,9 +239,10 @@ WordCampUS : opensource
 	- Find similar strings that have been translated.
 - Additional data about images in the API.
 
-# Session 9 - [Introduction to WordPress unit testing][https://2015.us.wordcamp.org/session/introduction-to-wordpress-unit-testing/] - Carl Alexander (@)
+# Session 9 - [Introduction to WordPress unit testing][unit-testing-standards] - Carl Alexander (@twigpress)
 
-- 
+- Unit testing - at the smallest scale.
+- Constant behavior, safety net. 
 
 # Random Notes
 
@@ -268,3 +269,4 @@ WordCampUS : opensource
 [director-routing]:https://github.com/flatiron/director
 [rest-in-action]:https://2015.us.wordcamp.org/session/rest-in-action-the-live-coverage-platform-at-the-new-york-times/
 [elasticsearch-session]:https://2015.us.wordcamp.org/session/a-survey-of-elasticsearch-usage/
+[unit-testing-standards]:https://2015.us.wordcamp.org/session/introduction-to-wordpress-unit-testing/
