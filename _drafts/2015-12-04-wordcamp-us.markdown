@@ -39,33 +39,35 @@ WordCampUS : opensource
 	  - Environments can be created or destroyed at will.
 	  - Good starter Vagrant for WP development - [Varying Vagrant Vagrants][vvv]
  - Package Managers
-	  - Composer - package manager for PHP
-	  - NPM - we're using it to install more libraries!
-	  - Bower - We're using it to install Sass libraries, FontAwesome
+	  - [Composer][composer] - package manager for PHP
+	  - [NPM][npm] - we're using it to install more libraries!
+	  - [Bower][bower] - We're using it to install Sass libraries, [FontAwesome][fontawesome]
 	  - Don't forget that a number of packages come with WordPress and you don't need to install them.
  - Javascript task runners
 	  - Convert Sass
 	  - Check your Javascript for errors
 	  - Deploy to AWS
-	  - Gulp vs Grunt
+	  - [Gulp][gulp] vs [Grunt][grunt]
 		   - Gulp has more complexity available.
 		   - Also Brunch and Broccoli in the third tier
- - WP-CLI
+ - [WP-CLI][wpcli]
     - Anything you can do on the commandline you can script.
- - "\_s"
+ - ["\_s"][s]
     - Starter theme for WordPress
     - Takes care of a lot of basics.
- - WordPress Plugin Boilerplate
+ - [WordPress Plugin Boilerplate][plugin-boilerplate]
     - Blank scaffold of Plugin best practices.
  - What belongs in my theme and what belongs in a custom plugin?
  - Plugin tools
- 	- Theme Check
-	- Debug Bar
-	- Regenerate Thumbnails
-	- WP Migrate DB (PRO)
- - Invest the time in the beginning of a project to put good tools into place ... [things] will go a lot more smoothly. 
+	- [Show Template][show-template-plugin]
+	- [Theme Check][theme-check-plugin]
+	- [Debug Bar][debug-bar-plugin]
+	- [Regenerate Thumbnails][regenerate-thumbnails-plugin]
+	- [WP Migrate DB (PRO)][migrate-db-plugin]
+ - Invest the time in the beginning of a project to put good tools into place ... [things] will go a lot more smoothly.
 
 
 [techie-continuum]: https://2015.us.wordcamp.org/session/the-techie-continuum/
 [dev-tools]: https://2015.us.wordcamp.org/session/the-modern-wordpress-developers-toolbox/
 [vvv]: http://github.com/
+[show-template-plugin]: https://wordpress.org/plugins/show-template/
