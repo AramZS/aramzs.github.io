@@ -116,6 +116,9 @@ WordCampUS : opensource
 		- Rest parameters - all the rest of the parameters after defined defaults go into array `...a`.
 	- [\#wpFutureStack][hash-search-wpfuturestack]
 
+# Session 4 - [React + WordPress][react-wp-session] - Matías Ventura (@matias_ventura), Gregory Cornelius (@gcorne)
+
+- 
 
 # Random Notes
 
@@ -133,3 +136,4 @@ WordCampUS : opensource
 [vvv]: http://github.com/
 [show-template-plugin]: https://wordpress.org/plugins/show-template/
 [future-stack]:https://2015.us.wordcamp.org/session/the-future-stack-running-wordpress-with-tomorrows-technologies/
+[react-wp-session]:https://2015.us.wordcamp.org/session/react-wordpress/
