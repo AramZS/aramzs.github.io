@@ -148,6 +148,13 @@ WordCampUS : opensource
 - A [Boilerplate for WP plugins][wp-react-boilerplate]
 - Take a look at React Native
 
+# Session 5 - [Intent in Software Design][intent-software] - Helen Hou-Sandí (@helenhousandi)
+
+- Naming is hard, but very very important.
+- `.wp-core-ui` Javascript from core that could be front or back end.
+- Be Intentional
+- "Backwards compatibility is not just about accommodating the past but deliberately considering the future."
+
 # Random Notes
 
 - AeroPress for good french press coffee
@@ -168,3 +175,4 @@ WordCampUS : opensource
 [calypso]:http://developer.wordpress.com/calypso
 [calypso-github]:https://github.com/Automattic/wp-calypso
 [wp-react-boilerplate]:https://github.com/gcorne/wp-react-boilerplate
+[intent-software]:https://2015.us.wordcamp.org/session/intent-in-software-design/
