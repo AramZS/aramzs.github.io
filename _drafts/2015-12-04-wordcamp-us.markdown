@@ -163,7 +163,7 @@ WordCampUS : opensource
 	- Because you can
 	- Your content needs to update or change dynamically.
 	- You want to separate your business logic from your views.
-- Using jQuery, Underscore.js and Director for routing.
+- Using jQuery, Underscore.js and [Director][director-routing] for routing.
 - Includes `wp_head()` to hook styles and scripts.
 - Uses the `aria-live="assertive"` to tell screen readers to pay attention to what changes in the js-data window.
 - Declares 3 routs. One of home, one for page, one for single posts. (All URL and permalink building occurs here)
@@ -171,7 +171,11 @@ WordCampUS : opensource
 - Added an event handler to route visitors that click on our logo image in the header to send back to home page.
 - Add logic to handle posts into its own JS file, have the homepage write that script.
 - Puts the post ID on a div.
-- In the API you have to keep the resources separate. Base the `&_embed` object to get a lot of the extra data and get post by post name. 
+- In the API you have to keep the resources separate. Base the `&_embed` object to get a lot of the extra data and get post by post name.
+
+# Session 7 - [REST in Action: The Live Coverage Platform at the New York Times][https://2015.us.wordcamp.org/session/rest-in-action-the-live-coverage-platform-at-the-new-york-times/] - Scott Taylor (@wonderboymusic)
+
+- 
 
 # Random Notes
 
@@ -195,3 +199,4 @@ WordCampUS : opensource
 [wp-react-boilerplate]:https://github.com/gcorne/wp-react-boilerplate
 [intent-software]:https://2015.us.wordcamp.org/session/intent-in-software-design/
 [rest-theme-session]:https://2015.us.wordcamp.org/session/build-a-theme-with-the-rest-api/
+[director-routing]:https://github.com/flatiron/director
