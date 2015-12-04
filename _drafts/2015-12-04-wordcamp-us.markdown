@@ -12,6 +12,8 @@ excerpt: "Notes!"
 
 WordCampUS : opensource
 
+## Friday
+
 # First Lightning Talk - Project Management in WordPress with Sarah Pressler (@sarahpressler)
 
  - Team Leadership
