@@ -17,7 +17,13 @@ WordCampUS : opensource
  - Team Leadership
  - "If you can handle being yelled at, you'll probably make a good project manager."
 
-# Second Lightning Talk -
+# Second Lightning Talk - [The Techie Continuum][techie-continuum] - Kathryn Presner
 
  - Do I know enough? A question many of us ask ourselves.
  - "I'm not a techie" but I share tech knowledge and people come to me for tech advices.
+ - Nightmare - fired before hired.
+ - Dwell on your praise - at Automattic, they get hugs from customers and send compliments to each other internally.
+ - Don't be afraid to share your knowledge.
+
+
+[techie-continuum]: https://2015.us.wordcamp.org/session/the-techie-continuum/
