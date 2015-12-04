@@ -65,6 +65,19 @@ WordCampUS : opensource
 	- [Regenerate Thumbnails][regenerate-thumbnails-plugin]
 	- [WP Migrate DB (PRO)][migrate-db-plugin]
  - Invest the time in the beginning of a project to put good tools into place ... [things] will go a lot more smoothly.
+ - "I don't commit compiled javascript"
+  - Repositories are only for code that is touched by human hands.
+
+
+# Random Notes
+
+	- AeroPress for good french press coffee
+	- Should grind right before you make.
+	- Pourover method.
+		- Hario makes best pourover containers.
+	- Crazy method - Vacuum siphon method
+	- March coffee festival in Brooklyn.
+
 
 
 [techie-continuum]: https://2015.us.wordcamp.org/session/the-techie-continuum/
