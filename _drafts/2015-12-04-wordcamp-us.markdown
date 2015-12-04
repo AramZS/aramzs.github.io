@@ -242,7 +242,13 @@ WordCampUS : opensource
 # Session 9 - [Introduction to WordPress unit testing][unit-testing-standards] - Carl Alexander (@twigpress)
 
 - Unit testing - at the smallest scale.
-- Constant behavior, safety net. 
+- Constant behavior, safety net.
+- Isolation is the most important part.
+	- Need test bubbles - surrounds your code - what is your code doing?
+	- Not the same as WordPress test suites - which is integration testing.
+		- Not about isolation.
+- Unix based OS.
+- 
 
 # Random Notes
 
