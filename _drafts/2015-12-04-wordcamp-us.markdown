@@ -118,7 +118,22 @@ WordCampUS : opensource
 
 # Session 4 - [React + WordPress][react-wp-session] - Matías Ventura (@matias_ventura), Gregory Cornelius (@gcorne)
 
-- 
+- "The UI helps people understand and interact with the content, but never competes with it."
+- "The illusion of speed, that everything is right there immediately."
+- Real time-ier.
+- A declarative view layer!
+- [Calypso][calypso]
+	- The WP Admin as a single page application.
+	- Really allows you to craft all the flows in a way that is much more smooth.
+	- "waiting for a doorknob to grow before you can use the door" no more!
+	- Now you have all these different states that the UI can be in. How to manage it?
+	- Editor UI States?
+- React benefits
+	- Small API that is easy to learn.
+	- No need for a separate template language. Embrace Javascript
+	- Events are bound as element properties which limits need for DOM traversal.
+	- Composition of components is simple and first-class.
+	- 
 
 # Random Notes
 
@@ -137,3 +152,4 @@ WordCampUS : opensource
 [show-template-plugin]: https://wordpress.org/plugins/show-template/
 [future-stack]:https://2015.us.wordcamp.org/session/the-future-stack-running-wordpress-with-tomorrows-technologies/
 [react-wp-session]:https://2015.us.wordcamp.org/session/react-wordpress/
+[calypso]:http://developer.wordpress.com/calypso
