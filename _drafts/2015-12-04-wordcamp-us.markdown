@@ -210,7 +210,19 @@ WordCampUS : opensource
 - Site Search
 	- Better than built in search.
 	- Easier to do faceted (filtered-down) searching.
-	- 
+	- Missing
+		- Search is not just about posts
+		- How to answer questions?
+		- Instant results
+		- Highlighted results
+		- Auto complete
+- Related Posts - very effective.
+	- Increased click-through rate by about .5%, a big deal.
+- Replace WP_Query
+	- ElasticPress
+	- ES_WP_Query
+	- Very popular way to solve scaling problems.
+	
 
 # Random Notes
 
