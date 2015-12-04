@@ -260,6 +260,20 @@ WordCampUS : opensource
 - All functions must be pre-fixed with `test_`.
 - Mock = test double.
 	- Simulate the function or object to verify how you interact with it.
+	- `expect` to get get called once with the param, if so, it returns X.
+	- Works with get_option.
+- Sometimes you want an array from an option.
+- Write the failure case first, then make the code to not fail.
+- `equalTo` vs `identicalTo` is the diff of `==` to `===`
+	- "Constraint that asserts that one value is identical to another."
+- Keep doing it and turn it into a habit.
+- https://carlalexander.ca/introduction-wordpress-unit-testing/
+- https://github.com/carlalexander/wordpress-unit-test-demo
+- Unit testing makes more sense alongside biz logic.
+- What you really want to test is "am I insane?"
+
+# Session 10 - Advanced Topics in WordPress Development - Andrew Nacin (@nacin)
+
 - 
 
 # Random Notes
