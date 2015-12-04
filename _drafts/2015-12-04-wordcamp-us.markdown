@@ -28,6 +28,11 @@ WordCampUS : opensource
 # Session 2 - [Developers Toolbox][dev-tools] - Tracy Rotton (@taupecat)
 
  - Slides: http://taupecat.github.io/wordpress-toolbox
+ - Revision control is very important, Git is the way to go.
+  - There are alternatives to Git, WordPress has used Subversion for a long time but is slowly switching to git.
+  - Repository options: GitHub, Beanstalk, Atlassian Bitbucket, AWS CodeCommit
+ - `define( 'DISALLOW_FILE_EDIT', true );` - Set this up so no changes can be done outside of git revisions.
+ 
 
 
 [techie-continuum]: https://2015.us.wordcamp.org/session/the-techie-continuum/
