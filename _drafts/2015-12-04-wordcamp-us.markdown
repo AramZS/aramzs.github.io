@@ -173,9 +173,38 @@ WordCampUS : opensource
 - Puts the post ID on a div.
 - In the API you have to keep the resources separate. Base the `&_embed` object to get a lot of the extra data and get post by post name.
 
-# Session 7 - [REST in Action: The Live Coverage Platform at the New York Times][https://2015.us.wordcamp.org/session/rest-in-action-the-live-coverage-platform-at-the-new-york-times/] - Scott Taylor (@wonderboymusic)
+# Session 7 - [REST in Action: The Live Coverage Platform at the New York Times][rest-in-action] - Scott Taylor (@wonderboymusic)
 
-- 
+- NYT Wordpress now has a number of legacy blogs, First Draft, Internal Corporate sites, NYT Co. (Brand Site), Women of the World, Times Journeys, Live Coverage platform, and some forthcoming international projects.
+- At height of blogging at NYT, 80 blogs were active. A lot used live blogging, which was a totally seperate code-base.
+- NYT5
+	- requires Vagrant
+	- apps are git repos that require Grunt to transpile.
+	- CSS compiles from SASS
+	- JS compiles with Require.js
+	- Used composer.
+	- Had to point at NYT5 blogs app, pipe that to WordPress
+	- Globals are bad.
+	- Each page type is an app.
+- No day archives in the NYT system.
+- Use Heartbeat to pull latest posts into the side of the input area (so you can see as you blog).
+	- nytimes.com/live/...
+	- Backbone app that uses the REST API
+	- React puts in live posts.
+	- Updates are added from the backend, or via Slack which then pushes to a custom service that handles websockets.
+- WordPress becomes a web service.
+	- Transition to a less monolithic mindset.
+	- Storage mount that is front-end via Varnish and Akami, JSON response from WP is dumped into that.
+- Fire and Forget where we only post content we need.
+- Custom endpoints on save_post to push out and cache data.
+- Amazon SMS topic that they post to, as part of fire and forget. They send an event to the SMS queue and listening to that is a team that dynamically updates content and optimizes.
+
+# Session 8 - [A Survey of Elasticsearch Usage][elasticsearch-session] - Greg Brown (@gregibrown)
+
+- Search engine that is distributed and scalable.
+- Analytics engine
+- Multi-lingual
+- Think about it as a funhouse mirror, a different way to store data.
 
 # Random Notes
 
@@ -200,3 +229,5 @@ WordCampUS : opensource
 [intent-software]:https://2015.us.wordcamp.org/session/intent-in-software-design/
 [rest-theme-session]:https://2015.us.wordcamp.org/session/build-a-theme-with-the-rest-api/
 [director-routing]:https://github.com/flatiron/director
+[rest-in-action]:https://2015.us.wordcamp.org/session/rest-in-action-the-live-coverage-platform-at-the-new-york-times/
+[elasticsearch-session]:https://2015.us.wordcamp.org/session/a-survey-of-elasticsearch-usage/
