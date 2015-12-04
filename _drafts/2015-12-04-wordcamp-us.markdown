@@ -247,7 +247,19 @@ WordCampUS : opensource
 	- Need test bubbles - surrounds your code - what is your code doing?
 	- Not the same as WordPress test suites - which is integration testing.
 		- Not about isolation.
-- Unix based OS.
+- Needs
+	- Unix based OS.
+	- PHP5.3 for code (for namespaces), 5.4 for the tests (for traits)
+	- Composer
+	- WP-CLI
+- WP-CLI: `wp scaffold plugin unit-tested-plugin`
+- Add composer.json (package manager)
+- require-dev - we need this library only when we're developing.
+- require the composer autoloader
+- 10up has WPMock, which is a little more limited.
+- All functions must be pre-fixed with `test_`.
+- Mock = test double.
+	- Simulate the function or object to verify how you interact with it.
 - 
 
 # Random Notes
