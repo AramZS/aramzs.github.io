@@ -68,6 +68,9 @@ WordCampUS : opensource
  - "I don't commit compiled javascript"
   - Repositories are only for code that is touched by human hands.
 
+# Session 3 - [The Future Stack][future-stack] - Zack Tollman (@tollmanz), Aaron Jorbin (@aaronjorbin)
+
+	- 
 
 # Random Notes
 
@@ -84,3 +87,4 @@ WordCampUS : opensource
 [dev-tools]: https://2015.us.wordcamp.org/session/the-modern-wordpress-developers-toolbox/
 [vvv]: http://github.com/
 [show-template-plugin]: https://wordpress.org/plugins/show-template/
+[future-stack]:https://2015.us.wordcamp.org/session/the-future-stack-running-wordpress-with-tomorrows-technologies/
