@@ -27,7 +27,7 @@ WordCampUS : opensource
 
 # Session 2 - [Developers Toolbox][dev-tools] - Tracy Rotton (@taupecat)
 
- - Slides: http://taupecat.github.io/wordpress-toolbox
+ - [Slides][http://taupecat.github.io/wordpress-toolbox]
  - Revision control is very important, Git is the way to go.
 	  - There are alternatives to Git, WordPress has used Subversion for a long time but is slowly switching to git.
 	  - Repository options: GitHub, Beanstalk, Atlassian Bitbucket, AWS CodeCommit
@@ -61,7 +61,9 @@ WordCampUS : opensource
  - Plugin tools
  	- Theme Check
 	- Debug Bar
-	- 
+	- Regenerate Thumbnails
+	- WP Migrate DB (PRO)
+ - Invest the time in the beginning of a project to put good tools into place ... [things] will go a lot more smoothly. 
 
 
 [techie-continuum]: https://2015.us.wordcamp.org/session/the-techie-continuum/
