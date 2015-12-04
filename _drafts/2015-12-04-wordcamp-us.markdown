@@ -70,7 +70,19 @@ WordCampUS : opensource
 
 # Session 3 - [The Future Stack][future-stack] - Zack Tollman (@tollmanz), Aaron Jorbin (@aaronjorbin)
 
-	- 
+	- PHP7 came out yesterday!
+	- Facebook pushed out HHVM, cool stuff, lets you run Hack, fast.
+	- PHP7 got pushed to get their shit together.
+	- PHP7 overhalls the internals of PHP, everything is faster, 2-3x faster.
+	- WordPress will warn you with depreciation notices.
+	- Variable variables has altered
+		 - Expressions will always be processed left to right.
+		 - `$$a['b'][$c]`
+	- List function will now go left to right, no longer accept empty variables.
+	- HTTP/2
+		- First major HTTP upgrade in a long time.
+		- It's a new web which needs a new HTTP
+		- Much faster. It does this by trying to manage latency. 
 
 # Random Notes
 
