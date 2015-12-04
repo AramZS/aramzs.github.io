@@ -32,8 +32,28 @@ WordCampUS : opensource
   - There are alternatives to Git, WordPress has used Subversion for a long time but is slowly switching to git.
   - Repository options: GitHub, Beanstalk, Atlassian Bitbucket, AWS CodeCommit
  - `define( 'DISALLOW_FILE_EDIT', true );` - Set this up so no changes can be done outside of git revisions.
- 
+ - Vagrant
+  - A computer inside your computer.
+  - Can be configured with code.
+  - Allows for closer match with the production environment.
+  - Environments can be created or destroyed at will.
+  - Good starter Vagrant for WP development - [Varying Vagrant Vagrants][vvv]
+ - Package Managers
+  - Composer - package manager for PHP
+  - NPM - we're using it to install more libraries!
+  - Bower - We're using it to install Sass libraries, FontAwesome
+  - Don't forget that a number of packages come with WordPress and you don't need to install them.
+ - Javascript task runners
+  - Convert Sass
+  - Check your Javascript for errors
+  - Deploy to AWS
+  - Gulp vs Grunt
+   - Gulp has more complexity available.
+   - Also Brunch and Broccoli in the third tier
+  - WP-CLI
+   - Anything you can do on the commandline you can script.
 
 
 [techie-continuum]: https://2015.us.wordcamp.org/session/the-techie-continuum/
 [dev-tools]: https://2015.us.wordcamp.org/session/the-modern-wordpress-developers-toolbox/
+[vvv]: http://github.com/
