@@ -154,6 +154,12 @@ WordCampUS : opensource
 - `.wp-core-ui` Javascript from core that could be front or back end.
 - Be Intentional
 - "Backwards compatibility is not just about accommodating the past but deliberately considering the future."
+- Think about more things as very discrete components.
+
+# Session 6 - [Build a Theme with the REST API][rest-theme-session] - Rachel Baker (@rachelbaker)
+
+- https://speakerdeck.com/rachelbaker/build-a-theme-with-the-wp-rest-api
+- 
 
 # Random Notes
 
@@ -176,3 +182,4 @@ WordCampUS : opensource
 [calypso-github]:https://github.com/Automattic/wp-calypso
 [wp-react-boilerplate]:https://github.com/gcorne/wp-react-boilerplate
 [intent-software]:https://2015.us.wordcamp.org/session/intent-in-software-design/
+[rest-theme-session]:https://2015.us.wordcamp.org/session/build-a-theme-with-the-rest-api/
