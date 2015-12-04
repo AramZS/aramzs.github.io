@@ -222,7 +222,14 @@ WordCampUS : opensource
 	- ElasticPress
 	- ES_WP_Query
 	- Very popular way to solve scaling problems.
-	
+- Logstash
+	- Opensource
+	- Imports logs and makes them searchable with ES.
+	- log2logstash()
+		- Dumps anything into the ES log.
+	- Uses with Kibana.
+- Content Reranking
+	- 
 
 # Random Notes
 
