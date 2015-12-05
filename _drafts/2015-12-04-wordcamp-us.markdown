@@ -308,7 +308,25 @@ WordCampUS : opensource
         - Aquire a resource that will be used in the future.
     - Preload puts a resource in the browser cache that will be used later.
     - Prerender - downloads the assets of the DOM before it is even rendered.
-- allenmoore.me/wcus2015
+- https://allenmoore.me/wordcamp-us-2015/
+
+# Session 4 - Lightning 2 - [ARIA: Roles, States and Properties][aria-talk] - Joe Dolson (@joedolson)
+
+- Very important to screen readers
+- But a semantic meta language that can be communicated to other technologies.
+- A group or properties that you can attach to an HTML object
+- Roles - define what function an element serves
+- States defines how you interact with an elementProperties give an element characteristics and relationships
+- Can be used with CSS and JS.
+- Roles can be implicit or explicit.
+- `aria-level=`
+    - Can be redundant, replacement, or modifier.
+    - If level 1, should be h1.
+- `role=`
+- "What ARIA does is it enhances semantics, so it gives more meaning to content."
+- "If you give [an element] that's a lie, you're actually creating confusion"
+- You want to almost always avoid assigning roles that don't have matched interactions actively on the object.
+-
 
 # Random Notes
 
@@ -338,3 +356,4 @@ WordCampUS : opensource
 [unit-testing-standards]:https://2015.us.wordcamp.org/session/introduction-to-wordpress-unit-testing/
 [go-fast]:https://2015.us.wordcamp.org/session/i-wanna-go-fast-advanced-techniques-to-optimize-front-end-performance/
 [api-gamify]:https://2015.us.wordcamp.org/session/gamify-with-the-wordpress-com-api/
+[aria-talk]:https://2015.us.wordcamp.org/session/aria-roles-states-and-properties/
