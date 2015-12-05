@@ -326,7 +326,17 @@ WordCampUS : opensource
 - "What ARIA does is it enhances semantics, so it gives more meaning to content."
 - "If you give [an element] that's a lie, you're actually creating confusion"
 - You want to almost always avoid assigning roles that don't have matched interactions actively on the object.
--
+- `aria-expanded="true"`
+    - Is the menu open?
+- Use aria attributes in styles `#menu-toggle[aria-expanded=true]`
+- `aria-controls="menu-main-menu"`
+    - Tells you what it is controlling.
+    - Use that data to run Javascript to act on the box that the unit controls.
+- `aria-label` substitutes the text of a button so that it reads something else with assistive tech
+- `aria-live` critical to dynamic content, this is an area of the page that might change.
+    - readers load in the DOM to allow someone to navigate it.
+    - `polite` or `assertive`.
+- Really need to get a copy of this presentation.
 
 # Random Notes
 
