@@ -281,12 +281,20 @@ WordCampUS : opensource
 
 ## Saturday
 
-# Session 3 - Gamify With the WordPress.com API - Timmy Crawford (@timmycrawford)
+# Session 3 - Gamify With the [WordPress.com API][api-gamify] - Timmy Crawford (@timmycrawford)
 
 - https://github.com/timmyc/doggfood
 - Leaderboard for posting through the REST API.
 - Can be set up to track progress.
 - Can link to satisfying github issues.
+
+# Session 4 - Lightning 1 - [I Wanna Go Fast: Advanced Techniques To Optimize Front-End Performance][go-fast] - Allen Moore (@creativeallen)
+
+- Speed impacts user experience heavily. (Easy and pleasing to use)
+- Better it deliver easily then attractively
+- User engagement is important. We want users to see our content and ads.
+- Keep header clean.
+    - Use the async attribute on javascript.
 
 
 # Random Notes
@@ -315,3 +323,4 @@ WordCampUS : opensource
 [rest-in-action]:https://2015.us.wordcamp.org/session/rest-in-action-the-live-coverage-platform-at-the-new-york-times/
 [elasticsearch-session]:https://2015.us.wordcamp.org/session/a-survey-of-elasticsearch-usage/
 [unit-testing-standards]:https://2015.us.wordcamp.org/session/introduction-to-wordpress-unit-testing/
+[go-fast]:
