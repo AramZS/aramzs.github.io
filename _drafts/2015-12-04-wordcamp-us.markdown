@@ -373,7 +373,24 @@ WordCampUS : opensource
 
 # Session 6 - [Meeting the New York Times Challenge: delivering the news over HTTPS][news-over-https] - Paul Schreiber (@paulschreiber)
 
--
+- Advertisements from web providers (like airlines) will pop in on top of HTTP pages
+- A certificate can handle a single domain or multiple domains.
+- Wildcard certificates let you have a single certificate for \*.yourdomain.com
+- Have to show organization and domain control through validation.
+- Symantec is a common certificate provider.
+- So is GoDaddy.
+- Resellers will get you a better deal like ssl.com
+- SSL Mate
+- [Let's Encrypt][lets-encrypt]
+- mozilla.gihub.io/serverside-ttls/...
+- github.com/tollmanz/lets-encrypt
+- HTTPS enabled, HTTPS default, HSTS, submit your site to the HSTS preload list.
+- SNI - SHA1 vs SHA2 - all certificates should be signed with SHA2
+- Certificates are valid for a fixed amount of time. Don't forget to renew them.
+- All resources will also need to be served via HTTPS.
+- DoubleClick and Outbrain are the only ads now with HTTPS
+- Social, font and analytics tools serve HTTPS
+- Fastly charges more for HTTPS
 
 # Random Notes
 
