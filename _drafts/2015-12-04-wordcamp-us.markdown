@@ -394,16 +394,29 @@ WordCampUS : opensource
 - loadimpact.com - 1.8x faster just with HTTPS
 - `content-security-policy: upgrade-insecure-requests`
 - `Content-Security-Policy-Report-Only`
-- `//url` is an antipattern, use `https://` instead. Except with iFrames.
+- `//url` is an antipattern, use `https://url` instead. Except with iFrames.
 - HTTPS everywhere chrome extension.
 
-# Session 7 - [Playing well with others: writing solid code in large community projects][community-coding] - Dennis Snell (@)
+# Session 7 - [Playing well with others: writing solid code in large community projects][community-coding] - Dennis Snell (@dmsnell23)
 
 - The secret to WP's success? Community.
 - Act consistently
 - Don't mess with other peoples' stuff
-- Don't go around trying to prove how smart you are. 
+- Don't go around trying to prove how smart you are.
 - "An interesting thing happens when your customer base reaches a certain size: you cease having edge cases." - Jason Fried of Basecamp.
+- Interesting and unexpected ways.
+- Remember that input is aggressive, it's armed and dangerous and we need to force proper behavior and program defensively.
+- Don't underestimate the power of lists.
+    - Eliminate null checking and off by one errors
+- Check the quality and the quantity of the input.
+- Check to make sure that parameters that never happen, never happen.
+- Functions should -
+    - Always return a legitimate value
+    - Return a single type of value
+    - Define failure values.
+- Need failure modes.
+- http://php.net/manual/en/function.list.php
+- 
 
 
 # Random Notes
