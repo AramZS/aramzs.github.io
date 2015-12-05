@@ -281,7 +281,7 @@ WordCampUS : opensource
 
 ## Saturday
 
-# Session 3 - Gamify With the [WordPress.com API][api-gamify] - Timmy Crawford (@timmycrawford)
+# Session 3 - [Gamify With the WordPress.com API][api-gamify] - Timmy Crawford (@timmycrawford)
 
 - https://github.com/timmyc/doggfood
 - Leaderboard for posting through the REST API.
@@ -295,7 +295,20 @@ WordCampUS : opensource
 - User engagement is important. We want users to see our content and ads.
 - Keep header clean.
     - Use the async attribute on javascript.
-
+    - Use the script loader tag to tell WP to set scripts async.
+- Prioritize the critical rendering path (page speed insights helps with this)
+    - Use javascript functions to load the link to your theme CSS, or to load other items asyncronously.
+    - Help use javascript to load javascript to help prioritize critical tasks.
+    - Use deploy script to make the css modules run.
+    - CSS for above the fold should load before under the fold.
+- Lazyloading.
+- Prefetch, preload, prerender.
+    - DNS Prefetch
+        - Good for avoiding multiple hits to an external server, say to get a bunch of tweets.
+        - Aquire a resource that will be used in the future.
+    - Preload puts a resource in the browser cache that will be used later.
+    - Prerender - downloads the assets of the DOM before it is even rendered.
+- allenmoore.me/wcus2015
 
 # Random Notes
 
@@ -323,4 +336,5 @@ WordCampUS : opensource
 [rest-in-action]:https://2015.us.wordcamp.org/session/rest-in-action-the-live-coverage-platform-at-the-new-york-times/
 [elasticsearch-session]:https://2015.us.wordcamp.org/session/a-survey-of-elasticsearch-usage/
 [unit-testing-standards]:https://2015.us.wordcamp.org/session/introduction-to-wordpress-unit-testing/
-[go-fast]:
+[go-fast]:https://2015.us.wordcamp.org/session/i-wanna-go-fast-advanced-techniques-to-optimize-front-end-performance/
+[api-gamify]:https://2015.us.wordcamp.org/session/gamify-with-the-wordpress-com-api/
