@@ -435,6 +435,10 @@ WordCampUS : opensource
 - Be consistent
 - communicate
 
+# Session 8 - [WordPress Best Practices for Enterprise][wp-enterprise-best-practices] - Taylor Lovett (@tlovett12)
+
+- http://10up.com/blog/2014/engineering-best-practices/
+
 
 # Random Notes
 
@@ -467,3 +471,4 @@ WordCampUS : opensource
 [aria-talk]:https://2015.us.wordcamp.org/session/aria-roles-states-and-properties/
 [low-tech-wp]:https://2015.us.wordcamp.org/session/the-future-of-wordpress-is-low-tech/
 [news-over-https]:https://2015.us.wordcamp.org/session/meeting-the-new-york-times-challenge-delivering-the-news-over-https/
+[wp-enterprise-best-practices]:https://2015.us.wordcamp.org/session/wordpress-best-practices-for-enterprise/
