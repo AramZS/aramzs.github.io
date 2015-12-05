@@ -429,6 +429,11 @@ WordCampUS : opensource
 - "Avoid the features that are often useful but occasionally hazardous" - JavaScript: The Good Parts.
     - "Messy code often hides bugs"
 - Don't get too deeply nested.
+- Communicate, test, explain.
+- Dual Algorithms for dev work.
+- Don't be cute
+- Be consistent
+- communicate
 
 
 # Random Notes
