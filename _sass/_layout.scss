@@ -296,7 +296,7 @@
     .title-box {
         position: absolute;
         bottom: 40px;
-        z-index: 2;
+        z-index: 3;
         width: 90%;
         left: 10px;
     }
@@ -344,5 +344,22 @@
 
     .post-content {
 
+    }
+}
+
+.blue {
+    overflow: hidden;
+    &::before {
+        content: " ";
+        background: rgba(33, 117, 155, 0.42);
+        overflow:hidden;
+        display:block;
+        position: absolute;
+        height: 96%;
+        width: 100%;
+        z-index: 2;
+    }
+    & img {
+        z-index: 1;
     }
 }
