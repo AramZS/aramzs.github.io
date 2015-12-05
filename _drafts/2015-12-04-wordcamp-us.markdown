@@ -397,6 +397,10 @@ WordCampUS : opensource
 - `//url` is an antipattern, use `https://` instead. Except with iFrames.
 - HTTPS everywhere chrome extension.
 
+# Session 7 - [Playing well with others: writing solid code in large community projects][community-coding] - Dennis Snell (@)
+
+- 
+
 
 # Random Notes
 
