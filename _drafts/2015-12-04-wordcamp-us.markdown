@@ -338,9 +338,21 @@ WordCampUS : opensource
     - `polite` or `assertive`.
 - http://www.slideshare.net/joedolson/wordcamp-us-aria-roles-states-and-properties
 
-# Session 5 - Lightning 1 - [The Future of WordPress is Low-Tech][low-tech-wp] - Eric Mann (@)
+# Session 5 - Lightning 1 - [The Future of WordPress is Low-Tech][low-tech-wp] - Eric Mann (@ericmann)
 
-- 
+- By cutting down their load time, YouTube was able to reach all new audiences in lower tech countries.
+- Low bandwidth is really really slow (250kb/s)
+- In non developed markets only 20% of devices are smartphones.
+- Graceful degradation
+    - turn off features and they still work.
+- Progressive enhancement
+    - Start for low bandwidth
+- webpagetest.org
+- Chrome lets you test with throttled bandwidth
+- Have a device lab.
+- Democratize web publishing for everyone.
+- No one ever tests their sites for Windows Phones.
+- "Be the change you wish to see in the world"
 
 # Random Notes
 
@@ -371,3 +383,4 @@ WordCampUS : opensource
 [go-fast]:https://2015.us.wordcamp.org/session/i-wanna-go-fast-advanced-techniques-to-optimize-front-end-performance/
 [api-gamify]:https://2015.us.wordcamp.org/session/gamify-with-the-wordpress-com-api/
 [aria-talk]:https://2015.us.wordcamp.org/session/aria-roles-states-and-properties/
+[low-tech-wp]:
