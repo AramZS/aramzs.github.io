@@ -277,7 +277,17 @@ WordCampUS : opensource
 - "We don't want users to experience pain when they don't have to ... so we handle the edge case."
 - We do break things but we figure out the most graceful, least intrusive way to do so
 - We're not trying to break your plugins.
-- Wrote a unit test to check to make sure that there are no ampersands in a JS file. 
+- Wrote a unit test to check to make sure that there are no ampersands in a JS file.
+
+## Saturday
+
+# Session 3 - Gamify With the WordPress.com API - Timmy Crawford (@timmycrawford)
+
+- https://github.com/timmyc/doggfood
+- Leaderboard for posting through the REST API.
+- Can be set up to track progress.
+- Can link to satisfying github issues.
+
 
 # Random Notes
 
