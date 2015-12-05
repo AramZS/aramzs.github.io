@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WordCamp US Notes"
+title:  "WordCamp US Notes [working draft]"
 date:   2015-12-04 09:34:51 -0400
 categories: notes wordpress wordpressus2015
 image: https://2015.us.wordcamp.org/files/2015/09/bg1-2x.jpg
@@ -399,7 +399,11 @@ WordCampUS : opensource
 
 # Session 7 - [Playing well with others: writing solid code in large community projects][community-coding] - Dennis Snell (@)
 
-- 
+- The secret to WP's success? Community.
+- Act consistently
+- Don't mess with other peoples' stuff
+- Don't go around trying to prove how smart you are. 
+- "An interesting thing happens when your customer base reaches a certain size: you cease having edge cases." - Jason Fried of Basecamp.
 
 
 # Random Notes
