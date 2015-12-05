@@ -336,7 +336,7 @@ WordCampUS : opensource
 - `aria-live` critical to dynamic content, this is an area of the page that might change.
     - readers load in the DOM to allow someone to navigate it.
     - `polite` or `assertive`.
-- Really need to get a copy of this presentation.
+- http://www.slideshare.net/joedolson/wordcamp-us-aria-roles-states-and-properties
 
 # Random Notes
 
