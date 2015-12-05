@@ -369,6 +369,7 @@ WordCampUS : opensource
     - PAW extention by Ally Interactive generates WP API - luckymarmot.com/paw/extensions/WordPressCodeGenerator
 - luckymarmot.com/paw
 - http://requests.ryanmccue.info
+- Use progressive enhancement, start ad units with internal ads to fill the space properly while the JS loads.
 
 # Random Notes
 
