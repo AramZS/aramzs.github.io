@@ -353,9 +353,9 @@ WordCampUS : opensource
 - Democratize web publishing for everyone.
 - No one ever tests their sites for Windows Phones.
 - "Be the change you wish to see in the world"
-- Use progressive enhancement, start ad units with internal ads to fill the space properly while the JS loads. 
+- Use progressive enhancement, start ad units with internal ads to fill the space properly while the JS loads.
 
-# Session 6 - Lightning 2 - [Making use of a little known gem: The WordPress HTTP API][http-api-talk] - Ryan Duff (@ryancduff)
+# Session 5 - Lightning 2 - [Making use of a little known gem: The WordPress HTTP API][http-api-talk] - Ryan Duff (@ryancduff)
 
 - cURL is lazy.
 - WordPress HTTP API
@@ -367,9 +367,13 @@ WordCampUS : opensource
 - `wp_remote_retrieve_*()`
 - [Requests For PHP][requests-for-php] by McCue
 - POSTMAN or Paw for OSX
-    - PAW extention by Ally Interactive generates WP API - luckymarmot.com/paw/extensions/WordPressCodeGenerator
+    - PAW extension by Ally Interactive generates WP API - luckymarmot.com/paw/extensions/WordPressCodeGenerator
 - luckymarmot.com/paw
 - http://requests.ryanmccue.info
+
+# Session 6 - [Meeting the New York Times Challenge: delivering the news over HTTPS][news-over-https] - Paul Schreiber (@paulschreiber)
+
+-
 
 # Random Notes
 
@@ -400,4 +404,5 @@ WordCampUS : opensource
 [go-fast]:https://2015.us.wordcamp.org/session/i-wanna-go-fast-advanced-techniques-to-optimize-front-end-performance/
 [api-gamify]:https://2015.us.wordcamp.org/session/gamify-with-the-wordpress-com-api/
 [aria-talk]:https://2015.us.wordcamp.org/session/aria-roles-states-and-properties/
-[low-tech-wp]:
+[low-tech-wp]:https://2015.us.wordcamp.org/session/the-future-of-wordpress-is-low-tech/
+[news-over-https]:https://2015.us.wordcamp.org/session/meeting-the-new-york-times-challenge-delivering-the-news-over-https/
