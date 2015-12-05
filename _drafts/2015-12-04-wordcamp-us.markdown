@@ -391,6 +391,12 @@ WordCampUS : opensource
 - DoubleClick and Outbrain are the only ads now with HTTPS
 - Social, font and analytics tools serve HTTPS
 - Fastly charges more for HTTPS
+- loadimpact.com - 1.8x faster just with HTTPS
+- `content-security-policy: upgrade-insecure-requests`
+- `Content-Security-Policy-Report-Only`
+- `//url` is an antipattern, use `https://` instead. Except with iFrames.
+- HTTPS everywhere chrome extension.
+
 
 # Random Notes
 
