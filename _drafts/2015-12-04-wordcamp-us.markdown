@@ -457,7 +457,28 @@ WordCampUS : opensource
 - `post__not_in` - very slow
 - `update_option` and `add_option` take a third param, `$autoload`, set it to false if you won't need it on every page.
 - Use a CDN
-- 
+- Reduce number and size of HTTP Requests.
+- HTTP2 helps reduce number of requests.
+- Maintainability and stability - maintainable makes more sustainable. And visa versa
+- Don't obsess over MVC
+- Twig leads to more confusing code.
+- Feature plugins
+- Document!
+- Avoid wrapping wrappers.
+- Write tests
+    - PHPUnit
+    - Mocha
+    - Codeception
+        - [wp-codeception][wp-codeception]
+- Clean input
+- Esc data that is output to the screen.
+    - `esc_html`
+    - `esc_attr`
+- Don't use `innerHTML` in JS.
+- Nonces are good for security.
+- Require strong passwords.
+- Review every single line of 3rd party code.
+- Code review!
 
 
 # Random Notes
