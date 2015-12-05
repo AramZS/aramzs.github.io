@@ -347,11 +347,29 @@
     }
 }
 
+//Oh colors, I have taken you from WordPress https://wordpress.org/about/logos/
 .blue {
     overflow: hidden;
     &::before {
         content: " ";
         background: rgba(33, 117, 155, 0.42);
+        overflow:hidden;
+        display:block;
+        position: absolute;
+        height: 96%;
+        width: 100%;
+        z-index: 2;
+    }
+    & img {
+        z-index: 1;
+    }
+}
+
+.orange {
+    overflow: hidden;
+    &::before {
+        content: " ";
+        background: rgba(213, 78, 33, 0.42);
         overflow:hidden;
         display:block;
         position: absolute;
