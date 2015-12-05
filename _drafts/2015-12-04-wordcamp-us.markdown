@@ -338,6 +338,10 @@ WordCampUS : opensource
     - `polite` or `assertive`.
 - http://www.slideshare.net/joedolson/wordcamp-us-aria-roles-states-and-properties
 
+# Session 5 - Lightning 1 - [The Future of WordPress is Low-Tech][low-tech-wp] - Eric Mann (@)
+
+- 
+
 # Random Notes
 
 - AeroPress for good french press coffee
