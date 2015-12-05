@@ -438,6 +438,26 @@ WordCampUS : opensource
 # Session 8 - [WordPress Best Practices for Enterprise][wp-enterprise-best-practices] - Taylor Lovett (@tlovett12)
 
 - http://10up.com/blog/2014/engineering-best-practices/
+- http://www.slideshare.net/tlovett1/best-practices-for-wordpress-in-enterprise?ref=http://taylorlovett.com/
+- 10up uses [Redis][redis]. [WP Redis][wp-redis]
+- Page caching is used heavily.
+- Batcache plugin for page caching.
+- Fragment caching.
+- Remote calls block
+- Use non blocking
+- Prime cache asynchronously.
+    - Set an AJAX request up to do this.
+- Avoid front end writing.
+- `no_found_rows`
+    - When you don't need to know stuff for pagination.
+- `update_post_meta_cache`
+- `update_post_term_cache`
+- `fields`
+- `posts_per_page`
+- `post__not_in` - very slow
+- `update_option` and `add_option` take a third param, `$autoload`, set it to false if you won't need it on every page.
+- Use a CDN
+- 
 
 
 # Random Notes
