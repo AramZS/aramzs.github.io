@@ -416,7 +416,19 @@ WordCampUS : opensource
     - Define failure values.
 - Need failure modes.
 - http://php.net/manual/en/function.list.php
-- 
+- Chained functions? What happens when the inner function fails?
+- Great comments are there for what's not there.
+- Describe how it could have been.
+- "The people who I work with are not idiots."
+- Describe abnormalities in comments (like performance concerns.)
+- Describe risks.
+- "If you have to pause to think about it, it's not obvious."
+- Trivialize Trivia.
+- Describe what input we expect.
+- "Explicit is better than implicit" - Zen of Python.
+- "Avoid the features that are often useful but occasionally hazardous" - JavaScript: The Good Parts.
+    - "Messy code often hides bugs"
+- Don't get too deeply nested.
 
 
 # Random Notes
