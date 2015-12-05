@@ -466,9 +466,9 @@ WordCampUS : opensource
 - Document!
 - Avoid wrapping wrappers.
 - Write tests
-    - PHPUnit
-    - Mocha
-    - Codeception
+    - [PHPUnit][phpunit]
+    - [Mocha][mocha]
+    - [Codeception][codeception]
         - [wp-codeception][wp-codeception]
 - Clean input
 - Esc data that is output to the screen.
