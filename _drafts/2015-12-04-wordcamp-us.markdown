@@ -354,6 +354,22 @@ WordCampUS : opensource
 - No one ever tests their sites for Windows Phones.
 - "Be the change you wish to see in the world"
 
+# Session 6 - Lightning 2 - [Making use of a little known gem: The WordPress HTTP API][http-api-talk] - Ryan Duff (@)
+
+- cURL is lazy.
+- WordPress HTTP API
+- Built to work with any transport available.
+- `wp_remote_*()` and `wp_safe_remote_*()`
+- Need to test for WP_Error
+- `wp_safe_remote_*()`
+    - When user is inputing, will help avoid cross-site forgery requests.
+- `wp_remote_retrieve_*()`
+- [Requests For PHP][requests-for-php] by McCue
+- POSTMAN or Paw for OSX
+    - PAW extention by Ally Interactive generates WP API - luckymarmot.com/paw/extensions/WordPressCodeGenerator
+- luckymarmot.com/paw
+- http://requests.ryanmccue.info
+
 # Random Notes
 
 - AeroPress for good french press coffee
