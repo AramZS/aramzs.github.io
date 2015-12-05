@@ -353,8 +353,9 @@ WordCampUS : opensource
 - Democratize web publishing for everyone.
 - No one ever tests their sites for Windows Phones.
 - "Be the change you wish to see in the world"
+- Use progressive enhancement, start ad units with internal ads to fill the space properly while the JS loads. 
 
-# Session 6 - Lightning 2 - [Making use of a little known gem: The WordPress HTTP API][http-api-talk] - Ryan Duff (@)
+# Session 6 - Lightning 2 - [Making use of a little known gem: The WordPress HTTP API][http-api-talk] - Ryan Duff (@ryancduff)
 
 - cURL is lazy.
 - WordPress HTTP API
@@ -369,7 +370,6 @@ WordCampUS : opensource
     - PAW extention by Ally Interactive generates WP API - luckymarmot.com/paw/extensions/WordPressCodeGenerator
 - luckymarmot.com/paw
 - http://requests.ryanmccue.info
-- Use progressive enhancement, start ad units with internal ads to fill the space properly while the JS loads.
 
 # Random Notes
 
