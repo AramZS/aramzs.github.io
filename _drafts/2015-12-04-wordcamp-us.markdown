@@ -28,7 +28,7 @@ Notes from the grab bag of sessions that I attended at WordPress US 2015.
 
 # Session 2 - [Developers Toolbox][dev-tools] - Tracy Rotton (@taupecat)
 
- - [Slides][http://taupecat.github.io/wordpress-toolbox]
+ - [Slides][dev-tools-slides]
  - Revision control is very important, Git is the way to go.
 	  - There are alternatives to Git, WordPress has used Subversion for a long time but is slowly switching to git.
 	  - Repository options: GitHub, Beanstalk, Atlassian Bitbucket, AWS CodeCommit
@@ -493,7 +493,16 @@ Notes from the grab bag of sessions that I attended at WordPress US 2015.
 
 [techie-continuum]: https://2015.us.wordcamp.org/session/the-techie-continuum/
 [dev-tools]: https://2015.us.wordcamp.org/session/the-modern-wordpress-developers-toolbox/
-[vvv]: http://github.com/
+[dev-tools-slides]:http://taupecat.github.io/wordpress-toolbox
+[vvv]: https://github.com/Varying-Vagrant-Vagrants/VVV
+[composer]:https://getcomposer.org/
+[npm]:https://www.npmjs.com/
+[bower]:http://bower.io/
+[fontawesome]:https://fortawesome.github.io/Font-Awesome/
+[gulp]:http://gulpjs.com/
+[grunt]:http://gruntjs.com/
+[wpcli]:http://wp-cli.org/
+[s]:http://underscores.me/
 [show-template-plugin]: https://wordpress.org/plugins/show-template/
 [future-stack]:https://2015.us.wordcamp.org/session/the-future-stack-running-wordpress-with-tomorrows-technologies/
 [react-wp-session]:https://2015.us.wordcamp.org/session/react-wordpress/
@@ -512,3 +521,4 @@ Notes from the grab bag of sessions that I attended at WordPress US 2015.
 [low-tech-wp]:https://2015.us.wordcamp.org/session/the-future-of-wordpress-is-low-tech/
 [news-over-https]:https://2015.us.wordcamp.org/session/meeting-the-new-york-times-challenge-delivering-the-news-over-https/
 [wp-enterprise-best-practices]:https://2015.us.wordcamp.org/session/wordpress-best-practices-for-enterprise/
+[project-mgmt-wp]:https://2015.us.wordcamp.org/session/beyond-gantt-charts-and-dependencies-the-emerging-wordpress-project-manager/
