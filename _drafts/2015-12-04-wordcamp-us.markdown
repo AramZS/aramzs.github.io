@@ -489,7 +489,7 @@ Notes from the grab bag of sessions that I attended at WordPress US 2015.
 - Crazy method - Vacuum siphon method
 - March coffee festival in Brooklyn.
 
-- Dev 4th through 7th will be WordCampUS 2016 in Philly next year.
+- Dec 2th through 4th will be WordCampUS 2016 in Philly next year.
 
 [techie-continuum]: https://2015.us.wordcamp.org/session/the-techie-continuum/
 [dev-tools]: https://2015.us.wordcamp.org/session/the-modern-wordpress-developers-toolbox/
