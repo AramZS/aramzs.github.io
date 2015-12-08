@@ -490,6 +490,7 @@ Notes from the grab bag of sessions that I attended at WordPress US 2015.
 - March coffee festival in Brooklyn.
 
 - Dec 2th through 4th will be WordCampUS 2016 in Philly next year.
+- Find videos at https://2015.us.wordcamp.org/live-stream/
 
 [techie-continuum]: https://2015.us.wordcamp.org/session/the-techie-continuum/
 [dev-tools]: https://2015.us.wordcamp.org/session/the-modern-wordpress-developers-toolbox/
