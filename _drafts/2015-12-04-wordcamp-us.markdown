@@ -157,7 +157,7 @@ Notes from the grab bag of sessions that I attended at WordPress US 2015.
 
 # Session 6 - [Build a Theme with the REST API][rest-theme-session] - Rachel Baker (@rachelbaker)
 
-- https://speakerdeck.com/rachelbaker/build-a-theme-with-the-wp-rest-api
+- [Rest API Theme Slidedeck][rest-api-themes-slides]
 - Why?
 	- Because you can
 	- Your content needs to update or change dynamically.
@@ -266,8 +266,8 @@ Notes from the grab bag of sessions that I attended at WordPress US 2015.
 - `equalTo` vs `identicalTo` is the diff of `==` to `===`
 	- "Constraint that asserts that one value is identical to another."
 - Keep doing it and turn it into a habit.
-- https://carlalexander.ca/introduction-wordpress-unit-testing/
-- https://github.com/carlalexander/wordpress-unit-test-demo
+- [Intro to WordPress Unit Testing][wp-unit-test-intro]
+- [Unit Testing Demo][unit-testing-demo]
 - Unit testing makes more sense alongside biz logic.
 - What you really want to test is "am I insane?"
 
@@ -282,7 +282,7 @@ Notes from the grab bag of sessions that I attended at WordPress US 2015.
 
 # Session 3 - [Gamify With the WordPress.com API][api-gamify] - Timmy Crawford (@timmycrawford)
 
-- https://github.com/timmyc/doggfood
+- [REST-based game board][rest-game-board]
 - Leaderboard for posting through the REST API.
 - Can be set up to track progress.
 - Can link to satisfying github issues.
@@ -335,7 +335,7 @@ Notes from the grab bag of sessions that I attended at WordPress US 2015.
 - `aria-live` critical to dynamic content, this is an area of the page that might change.
     - readers load in the DOM to allow someone to navigate it.
     - `polite` or `assertive`.
-- http://www.slideshare.net/joedolson/wordcamp-us-aria-roles-states-and-properties
+- [ARIA Presentation][aria-presentation]
 
 # Session 5 - Lightning 1 - [The Future of WordPress is Low-Tech][low-tech-wp] - Eric Mann (@ericmann)
 
@@ -414,7 +414,7 @@ Notes from the grab bag of sessions that I attended at WordPress US 2015.
     - Return a single type of value
     - Define failure values.
 - Need failure modes.
-- http://php.net/manual/en/function.list.php
+- [PHP Docs on Function structures][php-function-docs]
 - Chained functions? What happens when the inner function fails?
 - Great comments are there for what's not there.
 - Describe how it could have been.
@@ -437,7 +437,7 @@ Notes from the grab bag of sessions that I attended at WordPress US 2015.
 # Session 8 - [WordPress Best Practices for Enterprise][wp-enterprise-best-practices] - Taylor Lovett (@tlovett12)
 
 - http://10up.com/blog/2014/engineering-best-practices/
-- http://www.slideshare.net/tlovett1/best-practices-for-wordpress-in-enterprise?ref=http://taylorlovett.com/
+- [WordPress Enterprise Best Practices][wordpress-best-practices-for-enterprise-slides]
 - 10up uses [Redis][redis]. [WP Redis][wp-redis]
 - Page caching is used heavily.
 - Batcache plugin for page caching.
@@ -523,3 +523,18 @@ Notes from the grab bag of sessions that I attended at WordPress US 2015.
 [news-over-https]:https://2015.us.wordcamp.org/session/meeting-the-new-york-times-challenge-delivering-the-news-over-https/
 [wp-enterprise-best-practices]:https://2015.us.wordcamp.org/session/wordpress-best-practices-for-enterprise/
 [project-mgmt-wp]:https://2015.us.wordcamp.org/session/beyond-gantt-charts-and-dependencies-the-emerging-wordpress-project-manager/
+[theme-check-plugin]:https://wordpress.org/plugins/theme-check/
+[debug-bar-plugin]:https://wordpress.org/plugins/debug-bar/
+[regenerate-thumbnails-plugin]:https://wordpress.org/plugins/regenerate-thumbnails/
+[migrate-db-plugin]:https://wordpress.org/plugins/wp-migrate-db/
+[lets-encrypt]:https://letsencrypt.org/
+[hash-search-wpfuturestack]:https://twitter.com/search?q=%23wpFutureStack&src=typd
+[webpack]:https://webpack.github.io/
+[babel]:https://babeljs.io/
+[rest-api-themes-slides]:https://speakerdeck.com/rachelbaker/build-a-theme-with-the-wp-rest-api
+[wp-unit-test-intro]:https://carlalexander.ca/introduction-wordpress-unit-testing/
+[php-function-docs]:http://php.net/manual/en/function.list.php
+[unit-testing-demo]:https://github.com/carlalexander/wordpress-unit-test-demo
+[rest-game-board]:https://github.com/timmyc/doggfood
+[wordpress-best-practices-for-enterprise-slides]:http://www.slideshare.net/tlovett1/best-practices-for-wordpress-in-enterprise?ref=http://taylorlovett.com/
+[aria-presentation]:http://www.slideshare.net/joedolson/wordcamp-us-aria-roles-states-and-properties
