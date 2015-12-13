@@ -346,7 +346,7 @@ Notes from the grab bag of sessions that I attended at WordPress US 2015.
     - turn off features and they still work.
 - Progressive enhancement
     - Start for low bandwidth
-- webpagetest.org
+- [Web page test][web-page-test]
 - Chrome lets you test with throttled bandwidth
 - Have a device lab.
 - Democratize web publishing for everyone.
@@ -366,9 +366,9 @@ Notes from the grab bag of sessions that I attended at WordPress US 2015.
 - `wp_remote_retrieve_*()`
 - [Requests For PHP][requests-for-php] by McCue
 - POSTMAN or Paw for OSX
-    - PAW extension by Ally Interactive generates WP API - luckymarmot.com/paw/extensions/WordPressCodeGenerator
-- luckymarmot.com/paw
-- http://requests.ryanmccue.info
+    - [PAW extension by Ally Interactive generates WP API][api-code-generator]
+- [PAW for POST testing][paw]
+- [Requests plugin][requests-plugin]
 
 # Session 6 - [Meeting the New York Times Challenge: delivering the news over HTTPS][news-over-https] - Paul Schreiber (@paulschreiber)
 
@@ -390,7 +390,7 @@ Notes from the grab bag of sessions that I attended at WordPress US 2015.
 - DoubleClick and Outbrain are the only ads now with HTTPS
 - Social, font and analytics tools serve HTTPS
 - Fastly charges more for HTTPS
-- loadimpact.com - 1.8x faster just with HTTPS
+- [loadimpact.com][loadimpact] - 1.8x faster just with HTTPS
 - `content-security-policy: upgrade-insecure-requests`
 - `Content-Security-Policy-Report-Only`
 - `//url` is an antipattern, use `https://url` instead. Except with iFrames.
@@ -538,3 +538,8 @@ Notes from the grab bag of sessions that I attended at WordPress US 2015.
 [rest-game-board]:https://github.com/timmyc/doggfood
 [wordpress-best-practices-for-enterprise-slides]:http://www.slideshare.net/tlovett1/best-practices-for-wordpress-in-enterprise?ref=http://taylorlovett.com/
 [aria-presentation]:http://www.slideshare.net/joedolson/wordcamp-us-aria-roles-states-and-properties
+[api-code-generator]:http://luckymarmot.com/paw/extensions/WordPressCodeGenerator
+[web-page-test]:http://webpagetest.org
+[paw]:http://luckymarmot.com/paw
+[requests-plugin]:http://requests.ryanmccue.info
+[loadimpact]:http://loadimpact.com
