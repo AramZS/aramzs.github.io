@@ -2,7 +2,7 @@
 layout: post
 title:  "Maintaining an abandoned project from upstream on GitHub"
 date:   2016-02-07 15:34:51 -0400
-categories: GitHub, OpenSource
+categories: open-source GitHub
 vertical: Code
 excerpt: "How to deal with an abandoned project without leaving the tree."
 ---
@@ -11,7 +11,7 @@ Sometimes you're working with an open-source code library that has a number of i
 
 In that case, there are options for essentially running the project from upstream; where you keep your branch attached to the original project tree, but pull in the pull requests from other interested parties. Using this technique you can keep your branch up to date with the best pull requests, but without fracturing the project. In addition, if the project maintainer ever comes back, they'll have a handy single pull request with all the new features that you've been maintaining.
 
-This is based on [a StackOverflow response][stackoverflow].  
+This is based on [a StackOverflow response][stackoverflow].
 
 First you'll want to add the other upstream fork as a remote of your repository.
 
@@ -21,7 +21,7 @@ First you'll want to add the other upstream fork as a remote of your repository.
 git remote add otherfork git://github.com/request-author/project.git
 
 {%endraw%}
-{% endhighlight %}  
+{% endhighlight %}
 
 `otherfork` in this example is the name you are giving the remote repository (like origin). You can add as many other forks as you'd like, as long as you give them different names.
 
