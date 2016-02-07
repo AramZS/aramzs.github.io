@@ -41,8 +41,8 @@ You can use a standard merge, or a `git pull`:
 
 or
 
-`git pull otherfork/patch-branch`
+`git pull otherfork patch-branch`
 
-Using these methods you can have your version of the codebase living upstream of the project base but still examine, test and merge pull requests to the base as if you were the project maintainer. This should make it easier to have up-to-date code without fragmenting the project. 
+Using these methods you can have your version of the codebase living upstream of the project base but still examine, test and merge pull requests to the base as if you were the project maintainer. This should make it easier to have up-to-date code without fragmenting the project.
 
 [stackoverflow]:http://stackoverflow.com/questions/6022302/how-to-apply-unmerged-upstream-pull-requests-from-other-forks-into-my-fork
