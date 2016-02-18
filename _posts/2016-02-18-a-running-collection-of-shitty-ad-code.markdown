@@ -20,8 +20,8 @@ So here we go:
  - [AdapTV](#adptv)
  - [TruEffect](#trueffect)
 
-<script name="adaptv" src="https://gist.github.com/AramZS/6e6ed8c46e70e1024507.js"></script>
+<a name="adaptv"></a><script src="https://gist.github.com/AramZS/6e6ed8c46e70e1024507.js"></script>
 
-<script name="trueffect" src="https://gist.github.com/AramZS/4427f97e2282ca564685.js"></script>
+<a name="trueffect"></a><script src="https://gist.github.com/AramZS/4427f97e2282ca564685.js"></script>
 
 [js-beautifier]:http://jsbeautifier.org/
