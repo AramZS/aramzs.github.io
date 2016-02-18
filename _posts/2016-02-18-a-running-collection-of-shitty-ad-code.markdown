@@ -17,12 +17,11 @@ Many of these scripts are run (usually breaking themselves, if not the sites the
 
 So here we go:
 
-<script src="https://gist.github.com/AramZS/6e6ed8c46e70e1024507.js"></script>
+ - [AdapTV](#adptv)
+ - [TruEffect](#trueffect)
 
-<script src="https://gist.github.com/AramZS/4427f97e2282ca564685.js"></script>
+<script name="adaptv" src="https://gist.github.com/AramZS/6e6ed8c46e70e1024507.js"></script>
 
-<script src="https://gist.github.com/AramZS/f1534fdb20f02e555d5a.js"></script>
-
-<script src="https://gist.github.com/AramZS/2f55a8fd770839064a62.js"></script>
+<script name="trueffect" src="https://gist.github.com/AramZS/4427f97e2282ca564685.js"></script>
 
 [js-beautifier]:http://jsbeautifier.org/
