@@ -17,7 +17,7 @@ Many of these scripts are run (usually breaking themselves, if not the sites the
 
 So here we go:
 
- - [AdapTV](#adptv)
+ - [AdapTV](#adaptv)
  - [TruEffect](#trueffect)
 
 <a name="adaptv"></a><script src="https://gist.github.com/AramZS/6e6ed8c46e70e1024507.js"></script>
