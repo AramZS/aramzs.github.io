@@ -13,7 +13,7 @@ I'm now keeping a collection of terrible awful no-good ad-tech code. This isn't 
 
 All of this is simply obtained by clicking on the link in the console to the file that contains the terrible ad code when it is executed on the site. Occasionally I run it through [jsbeautifier][js-beautifier] for your pleasure.
 
-Also see my list of blackhat ad [sightings](https://docs.google.com/spreadsheets/d/1hhwRLKNK9n--wCLYno5X6dYL0B7RP8M1cvcjIpByeb0/edit?usp=sharing)
+Also see my list of blackhat ad [sightings](https://docs.google.com/spreadsheets/d/1hhwRLKNK9n--wCLYno5X6dYL0B7RP8M1cvcjIpByeb0/edit?usp=sharing). You can even [report your own sightings!](http://goo.gl/forms/RrWuAmvbxf) 
 
 Many of these scripts are run (usually breaking themselves, if not the sites they are on) daily across the web.
 
