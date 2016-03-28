@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "A running collection of shitty ad code"
-date:   2016-02-18 16:34:51 -0400
+title:  "A test post"
+date:   2016-03-28 10:34:51 -0400
 categories: ad-tech
 image: http://gph.is/1imWTKF
 overlay: brown
 vertical: Code
-excerpt: "Terrible code I have known."
+excerpt: "Playing with gifs."
 ---
 
 Hi, I'm testing some tags. Ignore me.
