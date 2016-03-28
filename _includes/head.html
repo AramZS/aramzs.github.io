@@ -37,7 +37,10 @@
   	<meta name="twitter:card" content="summary_large_image" />
   	<meta name="twitter:creator" content="@chronotope" />
   	<meta name="twitter:title" content="{{page.title}}" />
-	{% if page.image %}
+	{% if page.ogimage %}
+		<meta property="og:image" content="{{page.ogimage}}" />
+	  	<meta name="twitter:image" content="{{page.ogimage}}" />
+	{% elsif page.image %}
 	  	<meta property="og:image" content="{{page.image}}" />
 	  	<meta name="twitter:image" content="{{page.image}}" />
   	{% else %}
