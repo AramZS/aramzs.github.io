@@ -24,6 +24,7 @@ So here we go:
  - [Moat Video](#moatvideo)
  - [OpenVideoView](#ovv)
  - [AdapTV VPAID](#adaptvvpaid)
+ - [Sizmek](#sizmek)
 
 <a name="adaptv"></a><script src="https://gist.github.com/AramZS/6e6ed8c46e70e1024507.js"></script>
 
@@ -33,6 +34,8 @@ So here we go:
 
 <a name="ovv"></a><script src="https://gist.github.com/AramZS/85b593fb3a070eb3d4a4.js"></script>
 
-<a name="adaptvvpaid"></a><script src="https://gist.github.com/AramZS/de02057f197c62e345d3.js"></script>
+<a name="sizmek"></a><script src="https://gist.github.com/AramZS/076318a12c617be3db1406affc3fe455.js"></script>
+
+https://gist.github.com/AramZS/076318a12c617be3db1406affc3fe455
 
 [js-beautifier]:http://jsbeautifier.org/
