@@ -286,9 +286,11 @@
 }
 
 .single.post {
-    margin: 0 auto;
-    max-width: 410px; 
-    text-align: justify;
+    .post-header, p {
+        margin: 0 auto;
+        max-width: 410px; 
+        text-align: justify;
+    }
 }
 
 .single.post-with-image {
