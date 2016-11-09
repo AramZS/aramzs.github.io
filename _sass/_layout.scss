@@ -285,6 +285,10 @@
     }
 }
 
+.single.post {
+    max-width: 494px;    
+}
+
 .single.post-with-image {
     .post-header {
         margin-bottom: $spacing-unit;
