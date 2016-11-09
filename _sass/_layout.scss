@@ -381,3 +381,21 @@
         z-index: 1;
     }
 }
+
+.red {
+    overflow: hidden;
+    &::before {
+        content: " ";
+        background: rgba(203, 138, 138, 0.42);
+        overflow:hidden;
+        display:block;
+        position: absolute;
+        height: 96%;
+        width: 100%;
+        z-index: 2;
+    }
+    & img {
+        z-index: 1;
+    }
+}
+
