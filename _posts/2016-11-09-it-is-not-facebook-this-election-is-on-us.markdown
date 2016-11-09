@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "This is on us"
-date:   2016-02-07 15:34:51 -0400
+date:   2016-11-09 11:34:51 -0500
 categories: politics tools humans
 vertical: Fight
 excerpt: "The problem has never been how we look out on to the world, but what we choose to perceive."
