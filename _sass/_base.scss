@@ -172,7 +172,7 @@ pre {
     }
 }
 
-.gist {
+.gist, figure.highlight {
     margin-left: -45%;
     margin-right: -45%;
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
