@@ -3,7 +3,7 @@ layout: post
 title:  "How to make your Jekyll site show up on social"
 date:   2015-11-11 11:34:51 -0400
 categories: jekyll social-media
-image: http://41.media.tumblr.com/173cb5c51a1c308ab022a786f69353f3/tumblr_nwncf1T2ht1rl195mo1_1280.jpg
+image: https://raw.githubusercontent.com/AramZS/aramzs.github.io/master/_includes/tumblr_nwncf1T2ht1rl195mo1_1280.jpg
 vertical: Code
 excerpt: "Here's how to make Jekyll posts easier for others to see and share on social networks."
 ---
