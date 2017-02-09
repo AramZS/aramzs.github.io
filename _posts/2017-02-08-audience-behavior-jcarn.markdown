@@ -11,7 +11,7 @@ overlay: blue
 
 There is something endlessly frustrating when a news site launches a redesign that is a barely changed rehash of a large media companies older design.
 
-Few, if any, media companies are backing up their design with UX science. If the final sites are any indication, we have paid little attention to **decades** of [significant study](https://www.nngroup.com/articles/how-users-read-on-the-web/) into UX and reader patterns.
+Few, if any, media companies are backing up their design with user experience science. If the final sites are any indication, we have paid little attention to **decades** of [significant study](https://www.nngroup.com/articles/how-users-read-on-the-web/) into UX and reader patterns. We shouldn't be imitating them.
 
 Instead, we try to determine design based on imaginary user stories and A/B testing. The problem is that when we treat humans as users, we forget to account for designing in a way that matches how real people read. When we A/B test there is the potential to find better designs that still aren't **good**.
 
