@@ -33,7 +33,7 @@ This isn't to say complexity is impossible, [in fact we should consider it requi
 
 Studies exist to tell us how our audiences interact with pages in a general sense, we tend to ignore it. Understanding how our readers eyeballs work in the general sense means building designs informed not by trends or other news orgs, but by science. Much of that science is publicly available, waiting for us to use.
 
-We can also start borrowing scientific methodologies to better understand our individual audiences and, in the process, connect with them. **Eyetracking** hardware is dropping in price, and is well within the range many news organizations should consider a purchase.
+We can also start borrowing scientific methodologies to better understand our individual audiences and, in the process, connect with them. **Eyetracking** hardware is [dropping in price](https://www.engadget.com/2013/09/06/eye-tribe-tracker-pre-order/), and is well within the range many news organizations should consider a purchase.
 
 **User studies** are another way to take [basic UX techniques](https://library.gv.com/get-better-data-from-user-studies-16-interviewing-tips-328d305c3e37#.za7mgq81r) and use them to improve your site and connect with readers. Reach out to the community and invite them to test draft redesigns or tweaks. Designers and developers should be observing and asking questions.
 
@@ -43,7 +43,7 @@ A nice after-effect? Making readers feel valued by your organization.
 
 The first step is to use real data, the big kind that comes for complex scientific studies and the small kind that comes from talking design with our readers.
 
-With better tools and connections into the community we can start driving better choices to impact how we build the news. The news media can start looking at atomic, delayed, or personalized news with the confidence we can build whole new workflows for reportage that build towards better engagement with our audience.
+With better tools and connections into the community we can start driving better choices to impact how we build the news. The news media can start looking at [atomic](https://twitter.com/Chronotope/status/650021101850992640), [delayed](http://www.poynter.org/2017/how-do-we-design-the-news-for-people-who-are-burned-out/447416/?cachebusterTimestamp=1486598081793), or personalized news with the confidence that we can build whole new workflows for reportage that create better engagement with our audience.
 
 This piece is for [Carnival of Journalism](http://www.carnivalofjournalism.org/2017/01/25/welcome-back-jcarn).
 
