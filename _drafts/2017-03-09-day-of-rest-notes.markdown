@@ -229,8 +229,36 @@ Some people can use GraphQL to stitch multiple requests together.
 = Prep non devs for REST API
  - feelingrestful.com
  - react-motion
- - 
+ - Don't assume. Talk and Document.
+ - Be kind to the people you work with, don't throw them in the ocean to teach them to swim.
+ - hmn.md/whitepaper
 
+= Real Time REST Apis.
+ - Right now you have to stalk your endpoints.
+ - Sometimes you need a little push
+  - Updating headless front-end application views for content changes.
+  - Notifying a client or micro service application about a content event.
+  - Attempting to keep things in sync between WP and another application, users newsletters, etc...
+  - Breaking cache or resetting cache headers.
+ - Webhooks + WordPress Actions!
+  - webhooks.pbworks.com/w/page/13385124/FrontPage
+  - an HTTP callback, an HTTP POST that occurs when something happens, a simple event-notification via HTTP host.
+  - WordPress hooking actions `do_action` style.
+  - `notify_user_registered` - Add action to an event that does a `wp_safe_remote_post` to mock an internal rest API request and send it.
+ - [Rest Hooks - not a specification - patterns](http://resthooks.org/docs/)
+ - Mechanism to store subscriptions
+ - Mechanism to list, create, modify, delete, subscriptions
+ - list event hooks via API endpoints
+ - Mechanism to send
+ - hooks should be noun.verb
+ - /hooks endpoint.
+ - `id`, `hook name`, `application`, `uri`, `active`
+ - When the condition on the hook is realized transmit the response data to all subscribers.
+ - Error handling and optionally retrying connnections for 4xx/5xx errors
+ - RPC API from a REST API.
+ - http://speakerdeck.com/rachelbaker/real-time-rest-api-with-wordpress
+
+= 
 
 [party stats at 6pm]
 
