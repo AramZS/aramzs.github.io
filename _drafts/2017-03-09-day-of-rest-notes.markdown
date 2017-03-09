@@ -170,11 +170,66 @@ Some people can use GraphQL to stitch multiple requests together.
  - Various helpers on `getX`
  - `Create React App`
  - tunedin.net
+ - Us Too website (sp?)
 
+ Backbone - sync and templates, plus listener system. Includes underscore (or use lodash).
 
+== React
+ - ryelle.codes/basic-react-example
+ - JSX is strict
+ - Webpack yo!
+ - Babel
+ - redux.js.org - egghead.io
+ - React Router
+ - create-react-app
+ - Who's using react?
+  - Jetpack
+  - Foxhound theme
+  - Wordcamp US Social Stream
+  - usTwo.com - ustwocom architecture - node app is website, wordpress API powers it.
+ - Think about how people are going to use your app
+ - Accessibility
+  - Screen Readers have javascript enabled
+  - webaim.org
+  - You need to tell the screen reader that the page is changing when you use JS.
+ - Server side rendering - isomorphic
+ - ryelle.codes/calypso-extensions
 
-Backbone - sync and templates, plus listener system. Includes underscore (or use lodash).
+@ryelle
 
+= Rest projects
+ - WAMU
+ - Unified content architecture and editorial / disperate presentation
+ - Allows you to create multi-headed presentations.
+ - WordPress can be one microservice among others and use it as an infrastructure element.
+ - Load more / infinite scroll
+ - filtered / faceted search results
+ - related stories
+ - Sponsored content / native ads
+ - Site networks - cross site content
+ - Syndication push or pull across sites in a networks
+ - pull based on taxonomy from post type endpoint
+ - Admin ui to Push article to a site I am viewing to which I have permissions.
+ - Improved author experiance.
+ - Creating complex content types.
+ - Infrequent user forms and guided wizards (like foundation)
+ - Improved editor experiance
+ - Integration with other services.
+ - Integration with desktop apps
+ - Integration with mobile apps.
+ - @jeckman
+
+= Design Perspective on REST API
+ - Better product Design
+ - More tailered interfaces
+ - dribble.com/shots/3344228-Moving-task-flow-interactions
+ - If users don't see a change taking place they don't know a change occurs
+ - Disney's 10 properties of animation
+
+= Prep non devs for REST API
+ - feelingrestful.com
+ - react-motion
+ - 
 
 
 [party stats at 6pm]
