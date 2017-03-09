@@ -138,7 +138,44 @@ Stop services from lying to each other
  - Set up with Travis as well is possible.
 
 Build APIs You Won't Hate - apisyouwonthate.com
- - `wordpress` coupon code. 
+ - `wordpress` coupon code.
+
+If you start to find that your REST API becomes a query language, mby time to add a GraphQL endpoint.
+
+JSON Schema can dictate the shape of the GraphQL data as well.
+
+Some people can use GraphQL to stitch multiple requests together.
+
+= Backbone
+
+@roundearth
+
+ - Underscore.js and Backbone.js
+
+== Backbone
+ - Events, Routes, History
+ - Makes it easy to push new URLs into the history of the browser.
+  - History contains states.
+ - Sync - fetch and save - save a model to server and can create a new resource.
+ - Admin features, repeatable meta, live status page, interactive features, extend core, data display and manipulation.
+ - the `wp-api` script will build out the map from your REST schema and match it.
+ - `post.fetch()` will bring the REST API data into a JS object.
+ - `post.fetch` can specify fields or that you want it to be embeddable. Add `.done` to the end to handle the object when it is ready.
+ - `post.set(field, value)` uses cookie authentication.
+ - Also uses nonce.
+ - `wp.api.models` - create `new` - will return a complete post object. Other objects can be created (`Posts()` or `Books()`)
+ - Works for custom namespaces, post types, remote WordPresses.
+ - `wp.api.collections`
+ - backbone views use templates that are just HTML with datapoints in them `{{object}}`
+ - Various helpers on `getX`
+ - `Create React App`
+ - tunedin.net
+
+
+
+Backbone - sync and templates, plus listener system. Includes underscore (or use lodash).
+
+
 
 [party stats at 6pm]
 
