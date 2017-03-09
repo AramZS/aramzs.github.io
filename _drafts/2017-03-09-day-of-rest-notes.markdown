@@ -281,7 +281,32 @@ Some people can use GraphQL to stitch multiple requests together.
  - http://talks.kadamwhite.com/ador-boston
  - http://github.com/kadamwhite/wp-notebook
 
-= 
+= HTTP kinda sucks sometimes
+ - javascript adventure club
+ - @benjaminbenben
+ - github.com/benfoxall
+ - Network of things!
+ - Small devices, sketchy netwoks, low processing power
+ - MQTT - Message Queue Telemetry Transport
+ - Many connection types.
+ - 14 bytes to handshake
+ - QoS - when you are not sure your satalite is even there.
+ - emqtt.io
+ - AWS has iot tools
+ - Puck.js
+ - Espruino
+ - ESP8266
+ - Pi Zero 2
+ - Try and work out what your thing does
+ - Someone needs to understand the things you are creatng.
+ - "Because it had this concept of thingness the mechanisms around it could move forward"
+ - Keep it simple and stupid.
+ - Skunk Works by Nickholas Means (sp?)
+ - Browsers can do more than just displaying a page.
+ - How can you build things that make a difference?
+ - map.flood.network
+ - A site can have a physical impact without being internet of things based.
+ - 
 
 [party stats at 6pm]
 
