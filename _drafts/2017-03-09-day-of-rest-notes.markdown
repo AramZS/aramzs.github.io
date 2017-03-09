@@ -258,6 +258,29 @@ Some people can use GraphQL to stitch multiple requests together.
  - RPC API from a REST API.
  - http://speakerdeck.com/rachelbaker/real-time-rest-api-with-wordpress
 
+= API Client API Design
+ - Understanding how a tool work lets you use it better.
+ - talks.kadamwhite.com/ador-boston.
+ - Interface loyalty is a drive in decision making for consumers.
+ - `npm install wpapi`
+ - `new WPAPI` works in node and the browser
+  - Creates a site client instance.
+  - `wpapi`
+  	1. Load a JSON object of the wp-json response.
+  	2. Take the hierarchy and turn it into a route tree.
+	3. Create Route Handler factories `WPRequest`
+	 - Create a setter function
+	 - `parameterMixins.before` - to get items via parameters
+	 - will construct your query string.
+	4. Separate Handlers by Namespace
+	 - add `wp/v2` to the base `site` WPAPI instance.
+	 - Autodiscovery
+ - Models vs collections - seperate it out.
+ - "The users of our code are not going to be the same people we are now when we are writing it."
+ - WP API Testbed - wp-notebook
+ - http://talks.kadamwhite.com/ador-boston
+ - http://github.com/kadamwhite/wp-notebook
+
 = 
 
 [party stats at 6pm]
