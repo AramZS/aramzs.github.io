@@ -138,7 +138,7 @@ Stop services from lying to each other
  - Set up with Travis as well is possible.
 
 Build APIs You Won't Hate - apisyouwonthate.com
-
+ - `wordpress` coupon code. 
 
 [party stats at 6pm]
 
