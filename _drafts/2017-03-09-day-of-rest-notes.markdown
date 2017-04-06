@@ -306,7 +306,7 @@ Some people can use GraphQL to stitch multiple requests together.
  - How can you build things that make a difference?
  - map.flood.network
  - A site can have a physical impact without being internet of things based.
- - 
+ - "When you're building a thing make a difference for someone"
 
 [party stats at 6pm]
 
