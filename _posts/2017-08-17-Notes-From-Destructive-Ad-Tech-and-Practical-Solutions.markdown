@@ -8,7 +8,7 @@ vertical: Journalism
 excerpt: "Publishers have agency here, they're part of the problem & they should be part of the solution"
 ---
 
-##### Presentation by Ben Ilfeld @benilfeld
+##### Presentation by Ben Ilfeld [@benilfeld](https://twitter.com/benilfeld)
 
  - via https://2017-denver.journalist.wordcamp.org/session/destructive-ad-tech-and-practical-solutions/
  - What is Audience and Revenue Strategy?
