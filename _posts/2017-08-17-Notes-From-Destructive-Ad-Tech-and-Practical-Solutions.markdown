@@ -1,4 +1,12 @@
-# Notes from: Destructive Ad Tech and Practical Solutions
+---
+layout: post
+title:  "Notes from: Destructive Ad Tech and Practical Solutions"
+date:   2017-08-17 14:19:51 -0600
+categories: ad-tech
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Ad-tech_London_2010_%284%29.JPG/1600px-Ad-tech_London_2010_%284%29.JPG
+vertical: Journalism
+excerpt: "Publishers have agency here, they're part of the problem & they should be part of the solution"
+---
 
 ##### Presentation by Ben Ilfeld @benilfeld
 
