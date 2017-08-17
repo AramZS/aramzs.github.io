@@ -10,7 +10,7 @@ excerpt: "Publishers have agency here, they're part of the problem & they should
 
 ##### Presentation by Ben Ilfeld [@benilfeld](https://twitter.com/benilfeld)
 
- - via https://2017-denver.journalist.wordcamp.org/session/destructive-ad-tech-and-practical-solutions/
+ - https://2017-denver.journalist.wordcamp.org/session/destructive-ad-tech-and-practical-solutions/
  - What is Audience and Revenue Strategy?
   - Consults with content creators to drive core business objectives with a focus on revenue optimization
   - collaborates with multidisciplinary delivery teams to implement recommended strategies.
