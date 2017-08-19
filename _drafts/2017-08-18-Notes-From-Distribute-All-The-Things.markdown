@@ -49,4 +49,3 @@ excerpt: "Publishers have agency here, they're part of the problem & they should
   - Custom is crazy, economies of scale apply. Larger developer communities will adapt faster
   - WordPress to App
   - Platform and content control is even more important. An open platform that protects publishers from 3rd party business interests and choices.
-  - 
