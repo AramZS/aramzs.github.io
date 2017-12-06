@@ -340,9 +340,8 @@
             line-height: 43px;
         }
     }
-
-    .post-image img {
-      width: 100%;
+    
+    .post-image {
         margin-left: -45%;
         margin-right: -45%;
         max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
@@ -355,6 +354,10 @@
             margin-left: 0;
             margin-right: 0;
         }
+    }
+
+    .post-image img {
+      width: 100%;
     }
 
     .highlight {
