@@ -183,6 +183,7 @@ pre {
         max-width:         calc(#{$content-width} - (#{$spacing-unit}));
     }
     @include media-query($on-palm) {
+        width: 100%;
         margin-left: 0;
         margin-right: 0;
     }
