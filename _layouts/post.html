@@ -4,15 +4,19 @@ layout: default
 <article class="post single {% if page.image %}post-with-image{% endif %}" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-  	<div class="title-box">
-    	<h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-	</div>
+    <div class="title-box">
+      <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+    </div>
     {% if page.image %}
-      <div class="post-image{% if page.image %} {{page.overlay}}{% endif %}">
-        <img alt="{{ page.title }}" src="{{ page.image }}" />
-      </div>
+<div class="post-image{% if page.image %} {{page.overlay}}{% endif %}{% if page.image and page.overlay %} image-overlay{% endif %}">
+      <img alt="{{ page.title }}" src="{{ page.image }}" />
+    </div>
     {% endif %}
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+    <p class="post-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} •
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <span itemprop="name">{{ page.author }}</span>
+      </span>{% endif %}</p>
   </header>
 
   <div class="post-content" itemprop="articleBody">
