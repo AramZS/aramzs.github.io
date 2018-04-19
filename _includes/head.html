@@ -74,21 +74,18 @@
 				{% endif %}
 			],
 			"datePublished": "{{page.date}}",
-			"dateModified": "{{page.modified}}",
+			"dateModified": "{% if page.modified %}{{page.modified}}{% else %}{{page.date}}{% endif %}",
 			"isAccessibleForFree": "True",
 			"isPartOf": {
 				"@type": ["CreativeWork", "Product"],
 				"name": "Fight With Tools",
 				"productID": "aramzs.github.io"
 			},
-			"publisher": {
+			"author": {
 				"@type": "Person",
 				"name": "Aram Zucker-Scharff",
 				"description": "Aram Zucker-Scharff is the Director for Ad Engineering in The Washington Post’s Research, Experimentation and Development group. He is also the lead developer for the open-source tool PressForward and a consultant on content strategy and newsroom workflows. He was one of Folio Magazine’s 15 under 30 in the magazine media industry. He previously worked as Salon.com’s full stack developer. His work has been covered multiple times in journalism.co.uk and he has appeared in The Atlantic, Digiday, Poynter, and Columbia Journalism Review. He has also worked as a journalist, a community manager and a journalism educator.",
-				"identifier": {
-					"@type": "URL",
-					"value": "https://twitter.com/Chronotope"
-				},
+				"sameAs": "http://twitter.com/Chronotope",
 				"image": {
 					"@type": "ImageObject",
 					"url": "https://pbs.twimg.com/profile_images/539484037765533698/7l6-pKY-_400x400.jpeg"
@@ -96,6 +93,17 @@
 				"givenName": "Aram",
 				"familyName": "Zucker-Scharff",
 				"alternateName": "AramZS",
+				"publishingPrinciples": "http://aramzs.github.io/about/"
+			},
+			"publisher": {
+				"@type": "Organization",
+				"name": "Fight With Tools",
+				"description": "A site discussing how to imagine, build, analyze and use cool code and web tools. Better websites, better stories, better developers. Technology won't save the world, but you can.",
+				"sameAs": "http://aramzs.github.io",
+				"logo": {
+					"@type": "ImageObject",
+					"url": "https://41.media.tumblr.com/709bb3c371b9924add351bfe3386e946/tumblr_nxdq8uFdx81qzocgko1_1280.jpg"
+				},
 				"publishingPrinciples": "http://aramzs.github.io/about/"
 			}
 		}

@@ -2,25 +2,35 @@
 layout: default
 ---
 <article class="post single {% if page.image %}post-with-image{% endif %}" itemscope itemtype="http://schema.org/BlogPosting">
+  <div itemprop="mainEntityOfPage">
+    <header class="post-header">
+      <div class="title-box">
+        <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+      </div>
+      {% if page.image %}
+  <div class="post-image{% if page.image %} {{page.overlay}}{% endif %}{% if page.image and page.overlay %} image-overlay{% endif %}">
+        <img itemprop="image" alt="{{ page.title }}" src="{{ page.image }}" />
+      </div>
+      {% endif %}
+      <p class="post-meta">
+        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.modified %} • {% endif %}<time datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateModified" {% if page.modified %}{% else %} style="display:none;" {% endif %}>{% if page.modified %}{{page.modified}}{% else %}{{page.date}}{% endif %}</time> • By 
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+          {% if page.author %}
+          <span itemprop="name">{{ page.author }}</span>
+          {% else %}
+          <span itemprop="name">Aram Zucker-Scharff</span>
+        </span>{% endif %}
+        <span itemprop="publisher" style="display:none;" itemscope itemtype="http://schema.org/Organization">
+          <span itemprop="name">Fight With Tools</span>
+          <span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+            <img itemprop="url" src="https://raw.githubusercontent.com/AramZS/aramzs.github.io/master/_includes/favicon.ico" />
+          </span>
+        </span>
+      </p>
+    </header>
 
-  <header class="post-header">
-    <div class="title-box">
-      <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+    <div class="post-content" itemprop="articleBody">
+      {{ content }}
     </div>
-    {% if page.image %}
-<div class="post-image{% if page.image %} {{page.overlay}}{% endif %}{% if page.image and page.overlay %} image-overlay{% endif %}">
-      <img alt="{{ page.title }}" src="{{ page.image }}" />
-    </div>
-    {% endif %}
-    <p class="post-meta">
-      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} •
-      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-        <span itemprop="name">{{ page.author }}</span>
-      </span>{% endif %}</p>
-  </header>
-
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
   </div>
-
 </article>
