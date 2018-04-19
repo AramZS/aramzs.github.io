@@ -381,35 +381,15 @@
 }
 
 .orange {
-    overflow: hidden;
+    @include image-overlay;
     &::before {
-        content: " ";
         background: rgba(213, 78, 33, 0.42);
-        overflow: hidden;
-        display: block;
-        position: absolute;
-        height: 93%;
-        width: 100%;
-        z-index: 2;
-    }
-    & img {
-        z-index: 1;
     }
 }
 
 .red {
-    // overflow: hidden;
+    @include image-overlay;
     &::before {
-        content: " ";
         background: rgba(203, 138, 138, 0.42);
-        overflow: hidden;
-        display: block;
-        position: absolute;
-        height: 93%;
-        width: 100%;
-        z-index: 2;
-    }
-    & img {
-        z-index: 1;
     }
 }
