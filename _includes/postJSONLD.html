@@ -15,6 +15,10 @@
                 "https://41.media.tumblr.com/709bb3c371b9924add351bfe3386e946/tumblr_nxdq8uFdx81qzocgko1_1280.jpg"
             {% endif %}
         ],
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
+        },
         "datePublished": "{{page.date}}",
         "dateModified": "{% if page.modified %}{{page.modified}}{% else %}{{page.date}}{% endif %}",
         "isAccessibleForFree": "True",
