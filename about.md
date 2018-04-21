@@ -6,12 +6,18 @@ permalink: /about/
 
 This is the GitHub.io site for [Aram Zucker-Scharff][aram].
 
-You can find an archive of everything he's written anywhere at his [Nodality][nodality].
+Aram has numerous blogs and websites, too many really, this particular one is focused on questions of technology, how it works, and how we can use it ethically and sustainably.
 
 You can also find him on [LinkedIn][linkedin].
 
 Everything he reads is at [Chronoto.pe][chronoto].
 
+You can find an archive of everything he's written anywhere at his [Nodality][nodality].
+
+A song for this site:
+<iframe src="https://open.spotify.com/embed/track/6JH9yWhgbm0y9iAJhCslNc" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+---
 
 This is a Jekyll site. You can find out more info about Jekyll at [jekyllrb.com](http://jekyllrb.com/)
 

@@ -1,0 +1,24 @@
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Aram Zucker-Scharff",
+        "description": "{{ page.excerpt }}",
+        "disambiguatingDescription": "A media-focused developer and strategist.",
+        "image": [
+            {% if page.ogimagenull %}
+
+            {% elsif page.ogimage %}
+                "{{page.ogimage}}"
+            {% elsif page.image %}
+                "{{page.image}}"
+            {% else %}
+                "https://pbs.twimg.com/profile_images/539484037765533698/7l6-pKY-_400x400.jpeg"
+            {% endif %}
+        ],
+        "givenName": "Aram",
+        "familyName": "Zucker-Scharff",
+        "alternateName": "AramZS",
+        "publishingPrinciples": "http://aramzs.github.io/about/"
+    }
+</script>
