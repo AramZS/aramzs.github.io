@@ -4,14 +4,16 @@ layout: default
 <article class="post single {% if page.image %}post-with-image{% endif %}" itemscope itemtype="http://schema.org/BlogPosting">
   <div itemprop="mainEntityOfPage">
     <header class="post-header">
-      <div class="title-box">
-        <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-      </div>
-      {% if page.image %}
-  <div class="post-image{% if page.image %} {{page.overlay}}{% endif %}{% if page.image and page.overlay %} image-overlay{% endif %}">
-        <img itemprop="image" alt="{{ page.title }}" src="{{ page.image }}" />
-      </div>
-      {% endif %}
+      <div class="header-sub-box">
+        <div class="title-box">
+          <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+        </div>
+        {% if page.image %}
+        <div class="post-image{% if page.image %} {{page.overlay}}{% endif %}{% if page.image and page.overlay %} image-overlay{% endif %}">
+          <img itemprop="image" alt="{{ page.title }}" src="{{ page.image }}" />
+        </div>
+        {% endif %}
+    </div>
       <p class="post-meta">
         <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.modified %} • {% endif %}<time datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateModified" {% if page.modified %}{% else %} style="display:none;" {% endif %}>{% if page.modified %}{{page.modified}}{% else %}{{page.date}}{% endif %}</time> • By 
         <span itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -31,6 +33,17 @@ layout: default
 
     <div class="post-content" itemprop="articleBody">
       {{ content }}
+      {% if page.hashtag %}
+      <hr>
+      <br /><br /><br />
+
+      Let's talk about this post: 
+      <br /><br />
+      <a href="https://twitter.com/intent/tweet?screen_name=Chronotope&button_hashtag={{ page.hashtag }}&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to me</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+      <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/search?q==%23{{ page.hashtag }}%20%40Chronotope&src=typd" data-widget-id="990002734509232130">Tweets about @Chronotope #JekyllStructured</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+      {% endif %}
     </div>
   </div>
 </article>

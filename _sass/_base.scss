@@ -180,11 +180,13 @@ pre {
     margin-left: -45%;
     margin-right: -45%;
     width: 200%;
-    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+    max-width: -webkit-calc(#{$content-width+40} - (#{$spacing-unit} * 2));
+    max-width:         calc(#{$content-width+40} - (#{$spacing-unit} * 2));
     @include media-query($on-laptop) {
-        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
-        max-width:         calc(#{$content-width} - (#{$spacing-unit}));
+        margin-left: -25%;
+        margin-right: 25%;
+        max-width: -webkit-calc(#{$content-width+40} - (#{$spacing-unit}));
+        max-width:         calc(#{$content-width+40} - (#{$spacing-unit}));
     }
     @include media-query($on-palm) {
         width: 100%;
