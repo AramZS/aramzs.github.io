@@ -95,3 +95,5 @@ Let's consider some real and theoretical situations that can illustrate how to u
 At the height of some rather strident arguments on my Facebook page around (sigh) ethics in video game journalism I decided to enact some rules about how commenters are supposed to behave within comment threads with my face on the top post. Previously though these rules were written for me, a reminder for when I get angry and illogical, that there are ways I should act and standards that I want to hold myself to. 
 
 That's the intent here too. I will apply these rules to places I control (these days the only place I could conceivably doxx someone is in the comments sections of my old WordPress blogs) but this is intended as a reminder and a standard of how I want to act ethically on the internet. I will use them to understand and react to other situations, but I don't intend to hold anyone to them. These are my rules for me, you can adopt them (or not) and they are what I consider to be the ethical standard in my eyes, but they are dependent on my judgement and so aren't intended as a gold standard. 
+
+(Top image [via](https://www.flickr.com/photos/monkeymashbutton/5948655391))
