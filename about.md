@@ -14,11 +14,12 @@ Everything he reads is at [Chronoto.pe][chronoto].
 
 You can find an archive of everything he's written anywhere at his [Nodality][nodality].
 
+I love talking about Ad Tech, but if you are a reporter looking for a comment for an article you might be better off [speaking to these people first](https://docs.google.com/document/d/1jc0OMAI-fy9Ki2YpXv4yTE2gS7uXgI39ozBkBD0QSnI/edit?usp=sharing) who are way smarter about most of this than I.
+
 A song for this site:
 <iframe src="https://open.spotify.com/embed/track/6JH9yWhgbm0y9iAJhCslNc" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
-I love talking about Ad Tech, but if you are a reporter looking for a comment for an article you might be better off [speaking to these people first](https://docs.google.com/document/d/1jc0OMAI-fy9Ki2YpXv4yTE2gS7uXgI39ozBkBD0QSnI/edit?usp=sharing) who are way smarter about most of this than I.
 
 ---
 
