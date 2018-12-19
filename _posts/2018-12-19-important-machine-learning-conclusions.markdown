@@ -2,7 +2,7 @@
 layout: post
 title:  "Useful Machine Learning Slide from a Presentation"
 date:   2018-12-19 11:00:51 -0500
-categories:  machine-learning tweets tools humans
+categories:  tweets machine-learning
 image: https://github.com/AramZS/aramzs.github.io/blob/master/_includes/DulJW-iWkAEoGLN-crop.jpg?raw=true
 vertical: Ethics
 excerpt: "A slide from a machine learning literacy salon is worth remembering."
