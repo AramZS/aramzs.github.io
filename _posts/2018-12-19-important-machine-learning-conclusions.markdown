@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Useful Machine Learning Slide from a Presentation"
-date:   2018-04-27 18:00:51 -0400
+date:   2018-12-19 11:00:51 -0500
 categories:  machine-learning tweets tools humans
 image: https://github.com/AramZS/aramzs.github.io/blob/master/_includes/DulJW-iWkAEoGLN-crop.jpg?raw=true
 vertical: Ethics
