@@ -1,10 +1,12 @@
 ---
+title: How to get a React project linting in real time with Atom
+date: 2016-01-18 14:34:51 Z
+categories:
+- React,
+- JSHint
 layout: post
-title:  "How to get a React project linting in real time with Atom"
-date:   2016-01-18 10:34:51 -0400
-categories: React, JSHint
 vertical: Code
-excerpt: "A very very quick how to."
+excerpt: A very very quick how to.
 ---
 
 First install the JSHint package for Atom.

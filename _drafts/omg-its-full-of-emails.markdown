@@ -1,11 +1,15 @@
 ---
+title: 'Extreme Email Management: Use a whitelist, have private mode for Gmail'
+date: 2015-11-18 11:34:51 Z
+categories:
+- email,
+- gtd,
+- gmail
 layout: post
-title:  "Extreme Email Management: Use a whitelist, have private mode for Gmail"
-date:   2015-11-18 07:34:51 -0400
-categories: email, gtd, gmail
 image: http://49.media.tumblr.com/954014a7f1187e5dd7680dec72474b3f/tumblr_nte7cc5vaH1qzocgko1_400.gif
 vertical: Tools
-excerpt: "Email sucks, bring it up to date in a world of messaging systems which give you real control over who gets access to your time."
+excerpt: Email sucks, bring it up to date in a world of messaging systems which give
+  you real control over who gets access to your time.
 ---
 
 Email is old, almost as old as you can get in internet years, and as much as email clients like Gmail try and make it more manageable, at heart it is still a godawful mess. Never is Email's age more apparent then working with it alongside modern systems which give you significant direct control over who even gets a chance to contact you. Slack, private Twitter or list-controlled Facebook all can give you significant control not just over who sees your posts, but over who can send you a message. With a few filters, you can bring that same level of control to Gmail.

@@ -1,3 +1,8 @@
+---
+title: Wef
+date: 2018-12-19 16:32:11.924000000 Z
+---
+
 # Day 1
 - An ethics layer or ethics switch 
     - mechanism at the API level to define their own ethics and values

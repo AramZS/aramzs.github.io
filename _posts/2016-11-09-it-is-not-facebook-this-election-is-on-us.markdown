@@ -1,10 +1,14 @@
 ---
+title: This is on us
+date: 2016-11-09 16:34:51 Z
+categories:
+- politics
+- tools
+- humans
 layout: post
-title:  "This is on us"
-date:   2016-11-09 11:34:51 -0500
-categories: politics tools humans
 vertical: Fight
-excerpt: "The problem has never been how we look out on the world, but what we choose to perceive."
+excerpt: The problem has never been how we look out on the world, but what we choose
+  to perceive.
 image: https://github.com/AramZS/aramzs.github.io/blob/master/_includes/rtxs1cu.jpg?raw=true
 overlay: red
 ---

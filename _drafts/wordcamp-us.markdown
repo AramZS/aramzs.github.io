@@ -1,12 +1,15 @@
 ---
+title: Notes from WordCamp US 2015
+date: 2015-12-04 13:34:51 Z
+categories:
+- notes
+- wordpress
+- wordpressus2015
 layout: post
-title:  "Notes from WordCamp US 2015"
-date:   2015-12-04 09:34:51 -0400
-categories: notes wordpress wordpressus2015
 image: https://2015.us.wordcamp.org/files/2015/09/bg1.jpg
 overlay: blue
 vertical: Code
-excerpt: "Notes!"
+excerpt: Notes!
 ---
 
 Notes from the grab bag of sessions that I attended at WordPress US 2015.

@@ -1,10 +1,13 @@
 ---
+title: Day of REST Notes
+date: 2017-03-09 15:34:51 Z
+categories:
+- tools
+- wordpress
+- api
 layout: post
-title:  "Day of REST Notes"
-date:   2017-03-09 10:34:51 -0500
-categories: tools wordpress api
 vertical: Code
-excerpt: "Day of REST #feelingRESTful"
+excerpt: 'Day of REST #feelingRESTful'
 ---
 
 Add links to your response `_links` `link type`: `/wp/v2/etc...` which can then be added to the API base to get more data through that link.

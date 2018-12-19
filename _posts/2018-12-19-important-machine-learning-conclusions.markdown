@@ -1,11 +1,13 @@
 ---
+title: Useful Machine Learning Slide from a Presentation
+date: 2018-12-19 16:00:51 Z
+categories:
+- tweets
+- machine-learning
 layout: post
-title:  "Useful Machine Learning Slide from a Presentation"
-date:   2018-12-19 11:00:51 -0500
-categories:  tweets machine-learning
 image: https://github.com/AramZS/aramzs.github.io/blob/master/_includes/DulJW-iWkAEoGLN-crop.jpg?raw=true
 vertical: Ethics
-excerpt: "A slide from a machine learning literacy salon is worth remembering."
+excerpt: A slide from a machine learning literacy salon is worth remembering.
 overlay: green
 hashtag: EthicalTech
 isBasedOn: https://twitter.com/zachlieberman/status/1074470650289491968

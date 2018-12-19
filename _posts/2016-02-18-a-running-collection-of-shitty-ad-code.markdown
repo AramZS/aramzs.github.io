@@ -1,12 +1,13 @@
 ---
+title: A running collection of shitty ad code
+date: 2016-02-18 20:34:51 Z
+categories:
+- ad-tech
 layout: post
-title:  "A running collection of shitty ad code"
-date:   2016-02-18 16:34:51 -0400
-categories: ad-tech
 image: https://upload.wikimedia.org/wikipedia/commons/e/e1/Women_digging_the_well.jpg
 overlay: brown
 vertical: Code
-excerpt: "Terrible code I have known."
+excerpt: Terrible code I have known.
 ---
 
 I'm now keeping a collection of terrible awful no-good ad-tech code. This isn't just code that tracks you, I mean code that is actually written terribly and breaks sites all around the web.

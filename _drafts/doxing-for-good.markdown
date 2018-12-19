@@ -1,11 +1,13 @@
 ---
+title: My 8 Rules for Ethical Doxxing
+date: 2018-06-02 11:00:51 Z
+categories:
+- ethics
+- media
 layout: post
-title:  "My 8 Rules for Ethical Doxxing"
-date:   2018-06-02 7:00:51 -0400
-categories:  ethics media
 image: https://github.com/AramZS/aramzs.github.io/blob/master/_includes/face-peel.jpg?raw=true
 vertical: Journalism
-excerpt: "What is doxxing, when is it ok, is it ever?"
+excerpt: What is doxxing, when is it ok, is it ever?
 overlay: red
 hashtag: EthicalDoxxing
 ---

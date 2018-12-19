@@ -1,11 +1,13 @@
 ---
+title: How to give your Jekyll Site Structured Data for Search with JSON-LD
+date: 2018-04-27 22:00:51 Z
+categories:
+- jekyll
+- schema-dot-org
 layout: post
-title:  "How to give your Jekyll Site Structured Data for Search with JSON-LD"
-date:   2018-04-27 18:00:51 -0400
-categories:  jekyll schema-dot-org
 image: https://github.com/AramZS/aramzs.github.io/blob/master/_includes/beamdown.gif?raw=true
 vertical: Code
-excerpt: "Let's make your Jekyll site work with Schema.org structured data and JSON-LD."
+excerpt: Let's make your Jekyll site work with Schema.org structured data and JSON-LD.
 overlay: blue
 hashtag: JekyllStructured
 ---

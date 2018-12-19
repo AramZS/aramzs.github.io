@@ -1,11 +1,13 @@
 ---
+title: What's the end game in the world of Google AMP?
+date: 2015-12-03 07:34:51 Z
+categories:
+- journalism
+- business
 layout: post
-title:  "What's the end game in the world of Google AMP?"
-date:   2015-12-03 3:34:51 -0400
-categories: journalism business
 image: https://40.media.tumblr.com/4a5f204a2b97b6930960ba478b921812/tumblr_nyswvnnXTB1qzocgko1_1280.jpg
 vertical: Media
-excerpt: "It's all just one long push to the bottom."
+excerpt: It's all just one long push to the bottom.
 ---
 
 Facebook Instant Articles, Google AMP.

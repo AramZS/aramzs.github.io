@@ -1,12 +1,14 @@
 ---
+title: Thoughts on doom
+date: 2015-12-04 13:34:51 Z
+categories:
+- notes
 layout: post
-title:  "Thoughts on doom"
-date:   2015-12-04 09:34:51 -0400
-categories: notes
-image:
+image: 
 vertical: Tech
-excerpt: "Aughhhh"
+excerpt: Aughhhh
 ---
+
 I am coming to think that it isn't just Uber and AirBnB. The fundamental ethical flaw of the sharing economy is basically the same in every tech 'disruption' to arrive in the current tech bubble (2004-????) empowers the same goal, to slowly replace professional labor with untrained, ill-performing consumers who are willing to spend their free time to promote the growth of the platform to which they pledge allegiance.
 
 Most major consumer-facing Silicon Valley tech tools of the last decade push you to spend your free time in competition with paid labor that performs similar functions. As a result, all money leaves the market in which Technology X and App Y arrive in, that money, moves from a variety of classes and workers, who were previously paid to accomplish tasks, to technology platforms that optimize the performance of the same tasks to maximize the competition of 'your free time' with paid labor for the same tasks you're doing in that time. That money, saved by replacing paid with free labor, then flows to the most effective technology for optimization. The labor savings is spent on technological tools. All money flows towards tech because it is actively eliminating the existence of monetary compensation everywhere else.

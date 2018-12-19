@@ -1,11 +1,13 @@
 ---
+title: 'Notes from: Distribute All The Things'
+date: 2017-08-18 20:19:51 Z
+categories:
+- ad-tech
 layout: post
-title:  "Notes from: Distribute All The Things"
-date:   2017-08-18 14:19:51 -0600
-categories: ad-tech
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Ad-tech_London_2010_%284%29.JPG/1600px-Ad-tech_London_2010_%284%29.JPG
 vertical: Journalism
-excerpt: "Publishers have agency here, they're part of the problem & they should be part of the solution"
+excerpt: Publishers have agency here, they're part of the problem & they should be
+  part of the solution
 ---
 
 ##### Presentation by Jake Goldman [@jakemgold](http://twitter.com/jakemgold)

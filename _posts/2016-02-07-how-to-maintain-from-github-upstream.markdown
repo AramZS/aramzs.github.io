@@ -1,10 +1,12 @@
 ---
+title: Maintaining an abandoned project from upstream on GitHub
+date: 2016-02-07 19:34:51 Z
+categories:
+- open-source
+- GitHub
 layout: post
-title:  "Maintaining an abandoned project from upstream on GitHub"
-date:   2016-02-07 15:34:51 -0400
-categories: open-source GitHub
 vertical: Code
-excerpt: "How to deal with an abandoned project without leaving the tree."
+excerpt: How to deal with an abandoned project without leaving the tree.
 ---
 
 Sometimes you're working with an open-source code library that has a number of interested contributors but has been abandoned by the project maintainer. There are a few options for keeping the project up to date. The most obvious one is to cut the branch off the tree and start your own repository. However, that's not always the optimal solution. Sometimes the maintainer is fairly high profile, or the code is linked in a lot of places, or for whatever reason abandoning the base git tree just won't work.

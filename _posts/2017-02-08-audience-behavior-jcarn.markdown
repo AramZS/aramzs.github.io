@@ -1,10 +1,13 @@
 ---
+title: 'Users, Humans and Eyeballs: Designing for News Readers'
+date: 2017-02-08 22:34:51 Z
+categories:
+- tools
+- humans
+- ux
 layout: post
-title:  "Users, Humans and Eyeballs: Designing for News Readers"
-date:   2017-02-08 17:34:51 -0500
-categories: tools humans ux
 vertical: Media
-excerpt: "Why is our design informed more by trends than science?"
+excerpt: Why is our design informed more by trends than science?
 image: https://github.com/AramZS/aramzs.github.io/blob/master/_includes/eyeballs-on-sticks.gif?raw=true
 overlay: blue
 ---

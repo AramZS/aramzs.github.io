@@ -1,11 +1,14 @@
 ---
+title: How to make your Jekyll site show up on social
+date: 2015-11-11 15:34:51 Z
+categories:
+- jekyll
+- social-media
 layout: post
-title:  "How to make your Jekyll site show up on social"
-date:   2015-11-11 11:34:51 -0400
-categories: jekyll social-media
 image: https://raw.githubusercontent.com/AramZS/aramzs.github.io/master/_includes/tumblr_nwncf1T2ht1rl195mo1_1280.jpg
 vertical: Code
-excerpt: "Here's how to make Jekyll posts easier for others to see and share on social networks."
+excerpt: Here's how to make Jekyll posts easier for others to see and share on social
+  networks.
 ---
 
 Congratulations, you've set up a Jekyll site. You may even be, like me, taking advantage of the free hosting provided by GitHub. You've written your first post, you've set up all the options. But when you go to share it on Facebook, Tumblr, LinkedIn or Twitter, that share may not look so pretty.

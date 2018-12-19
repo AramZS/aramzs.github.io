@@ -1,7 +1,7 @@
 ---
-layout: page
 title: About
-permalink: /about/
+permalink: "/about/"
+layout: page
 ---
 
 This is the GitHub.io site for [Aram Zucker-Scharff][aram].
