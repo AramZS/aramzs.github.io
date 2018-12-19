@@ -422,3 +422,10 @@ body.post {
         background: rgba(203, 138, 138, 0.42);
     }
 }
+
+.green {
+    @include image-overlay;
+    &::before {
+        background: rgba(232, 251, 230, 0.42);
+    }
+}
