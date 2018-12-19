@@ -17,7 +17,8 @@ I spotted this [on Twitter from user Zach Lieberman](https://twitter.com/zachlie
 
 The image of the slide reads: 
 <blockquote>
-Conclusions: 
+### Conclusions: 
+  
 - Human bodies & emotions are increasingly machine readable 
 - Machine-readability allows emotional manipulation & automated enforcement of pre-existing oppressive structures 
 - STOP asking "how can this be made ethically?" - start asking 'hy should this exist at all?" 
