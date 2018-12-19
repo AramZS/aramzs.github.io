@@ -21,7 +21,7 @@ The text of the slide reads:
 >  
 > - Human bodies & emotions are increasingly machine readable 
 > - Machine-readability allows emotional manipulation & automated enforcement of pre-existing oppressive structures 
-> - STOP asking "how can this be made ethically?" - start asking 'hy should this exist at all?" 
+> - STOP asking "how can this be made ethically?" - start asking "Why should this exist at all?" 
 > - The legacy code of all technology is the society that created it: white supremacist, imperialist, cis-hetero patriarchal societies will produce tech embedded with those values 
 > - Machine learning is intersectional or it's bullshit 
 
