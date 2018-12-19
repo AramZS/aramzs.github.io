@@ -1,6 +1,6 @@
 ---
 title: Fight With Tools by AramZS
-timezone: UTC
+timezone: America/New_York
 collections:
   posts:
     title: Posts
@@ -14,7 +14,7 @@ description: 'A site discussing how to imagine, build, analyze and use cool code
   save the world, but you can.
 
 '
-baseurl: ''
+baseurl: 
 url: http://aramzs.github.io
 twitter_username: Chronotope
 github_username: aramzs
