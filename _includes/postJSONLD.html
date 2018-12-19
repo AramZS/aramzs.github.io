@@ -22,6 +22,7 @@
         "datePublished": "{{page.date}}",
         "dateModified": "{% if page.modified %}{{page.modified}}{% else %}{{page.date}}{% endif %}",
         "isAccessibleForFree": "True",
+        {% if page.isBasedOn %}"isBasedOn": "{{page.isBasedOn}}",{% endif %}
         "isPartOf": {
             "@type": ["CreativeWork", "Product", "Blog"],
             "name": "Fight With Tools",
