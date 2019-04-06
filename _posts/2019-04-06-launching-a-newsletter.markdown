@@ -1,7 +1,6 @@
 ---
 title: Launching a Newsletter
 date: 2019-04-06 11:39:00 -04:00
-published: false
 categories:
 - writing
 tags:
