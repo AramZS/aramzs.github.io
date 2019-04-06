@@ -9,7 +9,7 @@ tags:
 image: https://media1.giphy.com/media/5wWf7GW1AzV6pF3MaVW/giphy.gif?cid=790b76115ca8c926672e6238772160cb
 vertical: writing
 excerpt: My new newsletter, read all about it!
-hashtag: ItStartedWithATweet
+hashtag: StartedWithATweet
 Field name: 
 ---
 
