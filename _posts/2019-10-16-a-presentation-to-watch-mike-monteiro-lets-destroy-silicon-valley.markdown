@@ -18,4 +18,8 @@ A presentation on our responsibility of designers and by association technologis
 
 <video src="https://github.com/AramZS/aramzs.github.io/blob/master/_includes/LetsDestroySiliconValley.mp4?raw=true"></video>
 
+<hr />
+
+The presentation appears to have occurred at Joint Futures recently. 
+
 via: [https://twitter.com/JanKorsanke/status/1184534571951575040](https://twitter.com/JanKorsanke/status/1184534571951575040)
