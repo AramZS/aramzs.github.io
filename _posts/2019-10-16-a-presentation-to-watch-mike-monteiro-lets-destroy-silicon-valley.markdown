@@ -1,7 +1,6 @@
 ---
 title: 'A Presentation to Watch - Mike Monteiro: Let''s Destroy Silicon Valley'
 date: 2019-10-16 15:55:00 -04:00
-published: false
 categories:
 - presentations
 tags:
