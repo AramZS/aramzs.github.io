@@ -16,7 +16,7 @@ excerpt: 'A presentation on our responsibility as technologists to change the wo
 
 A presentation on our responsibility of designers and by association technologists to change the world. This is a great presentation by Mike Monteiro which is well worth watching. 
 
-<video src="https://github.com/AramZS/aramzs.github.io/blob/master/_includes/LetsDestroySiliconValley.mp4?raw=true"></video>
+<video src="https://github.com/AramZS/aramzs.github.io/blob/master/_includes/LetsDestroySiliconValley.mp4?raw=true" controls controlslist playsinline></video>
 
 <hr />
 
