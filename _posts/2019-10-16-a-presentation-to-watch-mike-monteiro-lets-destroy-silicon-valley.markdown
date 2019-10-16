@@ -20,6 +20,6 @@ A presentation on our responsibility of designers and by association technologis
 
 <hr />
 
-The presentation appears to have occurred at Joint Futures recently. 
+The presentation appears to have occurred at [Joint Futures](https://twitter.com/jointfutures) recently. 
 
 via: [https://twitter.com/JanKorsanke/status/1184534571951575040](https://twitter.com/JanKorsanke/status/1184534571951575040)
