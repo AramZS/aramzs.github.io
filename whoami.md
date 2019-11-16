@@ -1,13 +1,15 @@
 ---
 title: Who is Aram Zucker-Scharff?
-date: 2018-04-21 12:00:00 Z
+date: 2018-04-21 08:00:00 -04:00
 permalink: "/aramzs/"
-layout: page
 navtitle: Who is Aram?
 excerpt: Aram Zucker-Scharff is Director for Ad Engineering at Washington Post, lead
   dev for PressForward and a consultant. Tech solutions for journo problems.
 jsonld: jsonld-id
+layout: page
 ---
+
+Hi!
 
 ## What does Aram do?
 
@@ -32,14 +34,11 @@ Aram Zucker-Scharff is: out to find a better narrative for the world. He has bui
 Aram has previously worked as Salon.com’s full stack developer. His work has been covered multiple times in journalism.co.uk and he has appeared in The Atlantic, Digiday, Poynter, and Columbia Journalism Review. He has also worked as a journalist, a community manager and a journalism educator.
 
 ### Full Resume
-Get Aram's full resume from its [printer-friendly page][resume].
+
+Get Aram's full resume from its [printer-friendly page](http://aramzs.github.io/resume/).
 <iframe src="http://aramzs.github.io/resume/" width="100%" height="800px"></iframe>
 
 <br /> <br />
-[What Aram has Been Writing and Doing][nodality]
+[What Aram has Been Writing and Doing](http://aramzs.me)
 
-[What Aram has Been Reading][chronoto]
-
-[resume]: http://aramzs.github.io/resume/
-[nodality]: http://aramzs.me
-[chronoto]: http://chronoto.pe
+[What Aram has Been Reading](http://chronoto.pe)
