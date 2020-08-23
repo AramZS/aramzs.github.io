@@ -1,13 +1,14 @@
 ---
-title: "Spotify asks listeners to hack its algorithm"
-date: 2020-09-01 17:05:00 -05:00
+title: Spotify asks listeners to hack its algorithm
+date: 2020-09-01 18:05:00 -04:00
 categories:
 - fun
 tags:
 - tech
 vertical: Music
 hashtag: PlaylistHacking
-excerpt: Spotify's user experience asks us to control recommendations, instead of letting it control us.
+excerpt: Spotify's user experience asks us to control recommendations, instead of
+  letting it control us.
 image: https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_RGB_Green.png
 overlay: blue
 ---
