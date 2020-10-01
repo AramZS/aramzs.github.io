@@ -18,7 +18,7 @@ This narrowing has become even more difficult to escape now that my entire music
 
 This problem is called "filter bubbles", though I think that's a little too general a term, and it isn't just a problem of music recommendations. Only, I think there's a solution that leverages the algorithmic recommendation process to broaden, instead of limit, us and we can see it already in Spotify.
 
-## Why don't you get away?
+## The Sweet Escape
 
 A brief guide to breaking your way out of your musical comfort zone.
 
