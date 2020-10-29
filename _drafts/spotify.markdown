@@ -7,7 +7,7 @@ tags:
 - tech
 vertical: Music
 hashtag: PlaylistHacking
-excerpt: Spotify's user experience asks us to control recommendations, instead of
+excerpt: Spotify's user experience for music asks us to control recommendations, instead of
   letting it control us.
 image: https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_RGB_Green.png
 overlay: blue
@@ -37,7 +37,7 @@ As you dig into these different playlists, you'll find that listening impacts yo
 
 ![Breaking my grove by breaking my Discover playlist](https://media1.tenor.com/images/f2688dbd3ace6baed89be514193dfba7/tenor.gif?itemid=14993711)
 
-I'm [pretty sure I've broken my Discover playlist](https://twitter.com/Chronotope/status/1000748313963089921) because it seems to often be filled with stuff I don't particularly like. One time it was filled with [bitcoin rap about "lambos",](https://twitter.com/Chronotope/status/982376399766999041) which was the worst. If I'm looking for an antidote, but with nothing particular in mind, I also look for new music by finding other people's Discovery playlists in the Friend Activity feed. Now I have a folder entirely composed of other people's Discovery playlists. It's great because I have a friends with better and sometimes very different musical taste than me. Hopping into a friend's Discover playlist is a lot of fun, as it puts you outside of your comfort zone, and is also a great exercise in listening to entirely different kinds of music.
+I'm [pretty sure I've broken my Discover playlist](https://twitter.com/Chronotope/status/1000748313963089921) because it seems to often be filled with stuff I don't particularly like. One time it was filled with [bitcoin rap about "lambos",](https://twitter.com/Chronotope/status/982376399766999041) which was the worst. If I'm looking for an antidote, but with nothing particular in mind, I also look for new music by finding other people's Discovery playlists in the Friend Activity feed. Now I have a folder entirely composed of other people's Discovery playlists. It's great because some of my friends have better and sometimes very different musical tastes than I. Hopping into a friend's Discover playlist is a lot of fun, as it puts you outside your comfort zone, and is also a great exercise in listening to entirely different kinds of music.
 
 Occasionally there will be something great in my Discovery playlist, even now, so you can [make mine the first you explore](https://open.spotify.com/playlist/37i9dQZEVXcEWUzYxxxhEC?si=Fipy_U5nSGKKuYtoi4HQXw).
 
@@ -72,10 +72,9 @@ From the Map area of ENaO I can expand the playlists I might explore based on a 
 - `playlist` sends me to "The Sounds of [Genre]" playlists on Spotify. When I stumble across an interesting genre I will often save the Sounds Of playlist for later when I'm in the mood to explore it a bit deeper. As a result I have a [whole](https://open.spotify.com/playlist/1ga7kXhbcB4tsOfpZqP7UX?si=erThuQAVTlSKKmxMCTNAPw) [bunch](https://open.spotify.com/playlist/5m9ErLc15dYYCGzvrcVy8q?si=MUdGuOlGTBm1D2XkSCrC_A) [of](https://open.spotify.com/playlist/5INg0fRsoA1uYyyJwliHGS?si=GZvBDr6MQfSMHZ89zY5SjQ) [these](https://open.spotify.com/playlist/1qpcTBjAx26Xiw6ZClVVGm?si=rbc7JlryRWuiwJ8OCkassA) [playlists](https://open.spotify.com/playlist/1qpcTBjAx26Xiw6ZClVVGm?si=SdUteV0sRgW7JsXEU2bmQg) which essentially act as up-to-date overviews to the genre I can dive into at any time.
 - `intro` is essentially an 'introduction' to this genre with music that represents the core sound and is most popular among listeners of the genre. 
 - `pulse` is an interesting look at which songs listeners of this genre currently prefer. 
-- `edge` is a fun one that shows you songs that people who like this genre currently enjoy outside the genre itself. It's another great tool for pulling yourself out of the a listening rut.
+- `edge` is a fun one that shows you songs that people who like this genre currently enjoy outside the genre itself. It's another great tool for pulling yourself out of a listening rut.
 
 I might go to one or all of those playlists depending on how curious I am in order to find new music and save it to my liked songs. 
-
 
 ## Don't Stop the Music
 
@@ -103,7 +102,7 @@ I'll act on my new understanding of those differences by splitting the playlist 
 
 ## Every Day I'm Shuffling
 
-The key to this process is the Recommended Songs list at the end of every playlist. It's a particularly fascinating piece of the user interface for Spotify. It represents a radically different way of interacting with a recommendation algorithm that differs from every other social platform. It's the difference between being directed by the algorithm as a subject vs you directing the algorithm as a tool. 
+The key to this process is the Recommended Songs list at the end of every playlist. It's a particularly fascinating piece of the user interface for Spotify. The section represents a radically different way of interacting with a recommendation algorithm, one that differs from other social platforms. It is the difference between being directed by the algorithm as a subject vs you directing the algorithm as a tool. 
 
 McDonald (still a few years from his employer being acquired by Spotify and this Recommendation mechanic becoming part of the app) states the core approach that creates this difference:
 
