@@ -50,7 +50,7 @@ Every Noise at Once is an algorithmic attempt to categorize music by genre and t
 
 Here's what the ENaO graph looks like for Classic Rock, one example of a genre I frequency listen to:
 
-![Every Noise at Once Band Cloud for Classic Rock](../_includes/classicrock-band-space.PNG)
+![Every Noise at Once Band Cloud for Classic Rock](https://github.com/AramZS/aramzs.github.io/blob/master/_includes/classicrock-band-space.PNG?raw=true)
 
 In [the description of how this algorithmic sorting came to be](http://everynoise.com/EverynoiseIntro.pdf) engineer Glenn McDonald notes: 
 
@@ -60,11 +60,11 @@ By creating a system which can organically enter into a genre and essentially re
 
 ENaO brings forth the ability to see the relationship graph of a genre. Here's Classic Rock's closely related genres (based on how listeners act, not on any historical reasoning).
 
-![Musical Genres by Closeness of type to Classic Rock](../_includes/classic-rock-sound-space.PNG)
+![Musical Genres by Closeness of type to Classic Rock](https://github.com/AramZS/aramzs.github.io/blob/master/_includes/classic-rock-sound-space.PNG?raw=true)
 
 Now if I want to make a small move, say I want to still get some of the sound of classic rock but move away from the core music of the genre I might choose to move towards psychedelic rock, traditional folk, or art rock. The position tells me a little about the genre in relation to Classic Rock: "down is more organic, up is more mechanical and electric; left is denser and more atmospheric, right is spikier and bouncier." But ENaO gives me another option, the inverse graph: 
 
-![Musical Genres by Inverse of type to Classic Rock](../_includes/classic-rock-inverse-sound.PNG)
+![Musical Genres by Inverse of type to Classic Rock](https://github.com/AramZS/aramzs.github.io/blob/master/_includes/classic-rock-inverse-sound.PNG?raw=true)
 
 Now, if I'm feeling like I really want to flip my listening on my head I can pick something totally opposite of my normal genre. Perhaps Fluxwork or some Montreal Indie?
 
@@ -83,11 +83,11 @@ Once I find a song or genre I like, of course not every related song is my cup o
 
 My neighborhood Vietnamese restaurant plays really great Thai music. Of course, I didn't know what type of music it was or even what language it was in when I first heard it, I had to Shazam it. The nature of exploring music this way is sort of naive so please excuse any factual errors to follow. Over the course of one dinner I had a few songs that I could explore. "[โคตรเลวในดวงใจ](https://open.spotify.com/album/4qTYvKGgpzAv8RZ7xlriKb?highlight=spotify:track:2PVLzzBM6KslHNMtxBYV3A)" by Takkatan Chollada is classified as Thai pop country. "[เสียเวลาว่ะ](https://open.spotify.com/track/1CxiMGrvmnbLjaetq7SKhN?si=io8zyGfeRnuDTWbZtlYUEQ)" by electric.neon.lamp is in Thai pop indie playlists while "[เสพติดความเจ็บปวด](https://open.spotify.com/track/0vUIzJuMzRAiPUn9xTyAzi?si=hRhlmYGgRbmdYIN5CJDxmw)" by The Yers appears to be Thai pop rock. These are assumptions I make by looking at the **Discovered On** playlists and translating the names. 
 
-![Playlists on which The Yers appear](../_includes/spotify-yers-about-page.png)
+![Playlists on which The Yers appear](https://github.com/AramZS/aramzs.github.io/blob/master/_includes/spotify-yers-about-page.png?raw=true)
 
 Judging on these three songs it looks like I would enjoy Thai Pop music. Now I can throw these songs together into a playlist. When I create a Spotify playlist around songs from a new genre, it only takes a few entries before I can scroll to the bottom and use the *Recommended Songs* area. 
 
-![Playlist recommendations for more Thai pop songs](../_includes/thai-pop-recommended.png)
+![Playlist recommendations for more Thai pop songs](https://github.com/AramZS/aramzs.github.io/blob/master/_includes/thai-pop-recommended.png?raw=true)
 
 By hopping into that section and listening further for what I enjoy, I can pretty quickly develop a playlist of my favorite parts of this genre I'm newly exploring, without knowing a lot except the particular sound that appeals to me.
 
