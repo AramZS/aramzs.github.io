@@ -124,3 +124,4 @@ You should read more about what's going on here:
 - [Spotify Is Defending Alex Jones' Appearance On "The Joe Rogan Experience"](https://www.buzzfeednews.com/article/janelytvynenko/spotify-defends-alex-jones-joe-rogan-podcast)
 - ['Justice At Spotify' Campaign Calls for Increased Royalty Rates, More Transparency](https://www.hollywoodreporter.com/news/justice-at-spotify-campaign-calls-for-increased-royalty-rates-more-transparency)
 - [Spotify hints at subscription podcast service](https://www.theverge.com/2020/11/6/21552822/spotify-podcast-subscription-service-survey)
+- [The Problem with Muzak](https://thebaffler.com/salvos/the-problem-with-muzak-pelly)
