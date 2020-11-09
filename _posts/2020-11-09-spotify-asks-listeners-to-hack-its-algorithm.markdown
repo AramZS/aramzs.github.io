@@ -18,7 +18,7 @@ I listen to a lot of music and one of the things I noticed over the years is tha
 
 This narrowing has become even more difficult to escape now that my entire music experience is filtered through a streaming service, there's no longer any time to trip over a song on the radio or even stumble over a recommendation on a pirating site. Even if someone was going to lend me a CD, I don't have anything to play it anymore. Taking a single recommendation often isn't enough to break out of the effect of my overall listening pattern. If I do nothing but passively consume music via a streaming service, I'll likely never be pushed to the edge, much less out, of my comfort zone. 
 
-This problem is called "filter bubbles", though I think that's a little too general a term, and it isn't just a problem of music recommendations. Only, I think there's a solution that leverages the algorithmic recommendation process to broaden, instead of limit, us and we can see it already in Spotify.
+This problem isn't just one of music recommendations. Only, I think there's a solution that leverages the algorithmic recommendation process to broaden, instead of limit, us and we can see it already in Spotify.
 
 ## The Sweet Escape
 
