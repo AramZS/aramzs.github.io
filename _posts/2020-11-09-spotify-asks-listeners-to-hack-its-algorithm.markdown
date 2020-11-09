@@ -114,7 +114,7 @@ All it takes is a few small changes in the user experience to make an algorithm 
 
 ## Editor's Note - Podcasts
 
-It's worth noting that I wrote this before a well-earned explosion of controversy around Spotify royalty rates and podcasts. The podcasts question is especially interesting because all this awesome stuff that works well with music doesn't work at all for podcasts (podcast recommendations seem to be a mystery in comparison). It's a whole other essay, but O wonder if part of the problem is trying to run a whole new type of content without any of the tools that make Spotify, as an experience for music fans, work. 
+It's worth noting that I wrote this before a well-earned explosion of controversy around Spotify royalty rates and podcasts. The podcasts question is especially interesting because all this awesome stuff that works well with music doesn't work at all for podcasts (podcast recommendations seem to be a mystery in comparison). It's a whole other essay, but I wonder if part of the problem is trying to run a whole new type of content without any of the tools that make Spotify, as an experience for music fans, work. 
 
 You should read more about what's going on here: 
 
