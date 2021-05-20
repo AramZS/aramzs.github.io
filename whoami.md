@@ -35,8 +35,8 @@ Aram has previously worked as Salon.com’s full stack developer. His work has b
 
 ### Full Resume
 
-Get Aram's full resume from its [printer-friendly page](http://aramzs.github.io/resume/).
-<iframe src="http://aramzs.github.io/resume/" width="100%" height="800px"></iframe>
+Get Aram's full resume from its [printer-friendly page](https://aramzs.github.io/resume/).
+<iframe src="https://aramzs.github.io/resume/" width="100%" height="800px"></iframe>
 
 <br /> <br />
 [What Aram has Been Writing and Doing](http://aramzs.me)
