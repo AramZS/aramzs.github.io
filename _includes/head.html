@@ -63,7 +63,7 @@
   	<!-- OG data for homepage -->
   	<meta property="og:image" content="https://41.media.tumblr.com/709bb3c371b9924add351bfe3386e946/tumblr_nxdq8uFdx81qzocgko1_1280.jpg" />
   	<meta property="og:type" content="website" />
-  	<meta name="twitter:card" content="summary" />
+  	<meta name="twitter:card" content="summary_large_image" />
   	<meta name="twitter:title" content="{{site.title}}" />
   	<meta name="twitter:image" content="https://41.media.tumblr.com/709bb3c371b9924add351bfe3386e946/tumblr_nxdq8uFdx81qzocgko1_1280.jpg" />
 	{% include homeJSONLD.html %}
@@ -76,8 +76,8 @@
 	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-	  ga('create', 'UA-87149202-1', 'auto');
-	  ga('send', 'pageview');
-
+	ga('create', 'UA-87149202-1', 'auto');
+	ga('set', 'anonymizeIp', true);
+	ga('send', 'pageview');
 	</script>
 </head>
