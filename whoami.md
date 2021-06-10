@@ -27,7 +27,12 @@ Mostly New York City, but you can also find him online at these places:
 
 Here's how you pronounce his name: 
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/651719039&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/aramzs" title="Aram Zucker-Scharff" target="_blank" style="color: #cccccc; text-decoration: none;">Aram Zucker-Scharff</a> · <a href="https://soundcloud.com/aramzs/aram-name" title="Aram Zucker-Scharff Name Pronunciation" target="_blank" style="color: #cccccc; text-decoration: none;">Aram Zucker-Scharff Name Pronunciation</a></div> <br />
+<audio controls>
+  <source src="https://github.com/AramZS/aramzs.github.io/blob/master/_includes/aram-name.mp3?raw=true" type="audio/mp3">
+  <source src="https://github.com/AramZS/aramzs.github.io/blob/master/_includes/aram-name.ogg?raw=true" type="audio/ogg">
+  <source src="https://github.com/AramZS/aramzs.github.io/blob/master/_includes/aram-name.webm?raw=true" type="audio/webm">
+  <p>Your browser doesn't support HTML5 audio. Here is a <a href="https://github.com/AramZS/aramzs.github.io/blob/master/_includes/aram-name.mp3?raw=true">link to the audio</a> instead.</p>
+</audio>
 
 ### Technology Solutions for Media Problems
 
