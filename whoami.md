@@ -50,4 +50,8 @@ Get Aram's full resume from its [printer-friendly page](https://aramzs.github.io
 <br /> <br />
 [What Aram has Been Writing and Doing](http://aramzs.me)
 
-[What Aram has Been Reading](http://chronoto.pe)
+[What Aram has Been Reading Online](http://chronoto.pe)
+
+[What Aram has Been Reading Offline](https://www.goodreads.com/user/show/1244876-aram)
+
+[What Aram has Been Listening To](https://www.last.fm/user/Shade0)
