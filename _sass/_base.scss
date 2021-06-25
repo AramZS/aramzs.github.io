@@ -225,3 +225,12 @@ pre {
         }
     }
 }
+
+#id-headshot {
+    float: right;
+    margin: 25px; 
+    @include media-query($on-palm) {
+        float: left;
+        margin: 12px auto;
+    }
+}
