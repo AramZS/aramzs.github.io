@@ -231,6 +231,12 @@ pre {
     margin: 25px; 
     @include media-query($on-palm) {
         float: left;
-        margin: 12px auto;
+        margin: 12px 6px;
+        width: 100%;
+    }
+    
+    img {
+        margin: 0 auto;
+        display: block;
     }
 }
