@@ -6,6 +6,7 @@ navtitle: Who is Aram?
 excerpt: Aram Zucker-Scharff is Director for Ad Engineering at Washington Post, lead
   dev for PressForward and a consultant. Tech solutions for journo problems.
 jsonld: jsonld-id
+ogimage: https://hacktext.com/wp-content/uploads/2021/06/Aram-Zucker-Scharff-fun-me-rect.jpg
 layout: page
 ---
 
