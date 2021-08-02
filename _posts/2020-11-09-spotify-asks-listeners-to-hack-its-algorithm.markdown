@@ -12,6 +12,7 @@ excerpt: Spotify's user experience for music asks us to control recommendations,
   of letting it control us.
 image: https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_RGB_Green.png
 isBasedOn: https://startedwithatweet.substack.com/p/how-spotify-asks-listeners-to-hack
+canonical: https://startedwithatweet.substack.com/p/how-spotify-asks-listeners-to-hack
 overlay: blue
 ---
 
