@@ -16,7 +16,9 @@ Hi!
 
 ## What does Aram do?
 
-Aram Zucker-Scharff is the Director for Ad Engineering for The Washington Post’s Research, Experimentation and Development group. He is also the lead developer for the open-source tool PressForward and a consultant on content strategy and newsroom workflows. He was one of Folio Magazine’s 15 under 30 in the magazine media industry.
+
+Aram Zucker-Scharff is the Senior Solutions Engineer for Zeus at The Washington Post where he works with publishers to maximize site performance and revenue. He has also worked on The Washington Post’s Ad Tech R&D and Big Data teams. Aram has developed open-source tools for publishers and consulted on content strategy and digital newsroom workflows. He was one of Folio Magazine’s 15 under 30 in the magazine media industry. 
+
 
 ### Where is Aram?
 
