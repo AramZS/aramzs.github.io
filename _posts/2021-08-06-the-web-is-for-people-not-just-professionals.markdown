@@ -8,8 +8,8 @@ tags:
 - standards
 vertical: Ethics
 hashtag: EthicalTech
-excerpt: This is for everyone. Not just for everyone to consume, but for everyone
-  to make.
+excerpt: '"This is for everyone. Not just for everyone to consume, but for everyone
+  to make."'
 image: https://github.com/AramZS/aramzs.github.io/blob/master/_includes/Screen%20Shot%202021-08-06%20at%203.04.18%20PM.png?raw=true
 isBasedOn: https://adactio.com/journal/18337
 overlay: green
