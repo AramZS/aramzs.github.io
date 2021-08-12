@@ -21,7 +21,7 @@ The end of third-party cookies is [still advancing](https://www.adexchanger.com/
 
 For forward-looking publishers, nothing has changed. It still benefits us to act as strongly as possible on behalf of privacy-seeking readership by leaning into privacy. The deadline may have moved, but [the future is still an increasingly private one](https://privacysandbox.com/timeline/) and the market, as ever, favors early adopters.
 
-Until the end of third-party cookies, there are plenty of old technologies we can’t compete without, as well as new ones that seek to build a platform for advertising, free of third-party cookies. Zeus Technology isn’t waiting. We will continue to innovate, test and collaborate with partners in the ad tech ecosystem who bring performance, both in eCPMs and speed on-page, on behalf of our customers. Through Zeus, our publishers will find both the resources to maintain their momentum through the end of 3p’s status quo, and the runway to continue to operate and expand via experimentation in the future of ad tech.
+Until the end of third-party cookies, there are plenty of old technologies we can’t compete without, as well as new ones that seek to build a platform for advertising, free of third-party cookies. Zeus Technology isn’t waiting. We will continue to innovate, test and collaborate with partners in the ad tech ecosystem who bring performance, both in eCPMs and speed on-page, on behalf of our customers. Through Zeus, our publishers will find both the resources to maintain their momentum through the end of 3p’s status quo, and the runway to continue to operate and expand via experimentation in the _future_ of ad tech.
 
 <hr />
 <br />
