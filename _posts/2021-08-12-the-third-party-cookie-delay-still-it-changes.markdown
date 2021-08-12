@@ -1,6 +1,6 @@
 ---
-title: "The third-party cookie delay: nothing changes fast, but still it changes"
-date: 2021-08-12 17:20:00 -05:00
+title: 'The third-party cookie delay: nothing changes fast, but still it changes'
+date: 2021-08-12 18:20:00 -04:00
 categories:
 - written-for-the-washington-post
 tags:
@@ -8,7 +8,8 @@ tags:
 - privacy
 vertical: Ad Tech
 hashtag: ZeusIsLoose
-excerpt: It’s important to recognize that nothing has really changed. The end of third-party cookies is still advancing.
+excerpt: It’s important to recognize that nothing has really changed. The end of third-party
+  cookies is still advancing.
 isBasedOn: https://blog.zeustechnology.com/the-third-party-cookie-delay-nothing-changes-fast-but-still-it-changes-ccca0d05105e
 canonical: https://blog.zeustechnology.com/the-third-party-cookie-delay-nothing-changes-fast-but-still-it-changes-ccca0d05105e
 ---
