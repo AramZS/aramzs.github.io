@@ -23,5 +23,6 @@ For forward-looking publishers, nothing has changed. It still benefits us to act
 Until the end of third-party cookies, there are plenty of old technologies we can’t compete without, as well as new ones that seek to build a platform for advertising, free of third-party cookies. Zeus Technology isn’t waiting. We will continue to innovate, test and collaborate with partners in the ad tech ecosystem who bring performance, both in eCPMs and speed on-page, on behalf of our customers. Through Zeus, our publishers will find both the resources to maintain their momentum through the end of 3p’s status quo, and the runway to continue to operate and expand via experimentation in the future of ad tech.
 
 <hr />
+<br />
 
 _[I originally wrote this on behalf of The Washington Post for their Zeus Technology Blog. The original post can be found here](https://blog.zeustechnology.com/the-third-party-cookie-delay-nothing-changes-fast-but-still-it-changes-ccca0d05105e)._
