@@ -29,4 +29,3 @@ Until the end of third-party cookies, there are plenty of old technologies we ca
 _[I originally wrote this on behalf of The Washington Post for their Zeus Technology Blog. The original post can be found here](https://blog.zeustechnology.com/the-third-party-cookie-delay-nothing-changes-fast-but-still-it-changes-ccca0d05105e)._
 
 <br />
-<hr />
