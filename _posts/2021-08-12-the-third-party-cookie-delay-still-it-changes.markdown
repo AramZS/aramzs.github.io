@@ -12,6 +12,7 @@ excerpt: It’s important to recognize that nothing has really changed. The end 
   cookies is still advancing.
 isBasedOn: https://blog.zeustechnology.com/the-third-party-cookie-delay-nothing-changes-fast-but-still-it-changes-ccca0d05105e
 canonical: https://blog.zeustechnology.com/the-third-party-cookie-delay-nothing-changes-fast-but-still-it-changes-ccca0d05105e
+writtenFor: The Washington Post
 ---
 
 Google [recently announced](https://blog.google/products/chrome/updated-timeline-privacy-sandbox-milestones/) they are delaying their plan to disable third-party cookies in Chrome, along with their Privacy Sandbox initiative. It’s tempting to look at this as a reprieve, a little extra time to relax and move post-cookie efforts into low gear, hoping the additional time will be enough to find better solutions. However, it’s important to recognize that nothing has really changed.
@@ -26,3 +27,6 @@ Until the end of third-party cookies, there are plenty of old technologies we ca
 <br />
 
 _[I originally wrote this on behalf of The Washington Post for their Zeus Technology Blog. The original post can be found here](https://blog.zeustechnology.com/the-third-party-cookie-delay-nothing-changes-fast-but-still-it-changes-ccca0d05105e)._
+
+<br />
+<hr />
