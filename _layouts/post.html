@@ -34,8 +34,10 @@ layout: default
 
     <div class="post-content" itemprop="articleBody">
       {{ content }}
+      {% if page.writtenFor %}
       <br /><br />
       <em>This post is specifically my own thoughts & not representative of my employers past or present.</em>
+      {% endif %}
       {% if page.hashtag %}
       <hr>
       <br /><br /><br />
