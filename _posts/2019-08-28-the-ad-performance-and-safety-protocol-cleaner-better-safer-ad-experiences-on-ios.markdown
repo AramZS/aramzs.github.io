@@ -1,5 +1,6 @@
 ---
-title: 'The Ad Performance and Safety Protocol: Cleaner, better, safer ad experiences on iOS '
+title: 'The Ad Performance and Safety Protocol: Cleaner, better, safer ad experiences
+  on iOS '
 date: 2019-08-28 18:20:00 -04:00
 categories:
 - written-for-the-washington-post
@@ -9,7 +10,8 @@ tags:
 vertical: Ad Tech
 hashtag: AdSafety
 image: https://raw.githubusercontent.com/AramZS/aramzs.github.io/master/_includes/safety-key.jpg
-excerpt: The Washington Post is taking a proactive approach to digital display advertising issues with a new project that is set to fix bad code.
+excerpt: The Washington Post is taking a proactive approach to digital display advertising
+  issues with a new project that is set to fix bad code.
 isBasedOn: https://washpost.engineering/the-ad-performance-and-safety-protocol-cleaner-better-safer-ad-experiences-on-ios-a5d474468957
 canonical: https://washpost.engineering/the-ad-performance-and-safety-protocol-cleaner-better-safer-ad-experiences-on-ios-a5d474468957
 writtenFor: The Washington Post
