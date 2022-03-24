@@ -60,3 +60,7 @@ Get Aram's full resume from its [printer-friendly page](https://aramzs.github.io
 [What Aram has Been Reading Offline](https://www.goodreads.com/user/show/1244876-aram)
 
 [What Aram has Been Listening To](https://www.last.fm/user/Shade0)
+
+[What Aram has Been Coding](https://fightwithtools.dev/)
+
+[What Aram has Been Researching](https://context.center/)
