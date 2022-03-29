@@ -12,7 +12,11 @@ tags:
 - Reportedly
 - Journalism
 isBasedOn: https://aramzs.kinja.com/journalism-from-location-without-destination-1678062000
-excerpt: Building a journalism organization that exists mostly (or only) on social media and other platforms makes a kind of weird sense. After all, where would Twitter or Facebook be without the commercial driving power of media organizations using and advertising on them? After all those years of our words helping them make money, shouldn&amp;#39;t they finally save us some in return?
+excerpt: Building a journalism organization that exists mostly (or only) on social
+  media and other platforms makes a kind of weird sense. After all, where would Twitter
+  or Facebook be without the commercial driving power of media organizations using
+  and advertising on them? After all those years of our words helping them make money,
+  shouldn&amp;#39;t they finally save us some in return?
 vertical: media
 hashtag: JournalismDestination
 ---
