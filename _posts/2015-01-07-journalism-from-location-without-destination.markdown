@@ -21,6 +21,8 @@ vertical: media
 hashtag: JournalismDestination
 ---
 
+Read this [in the Web Archive in its original format](https://web.archive.org/web/20201114182626/https://aramzs.kinja.com/journalism-from-location-without-destination-1678062000).
+
 <div class="r43lxo-0 kbIYZO js_post-content">
     <p class="sc-77igqf-0 bOfvBY"> Building a journalism organization that exists mostly (or only) on social media and other platforms makes a kind of weird sense. After all, where would Twitter or Facebook be without the commercial driving power of media organizations using and advertising on them? After all those years of our words helping them make money, shouldn't they finally save us some in return?</p>
     <p class="sc-77igqf-0 bOfvBY"> As fun as it is to feel smug in that sort of logic, I doubt it is what is pushing forward the quickly rising Distributed Journalism trend. <span><a class="sc-1out364-0 hMndXN sc-145m8ut-0 gIacKn js_link" data-ga="[[&quot;Embedded Url&quot;,&quot;External link&quot;,&quot;http://www.forbes.com/sites/tomwatson/2015/01/05/inside-the-decentralized-news-network-reported-lys-new-model-for-journalism/&quot;,{&quot;metric25&quot;:1}]]" href="https://web.archive.org/web/20201114182626/http://www.forbes.com/sites/tomwatson/2015/01/05/inside-the-decentralized-news-network-reported-lys-new-model-for-journalism/" target="_blank" rel="noopener noreferrer">The first driver of this movement is well stated by Reported.ly's Andy Carvin</a></span>:</p>
