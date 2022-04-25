@@ -30,6 +30,8 @@ Mostly New York City, but you can also find him online at these places:
 
 [GitHub](http://github.com/AramZS)
 
+<a rel="me" href="https://indieweb.social/@Chronotope">Mastodon</a>
+
 Here's how you pronounce his name: 
 
 <audio controls>
