@@ -53,5 +53,5 @@ We appreciate the opportunity to speak here.
 <hr />
 <br />
 
-_I wrote this on behalf of The Washington Post, who is my employer and it is published here with their permission and review._
+_I wrote this on behalf of The Washington Post, who is my employer, and it is published here with their permission and review._
 
