@@ -1,5 +1,5 @@
 ---
-title: 'On the Characteristics of an Effective Consent Signal'
+title: On the Characteristics of an Effective Consent Signal
 date: 2022-05-05 16:00:00 -04:00
 categories:
 - written-for-the-washington-post
@@ -13,7 +13,8 @@ vertical: Ad Tech
 overlay: blue
 image: https://github.com/AramZS/aramzs.github.io/blob/master/_includes/GPC-Compliance-Code.png?raw=true
 hashtag: GPC
-excerpt: The entire change that was needed to support GPC on The Washington Post was 7 lines of code.
+excerpt: The entire change that was needed to support GPC on The Washington Post was
+  7 lines of code.
 writtenFor: The Washington Post
 ---
 
