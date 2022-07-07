@@ -17,7 +17,7 @@ Hi!
 ## What does Aram do?
 
 
-Aram Zucker-Scharff is the Engineering Lead for Privacy & Security Compliance at The Washington Post where he works with publishers to maximize site performance and revenue. He has also worked on The Washington Post’s Ad Tech R&D and Big Data teams. Aram has developed open-source tools for publishers and consulted on content strategy and digital newsroom workflows. He was one of Folio Magazine’s 15 under 30 in the magazine media industry. 
+Aram Zucker-Scharff is the Engineering Lead for Privacy & Security Compliance at The Washington Post. He previously worked on the Zeus team, helping publishers to maximize site performance and revenue. He has also worked on The Washington Post’s Ad Tech R&D and Big Data teams. Aram has developed open-source tools for publishers and consulted on content strategy and digital newsroom workflows. He was one of Folio Magazine’s 15 under 30 in the magazine media industry. 
 
 
 ### Where is Aram?
