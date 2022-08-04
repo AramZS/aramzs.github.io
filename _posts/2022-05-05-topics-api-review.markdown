@@ -1,6 +1,6 @@
 ---
 title: Topics API Review
-date: 2022-05-05 13:00:00 -04:00
+date: 2022-08-04 13:00:00 -04:00
 categories:
 - web-standards
 tags:
