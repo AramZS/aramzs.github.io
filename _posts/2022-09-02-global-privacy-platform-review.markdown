@@ -195,7 +195,7 @@ GPP’s transmission of consent strings downstream still presents a fingerprinti
 
 GPP’s continuation of vendor-level consents is overwhelmingly complex, unfair to users, and creates unnecessary technical complications. It also encourages difficult or bad user interfaces in order to handle compliance on top of GPP; ones that would seem to be only more complex than TCF.
 
-With the potential for endless expansion, both on-interface and on-string, is unbound and could grow infinitely over time.
+With the potential for endless expansion, both on-interface and on-string, is unbound and could grow infinitely over time. This also compounds the risk of the GPP string being useful in fingerprinting users, and perhaps even becoming a fingerprint in-and-of-itself. 
 
 Considering the objections that TCF faces, an attempt to present GPP as an evolution of TCF that would address TCF’s problems–when it does not truely address those problems–is a threat to the continuing existence of Open RTB. The real time bidding ecosystem is desperately in need of an effective consent system.
 
