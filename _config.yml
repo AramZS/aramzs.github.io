@@ -19,3 +19,5 @@ url: http://aramzs.github.io
 twitter_username: Chronotope
 github_username: aramzs
 markdown: kramdown
+plugins:
+  - jekyll-toc
