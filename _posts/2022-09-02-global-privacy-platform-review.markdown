@@ -19,6 +19,14 @@ overlay: red
 toc: true
 ---
 
+## Summary 
+
+The Global Privacy Platform is intended to absorb the functionality of TCF and expand on it, as a consent-string-based privacy solution. While GPP expands the scope that the system can cover it does not resolve any of the intrinsic problems of the TCF approach. The result is a compounding of a deeply flawed system that, while it improves on the underlying concepts, does not resolve the core issues and therefore seems likely to face significant challenge from regulators and privacy advocates. 
+
+While this is a standing issue of TCF, it is extremely troubling that GPP seems like it wants to push the boulder down the road, creating adoption costs, compliance work, and additional technical overhead only to be eventually abandoned for not addressing most regulatory concerns. This would be less of a concern if GPP showed any way that it could be hooked into better solutions, or clear paths towards transformation into a system that would meet compliance expectations. However, GPP–in this draft–does not do that.
+
+While a publisher-based perspective doesn’t have leverage to turn this ship, I recommend against the IAB moving forward on the specification as it currently stands without a fundamental shift in methodology. If there was ever a time to significantly change our approach on consent management, it is now. GPP is not that change. 
+
 - [Summary](#summary)
 - [System Assessment](#system-assessment)
   * [API Layering for GPP’s Technical System](#api-layering-for-gpp-s-technical-system)
@@ -39,15 +47,6 @@ toc: true
   * [A Note on UI](#a-note-on-ui)
 - [Notes on Compliance Issues and GPP’s Relation to EU Court Findings](#notes-on-compliance-issues-and-gpp-s-relation-to-eu-court-findings)
 - [Ways Forward](#ways-forward)
-
-## Summary 
-
-The Global Privacy Platform is intended to absorb the functionality of TCF and expand on it, as a consent-string-based privacy solution. While GPP expands the scope that the system can cover it does not resolve any of the intrinsic problems of the TCF approach. The result is a compounding of a deeply flawed system that, while it improves on the underlying concepts, does not resolve the core issues and therefore seems likely to face significant challenge from regulators and privacy advocates. 
-
-While this is a standing issue of TCF, it is extremely troubling that GPP seems like it wants to push the boulder down the road, creating adoption costs, compliance work, and additional technical overhead only to be eventually abandoned for not addressing most regulatory concerns. This would be less of a concern if GPP showed any way that it could be hooked into better solutions, or clear paths towards transformation into a system that would meet compliance expectations. However, GPP–in this draft–does not do that.
-
-While a publisher-based perspective doesn’t have leverage to turn this ship, I recommend against the IAB moving forward on the specification as it currently stands without a fundamental shift in methodology. If there was ever a time to significantly change our approach on consent management, it is now. GPP is not that change. 
-
 
 ## System Assessment
 
