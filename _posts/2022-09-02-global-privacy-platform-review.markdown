@@ -16,6 +16,7 @@ hashtag: IAB_GPP
 excerpt: The Global Privacy Platform is presented as the final comprehensive answer
   for privacy signaling, but it repeats the worst mistakes of its predecessors.
 overlay: red
+toc: true
 ---
 
 ## Summary 
