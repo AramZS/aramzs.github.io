@@ -13,7 +13,8 @@ tags:
 vertical: Ad Tech
 image: https://github.com/AramZS/aramzs.github.io/blob/master/_includes/portrait_of_a_confused_person_looking_at_a_computer.png?raw=true
 hashtag: IAB_GPP
-excerpt: The Global Privacy Platform is presented as the final comprehensive answer for privacy signaling, but it repeats the worst mistakes of its predecessors. 
+excerpt: The Global Privacy Platform is presented as the final comprehensive answer
+  for privacy signaling, but it repeats the worst mistakes of its predecessors.
 overlay: red
 ---
 
