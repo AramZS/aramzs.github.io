@@ -19,6 +19,27 @@ overlay: red
 toc: true
 ---
 
+- [Summary](#summary)
+- [System Assessment](#system-assessment)
+  * [API Layering for GPP’s Technical System](#api-layering-for-gpp-s-technical-system)
+    + [addEventListener](#addeventlistener)
+  * [Notes on Accountability and Signal Integrity](#notes-on-accountability-and-signal-integrity)
+  * [GPP’s API](#gpp-s-api)
+    + [postMessage](#postmessage)
+    + [Stub Code](#stub-code)
+    + [cmpId](#cmpid)
+    + [Manifest Issues](#manifest-issues)
+    + [The Global Vendor List](#the-global-vendor-list)
+    + [The Registry API](#the-registry-api)
+    + [Mobile SDKs](#mobile-sdks)
+  * [Consent String Creation and Management](#consent-string-creation-and-management)
+    + [Vendor Consents](#vendor-consents)
+    + [A note on the Consent String and Server to Server operations](#a-note-on-the-consent-string-and-server-to-server-operations)
+- [GPP Principles](#gpp-principles)
+  * [A Note on UI](#a-note-on-ui)
+- [Notes on Compliance Issues and GPP’s Relation to EU Court Findings](#notes-on-compliance-issues-and-gpp-s-relation-to-eu-court-findings)
+- [Ways Forward](#ways-forward)
+
 ## Summary 
 
 The Global Privacy Platform is intended to absorb the functionality of TCF and expand on it, as a consent-string-based privacy solution. While GPP expands the scope that the system can cover it does not resolve any of the intrinsic problems of the TCF approach. The result is a compounding of a deeply flawed system that, while it improves on the underlying concepts, does not resolve the core issues and therefore seems likely to face significant challenge from regulators and privacy advocates. 
@@ -52,7 +73,7 @@ The GPP proposal would layer over existing APIs. This means that the specificati
 The system also creates a replica command API, to quote the spec:		
 
 
-    _a call to __gpp('iabtcfeuv2.getTCData',myfunction) will be translated by the CMP to __tcfapi('getTCData',2,myfunction)._
+> a call to __gpp('iabtcfeuv2.getTCData',myfunction) will be translated by the CMP to __tcfapi('getTCData',2,myfunction).
 
 My hope is that this is conceived as a path towards the eventual depreciation of underlying APIs. However, the spec does not make this clear and it is an unnecessary ballooning of on-page code to handle. 
 
