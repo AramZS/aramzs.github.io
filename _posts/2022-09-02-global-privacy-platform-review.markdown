@@ -31,7 +31,7 @@ While a publisher-based perspective doesn’t have leverage to turn this ship, I
 
 * [System Assessment](#system-assessment)
 
-  * [API Layering for GPP’s Technical System](#api-layering-for-gpp-s-technical-system)
+  * [API Layering for GPP’s Technical System](#api-layering-for-gpps-technical-system)
 
     * [addEventListener](#addeventlistener)
 
