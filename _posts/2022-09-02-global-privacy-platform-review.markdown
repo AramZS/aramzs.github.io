@@ -63,7 +63,7 @@ While a publisher-based perspective doesn’t have leverage to turn this ship, I
 
   * [A Note on UI](#a-note-on-ui)
 
-* [Notes on Compliance Issues and GPP’s Relation to EU Court Findings](#notes-on-compliance-issues-and-gpp-s-relation-to-eu-court-findings)
+* [Notes on Compliance Issues and GPP’s Relation to EU Court Findings](#notes-on-compliance-issues-and-gpps-relation-to-eu-court-findings)
 
 * [Ways Forward](#ways-forward)
 
