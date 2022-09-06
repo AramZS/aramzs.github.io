@@ -21,7 +21,7 @@ toc: true
 
 ## Summary
 
-The Global Privacy Platform is intended to absorb the functionality of TCF and expand on it, as a consent-string-based privacy solution. While GPP expands the scope that the system can cover it does not resolve any of the intrinsic problems of the TCF approach. The result is a compounding of a deeply flawed system that, while it improves on the underlying concepts, does not resolve the core issues and therefore seems likely to face significant challenge from regulators and privacy advocates.
+The IAB's <a href="https://iabtechlab.com/wp-content/uploads/2022/06/global_privacy_platform_rfc_june_2022.pdf" title="Global Privacy Platform (GPP) PDF" alt="Global Privacy Platform (GPP) PDF" target="_blank">Global Privacy Platform</a> is intended to absorb the functionality of TCF and expand on it, as a consent-string-based privacy solution. While GPP expands the scope that the system can cover it does not resolve any of the intrinsic problems of the TCF approach. The result is a compounding of a deeply flawed system that, while it improves on the underlying concepts, does not resolve the core issues and therefore seems likely to face significant challenge from regulators and privacy advocates.
 
 While this is a standing issue of TCF, it is extremely troubling that GPP seems like it wants to push the boulder down the road, creating adoption costs, compliance work, and additional technical overhead only to be eventually abandoned for not addressing most regulatory concerns. This would be less of a concern if GPP showed any way that it could be hooked into better solutions, or clear paths towards transformation into a system that would meet compliance expectations. However, GPP–in this draft–does not do that.
 
