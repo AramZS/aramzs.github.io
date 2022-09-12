@@ -14,7 +14,7 @@ hashtag: TopicsAPI
 excerpt: Taking a look at the Topics API as it stands today.
 ---
 
-With the Topics API now in origin tests, it has been interesting to see just how the web gets categorized. I do see a lot of potential in the technology and I can’t argue with the privacy promise being a significant improvement over third party cookies. The biggest issue with Topics is how it will exist within the larger network of advertising technology entities and the market mechanics of the ecosystem. 
+With the [Topics API](https://github.com/patcg-individual-drafts/topics) now in [origin tests](https://developer.chrome.com/en/docs/privacy-sandbox/topics-experiment/), it has been interesting to see just how the web gets categorized. I do see a lot of potential in the technology and I can’t argue with the privacy promise being a significant improvement over third party cookies. The biggest issue with Topics is how it will exist within the larger network of advertising technology entities and the market mechanics of the ecosystem. 
 
 Topics might provide useful transitional technology to move off third party cookies and create privacy improvements, but the ad tech marketplace provides a clear history of such technologies becoming used in problematic ways: to enrich middlemen, confuse and mislead buyers, and disempower the site owners on which the associated ads would be run.
 
