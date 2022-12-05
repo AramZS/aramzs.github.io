@@ -32,7 +32,7 @@ Mostly New York City, but you can also find him online at these places:
 
 <a rel="me" href="https://indieweb.social/@Chronotope">Mastodon</a>
 
-He has an email address that he uses but does not actively check at aramzs (at) hacktext (dot) com. Do not email it. Twitter DM preferred as point of contact. 
+He has an email address that he uses but does not actively check at aramzs (at) hacktext (dot) com. Do not email it. [Keybase](https://keybase.io/aramzs) preferred as point of contact. 
 
 Here's how you pronounce his name: 
 
