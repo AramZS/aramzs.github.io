@@ -1,0 +1,9 @@
+---
+layout: none
+permalink: .well-known/nostr.json
+---
+{
+  "names": {
+    "Chronotope": "8b9e3e37fb86f7282de4fb526505e2d5748f2cd09e22fbda18f1daa65028e916"
+  }
+}
