@@ -68,3 +68,5 @@ Get Aram's full resume from its [printer-friendly page](https://aramzs.github.io
 [What Aram has Been Coding](https://fightwithtools.dev/)
 
 [What Aram has Been Researching](https://context.center/)
+
+[Aram's Twitter Archive](https://tweets.aramzs.com)
