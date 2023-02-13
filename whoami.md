@@ -3,8 +3,7 @@ title: Who is Aram Zucker-Scharff?
 date: 2018-04-21 08:00:00 -04:00
 permalink: "/aramzs/"
 navtitle: Who is Aram?
-excerpt: Aram Zucker-Scharff is Director for Ad Engineering at Washington Post, lead
-  dev for PressForward and a consultant. Tech solutions for journo problems.
+excerpt: Aram Zucker-Scharff is the Engineering Lead for Privacy & Security Compliance at The Washington Post, and a consultant. Tech solutions for journo problems.
 jsonld: jsonld-id
 ogimage: https://hacktext.com/wp-content/uploads/2021/06/Aram-Zucker-Scharff-fun-me-rect-small.jpg
 layout: page
