@@ -26,11 +26,13 @@ Mostly New York City, but you can also find him online at these places:
 
 [LinkedIn](http://bit.ly/aramzs)
 
+<a rel="me" href="https://indieweb.social/@Chronotope">Mastodon</a>
+
 [Twitter](http://twitter.com/chronotope)
 
 [GitHub](http://github.com/AramZS)
 
-<a rel="me" href="https://indieweb.social/@Chronotope">Mastodon</a>
+[Keep up with me on everything else](https://aramzs.glitch.me/)
 
 He has an email address that he uses but does not actively check at aramzs (at) hacktext (dot) com. Do not email it. [Keybase](https://keybase.io/aramzs) preferred as point of contact. 
 
