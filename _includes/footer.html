@@ -25,6 +25,11 @@
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
           {% endif %}
+          {% if site.glitch_in_bio %}
+          <li>
+            {% include glitch.html username=site.glitch_in_bio %}
+          </li>
+          {% endif %}
         </ul>
       </div>
 
