@@ -32,6 +32,8 @@ Mostly New York City, but you can also find him online at these places:
 
 [GitHub](http://github.com/AramZS)
 
+Bluesky: chronotope.aramzs.xyz
+
 [Keep up with me on everything else](https://aramzs.glitch.me/)
 
 He has an email address that he uses but does not actively check at aramzs (at) hacktext (dot) com. Do not email it. [Keybase](https://keybase.io/aramzs) preferred as point of contact. 
