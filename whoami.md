@@ -32,7 +32,7 @@ Mostly New York City, but you can also find him online at these places:
 
 [GitHub](http://github.com/AramZS)
 
-Bluesky: chronotope.aramzs.xyz
+Bluesky: [chronotope.aramzs.xyz](https://staging.bsky.app/profile/chronotope.aramzs.xyz)
 
 [Keep up with me on everything else](https://aramzs.glitch.me/)
 
