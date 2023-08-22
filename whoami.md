@@ -24,13 +24,13 @@ Aram Zucker-Scharff is the Engineering Lead for Privacy & Security Compliance at
 
 Mostly New York City, but you can also find him online at these places:
 
-[LinkedIn](http://bit.ly/aramzs)
+[LinkedIn](https://bit.ly/aramzs)
 
 <a rel="me" href="https://indieweb.social/@Chronotope">Mastodon</a>
 
-[Twitter](http://twitter.com/chronotope)
+[Twitter](https://twitter.com/chronotope)
 
-[GitHub](http://github.com/AramZS)
+[GitHub](https://github.com/AramZS)
 
 Bluesky: [chronotope.aramzs.xyz](https://staging.bsky.app/profile/chronotope.aramzs.xyz)
 
@@ -61,9 +61,9 @@ Get Aram's full resume from its [printer-friendly page](https://aramzs.github.io
 <iframe src="https://aramzs.github.io/resume/" width="100%" height="800px"></iframe>
 
 <br /> <br />
-[What Aram has Been Writing and Doing](http://aramzs.me)
+[What Aram has Been Writing and Doing](https://aramzs.me)
 
-[What Aram has Been Reading Online](http://chronoto.pe)
+[What Aram has Been Reading Online](https://chronoto.pe)
 
 [What Aram has Been Reading Offline](https://www.goodreads.com/user/show/1244876-aram)
 
