@@ -9,9 +9,9 @@ collections:
     title: Uploads
     output: true
 email: aramzs@hacktext.com
-description: 'A site discussing how to imagine, build, analyze and use cool code and
-  web tools. Better websites, better stories, better developers. Technology won''t
-  save the world, but you can.'
+description: A site discussing how to imagine, build, analyze and use cool code and
+  web tools. Better websites, better stories, better developers. Technology won't
+  save the world, but you can.
 baseurl: 
 url: https://aramzs.github.io
 twitter_username: Chronotope
@@ -19,5 +19,5 @@ github_username: aramzs
 glitch_in_bio: aramzs
 markdown: kramdown
 plugins:
-  - jekyll-toc
-  - jekyll-sitemap
+- jekyll-toc
+- jekyll-sitemap
