@@ -1,6 +1,6 @@
 ---
 title: 'Extreme Email Management: Use a whitelist, have private mode for Gmail'
-date: 2015-11-18 11:34:51 Z
+date: 2015-11-18 06:34:51 -05:00
 categories:
 - email,
 - gtd,
