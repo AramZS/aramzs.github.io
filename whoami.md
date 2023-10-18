@@ -3,8 +3,8 @@ title: Who is Aram Zucker-Scharff?
 date: 2018-04-21 08:00:00 -04:00
 permalink: "/aramzs/"
 navtitle: Who is Aram?
-excerpt: Aram Zucker-Scharff is Director for Ad Engineering at Washington Post, lead
-  dev for PressForward and a consultant. Tech solutions for journo problems.
+excerpt: Aram Zucker-Scharff is the Engineering Lead for Privacy & Security Compliance
+  at The Washington Post, and a consultant. Tech solutions for journo problems.
 jsonld: jsonld-id
 ogimage: https://hacktext.com/wp-content/uploads/2021/06/Aram-Zucker-Scharff-fun-me-rect-small.jpg
 layout: page
@@ -17,20 +17,26 @@ Hi!
 ## What does Aram do?
 
 
-Aram Zucker-Scharff is the Engineering Lead for Privacy & Security Compliance at The Washington Post where he works with publishers to maximize site performance and revenue. He has also worked on The Washington Post’s Ad Tech R&D and Big Data teams. Aram has developed open-source tools for publishers and consulted on content strategy and digital newsroom workflows. He was one of Folio Magazine’s 15 under 30 in the magazine media industry. 
+Aram Zucker-Scharff is the Engineering Lead for Privacy & Security Compliance at The Washington Post. He previously worked on the Zeus team, helping publishers to maximize site performance and revenue. He has also worked on The Washington Post’s Ad Tech R&D and Big Data teams. Aram has developed open-source tools for publishers and consulted on content strategy and digital newsroom workflows. He was one of Folio Magazine’s 15 under 30 in the magazine media industry. 
 
 
 ### Where is Aram?
 
 Mostly New York City, but you can also find him online at these places:
 
-[LinkedIn](http://bit.ly/aramzs)
-
-[Twitter](http://twitter.com/chronotope)
-
-[GitHub](http://github.com/AramZS)
+[LinkedIn](https://bit.ly/aramzs)
 
 <a rel="me" href="https://indieweb.social/@Chronotope">Mastodon</a>
+
+[Twitter](https://twitter.com/chronotope)
+
+[GitHub](https://github.com/AramZS)
+
+Bluesky: [chronotope.aramzs.xyz](https://staging.bsky.app/profile/chronotope.aramzs.xyz)
+
+[Keep up with me on everything else](https://aramzs.glitch.me/)
+
+He has an email address that he uses but does not actively check at aramzs (at) hacktext (dot) com. Do not email it. [Keybase](https://keybase.io/aramzs) preferred as point of contact. 
 
 Here's how you pronounce his name: 
 
@@ -55,9 +61,9 @@ Get Aram's full resume from its [printer-friendly page](https://aramzs.github.io
 <iframe src="https://aramzs.github.io/resume/" width="100%" height="800px"></iframe>
 
 <br /> <br />
-[What Aram has Been Writing and Doing](http://aramzs.me)
+[What Aram has Been Writing and Doing](https://aramzs.me)
 
-[What Aram has Been Reading Online](http://chronoto.pe)
+[What Aram has Been Reading Online](https://chronoto.pe)
 
 [What Aram has Been Reading Offline](https://www.goodreads.com/user/show/1244876-aram)
 
@@ -66,3 +72,5 @@ Get Aram's full resume from its [printer-friendly page](https://aramzs.github.io
 [What Aram has Been Coding](https://fightwithtools.dev/)
 
 [What Aram has Been Researching](https://context.center/)
+
+[Aram's Twitter Archive](https://tweets.aramzs.com)

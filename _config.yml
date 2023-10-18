@@ -18,4 +18,7 @@ baseurl:
 url: http://aramzs.github.io
 twitter_username: Chronotope
 github_username: aramzs
+glitch_in_bio: aramzs
 markdown: kramdown
+plugins:
+- jekyll-toc
