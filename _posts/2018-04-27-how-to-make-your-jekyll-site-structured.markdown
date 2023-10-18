@@ -1,6 +1,6 @@
 ---
 title: How to give your Jekyll Site Structured Data for Search with JSON-LD
-date: 2018-04-27 22:00:51 Z
+date: 2018-04-27 18:00:51 -04:00
 categories:
 - jekyll
 - schema-dot-org

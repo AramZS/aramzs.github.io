@@ -1,6 +1,6 @@
 ---
 title: How to make your Jekyll site show up on social
-date: 2015-11-11 15:34:51 Z
+date: 2015-11-11 10:34:51 -05:00
 categories:
 - jekyll
 - social-media
