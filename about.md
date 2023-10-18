@@ -37,7 +37,7 @@ You can find the source code for Jekyll at
 {% include icon-github.html username="jekyll" %} /
 [jekyll](https://github.com/jekyll/jekyll)
 
-[aram]: http://bit.ly/aram
-[nodality]: http://aramzs.me
-[linkedin]: http://bit.ly/aramzs
-[chronoto]: http://chronoto.pe
+[aram]: https://bit.ly/aram
+[nodality]: https://aramzs.me
+[linkedin]: https://bit.ly/aramzs
+[chronoto]: https://chronoto.pe

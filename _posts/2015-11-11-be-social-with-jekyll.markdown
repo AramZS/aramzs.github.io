@@ -96,7 +96,7 @@ layout: post
 title:  "How to make your Jekyll site more shareable"
 date:   2015-10-29 01:34:51 -0400
 categories: jekyll social-media
-image: http://41.media.tumblr.com/173cb5c51a1c308ab022a786f69353f3/tumblr_nwncf1T2ht1rl195mo1_1280.jpg
+image: https://41.media.tumblr.com/173cb5c51a1c308ab022a786f69353f3/tumblr_nwncf1T2ht1rl195mo1_1280.jpg
 vertical: Code
 excerpt: "Jekyll is pretty cool, here's how to make writing with it easier for others to share on social networks."
 ---
@@ -125,7 +125,7 @@ There are a number of meta tags that are either site or article only. In order t
   {% endif %}
 
   <!-- Here my author and publisher tags are the same (yay self-publishing) -->
-  <meta property="article:author" content="http://facebook.com/aramzs" />
+  <meta property="article:author" content="https://facebook.com/aramzs" />
   <!-- But if your site has its own page, this is where to put it. -->
   <meta property="article:publisher" content="https://www.facebook.com/aramzs" />
 

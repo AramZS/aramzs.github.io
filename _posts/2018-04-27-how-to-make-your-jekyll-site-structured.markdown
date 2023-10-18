@@ -58,7 +58,7 @@ First you'll want to set up your per-post JSON-LD file. We'll break down what's 
 
 <script type="application/ld+json">
     {
-        "@context": "http://schema.org",
+        "@context": "https://schema.org",
         "@type": "BlogPosting",
         "headline": "{{ page.title }}",
         "description": "{{ page.excerpt }}",
@@ -85,12 +85,12 @@ First you'll want to set up your per-post JSON-LD file. We'll break down what's 
             "name": "Fight With Tools",
             "productID": "aramzs.github.io"
         },
-        "license": "http://creativecommons.org/licenses/by-sa/4.0/",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
         "author": {
             "@type": "Person",
             "name": "Aram Zucker-Scharff",
             "description": "Aram Zucker-Scharff is Director for Ad Engineering at Washington Post, lead dev for PressForward and a consultant. Tech solutions for journo problems.",
-            "sameAs": "http://aramzs.github.io/aramzs/",
+            "sameAs": "https://aramzs.github.io/aramzs/",
             "image": {
                 "@type": "ImageObject",
                 "url": "https://pbs.twimg.com/profile_images/539484037765533698/7l6-pKY-_400x400.jpeg"
@@ -98,18 +98,18 @@ First you'll want to set up your per-post JSON-LD file. We'll break down what's 
             "givenName": "Aram",
             "familyName": "Zucker-Scharff",
             "alternateName": "AramZS",
-            "publishingPrinciples": "http://aramzs.github.io/about/"
+            "publishingPrinciples": "https://aramzs.github.io/about/"
         },
         "publisher": {
             "@type": "Organization",
             "name": "Fight With Tools",
             "description": "A site discussing how to imagine, build, analyze and use cool code and web tools. Better websites, better stories, better developers. Technology won't save the world, but you can.",
-            "sameAs": "http://aramzs.github.io",
+            "sameAs": "https://aramzs.github.io",
             "logo": {
                 "@type": "ImageObject",
                 "url": "https://41.media.tumblr.com/709bb3c371b9924add351bfe3386e946/tumblr_nxdq8uFdx81qzocgko1_1280.jpg"
             },
-            "publishingPrinciples": "http://aramzs.github.io/about/"
+            "publishingPrinciples": "https://aramzs.github.io/about/"
         }
     }
 </script>
@@ -142,7 +142,7 @@ Let's look at the top level object properties:
 {% highlight json %}
 {%raw%}
 
-        "@context": "http://schema.org",
+        "@context": "https://schema.org",
         "@type": "BlogPosting",
         "headline": "{{ page.title }}",
         "description": "{{ page.excerpt }}",
@@ -194,7 +194,7 @@ This part is a bit unclear. Presumably we're already describing the mainEntityOf
             "name": "Fight With Tools",
             "productID": "aramzs.github.io"
         },
-        "license": "http://creativecommons.org/licenses/by-sa/4.0/",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
 {%endraw%}
 
 {% endhighlight %}  
@@ -211,7 +211,7 @@ This block describes the date the content published, date it was modified and if
             "@type": "Person",
             "name": "Aram Zucker-Scharff",
             "description": "Aram Zucker-Scharff is Director for Ad Engineering at Washington Post, lead dev for PressForward and a consultant. Tech solutions for journo problems.",
-            "sameAs": "http://aramzs.github.io/aramzs/",
+            "sameAs": "https://aramzs.github.io/aramzs/",
             "image": {
                 "@type": "ImageObject",
                 "url": "https://pbs.twimg.com/profile_images/539484037765533698/7l6-pKY-_400x400.jpeg"
@@ -219,7 +219,7 @@ This block describes the date the content published, date it was modified and if
             "givenName": "Aram",
             "familyName": "Zucker-Scharff",
             "alternateName": "AramZS",
-            "publishingPrinciples": "http://aramzs.github.io/about/"
+            "publishingPrinciples": "https://aramzs.github.io/about/"
         },
 {%endraw%}
 
@@ -233,12 +233,12 @@ The above is the author block, we establish a Schema.org standard `Person` objec
             "@type": "Organization",
             "name": "Fight With Tools",
             "description": "A site discussing how to imagine, build, analyze and use cool code and web tools. Better websites, better stories, better developers. Technology won't save the world, but you can.",
-            "sameAs": "http://aramzs.github.io",
+            "sameAs": "https://aramzs.github.io",
             "logo": {
                 "@type": "ImageObject",
                 "url": "https://41.media.tumblr.com/709bb3c371b9924add351bfe3386e946/tumblr_nxdq8uFdx81qzocgko1_1280.jpg"
             },
-            "publishingPrinciples": "http://aramzs.github.io/about/"
+            "publishingPrinciples": "https://aramzs.github.io/about/"
         }
 {%endraw%}
 
@@ -275,7 +275,7 @@ As you can see, I'm using the `jsonld` property to specify a stand-alone one-off
 {%raw%}
 <script type="application/ld+json">
     {
-        "@context": "http://schema.org",
+        "@context": "https://schema.org",
         "@type": "Person",
         "name": "Aram Zucker-Scharff",
         "description": "{{ page.excerpt }}",
@@ -294,7 +294,7 @@ As you can see, I'm using the `jsonld` property to specify a stand-alone one-off
         "givenName": "Aram",
         "familyName": "Zucker-Scharff",
         "alternateName": "AramZS",
-        "publishingPrinciples": "http://aramzs.github.io/about/"
+        "publishingPrinciples": "https://aramzs.github.io/about/"
     }
 </script>
 {%endraw%}
@@ -313,7 +313,7 @@ The final step at getting the Structure Markup for this blog as valid as possibl
 {%raw%}
 <script type="application/ld+json">
     {
-        "@context": "http://schema.org",
+        "@context": "https://schema.org",
         "@type": "Blog",
         "url": "{{ prepend: site.baseurl | prepend: site.url }}",
         "headline": "{{ site.title }}",
@@ -332,7 +332,7 @@ The final step at getting the Structure Markup for this blog as valid as possibl
             "@type": "Person",
             "name": "Aram Zucker-Scharff",
             "description": "Aram Zucker-Scharff is Director for Ad Engineering at Washington Post, lead dev for PressForward and a consultant. Tech solutions for journo problems.",
-            "sameAs": "http://aramzs.github.io/aramzs/",
+            "sameAs": "https://aramzs.github.io/aramzs/",
             "image": {
                 "@type": "ImageObject",
                 "url": "https://pbs.twimg.com/profile_images/539484037765533698/7l6-pKY-_400x400.jpeg"
@@ -340,13 +340,13 @@ The final step at getting the Structure Markup for this blog as valid as possibl
             "givenName": "Aram",
             "familyName": "Zucker-Scharff",
             "alternateName": "AramZS",
-            "publishingPrinciples": "http://aramzs.github.io/about/"
+            "publishingPrinciples": "https://aramzs.github.io/about/"
         },
         "editor": {
             "@type": "Person",
             "name": "Aram Zucker-Scharff",
             "description": "Aram Zucker-Scharff is Director for Ad Engineering at Washington Post, lead dev for PressForward and a consultant. Tech solutions for journo problems.",
-            "sameAs": "http://aramzs.github.io/aramzs/",
+            "sameAs": "https://aramzs.github.io/aramzs/",
             "image": {
                 "@type": "ImageObject",
                 "url": "https://pbs.twimg.com/profile_images/539484037765533698/7l6-pKY-_400x400.jpeg"
@@ -354,22 +354,22 @@ The final step at getting the Structure Markup for this blog as valid as possibl
             "givenName": "Aram",
             "familyName": "Zucker-Scharff",
             "alternateName": "AramZS",
-            "publishingPrinciples": "http://aramzs.github.io/about/"
+            "publishingPrinciples": "https://aramzs.github.io/about/"
         },
         "inLanguage": "en-US",
-        "license": "http://creativecommons.org/licenses/by-sa/4.0/",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
         "additionalType": "CreativeWork",
         "alternateName": "Fight With Tools",
         "publisher": {
             "@type": "Organization",
             "name": "Fight With Tools",
             "description": "A site discussing how to imagine, build, analyze and use cool code and web tools. Better websites, better stories, better developers. Technology won't save the world, but you can.",
-            "sameAs": "http://aramzs.github.io",
+            "sameAs": "https://aramzs.github.io",
             "logo": {
                 "@type": "ImageObject",
                 "url": "https://41.media.tumblr.com/709bb3c371b9924add351bfe3386e946/tumblr_nxdq8uFdx81qzocgko1_1280.jpg"
             },
-            "publishingPrinciples": "http://aramzs.github.io/about/"
+            "publishingPrinciples": "https://aramzs.github.io/about/"
         }
     }
 </script>

@@ -6,7 +6,7 @@ categories:
 - gtd,
 - gmail
 layout: post
-image: http://49.media.tumblr.com/954014a7f1187e5dd7680dec72474b3f/tumblr_nte7cc5vaH1qzocgko1_400.gif
+image: https://49.media.tumblr.com/954014a7f1187e5dd7680dec72474b3f/tumblr_nte7cc5vaH1qzocgko1_400.gif
 vertical: Tools
 excerpt: Email sucks, bring it up to date in a world of messaging systems which give
   you real control over who gets access to your time.
