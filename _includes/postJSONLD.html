@@ -2,8 +2,8 @@
     {
         "@context": "https://schema.org",
         "@type": "BlogPosting",
-        "headline": "{{ page.title }}",
-        "description": "{{ page.excerpt }}",
+        "headline": "{{ page.title | xml_escape }}",
+        "description": "{{ page.excerpt | xml_escape }}",
         "image": [
             {% if page.ogimagenull %}
 
