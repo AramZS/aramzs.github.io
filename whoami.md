@@ -24,6 +24,8 @@ Aram Zucker-Scharff is the Senior Staff Software Engineer for Privacy & Security
 
 Mostly New York City, but you can also find him online at these places:
 
+[Personal Blog](https://aramzs.xyz/)
+
 [LinkedIn](https://bit.ly/aramzs)
 
 <a rel="me" href="https://indieweb.social/@Chronotope">Mastodon</a>
@@ -32,7 +34,7 @@ Mostly New York City, but you can also find him online at these places:
 
 [GitHub](https://github.com/AramZS)
 
-Bluesky: [chronotope.aramzs.xyz](https://staging.bsky.app/profile/chronotope.aramzs.xyz)
+[Bluesky: chronotope.aramzs.xyz](https://bsky.app/profile/did:plc:t5xmf33p5kqgkbznx22p7d7g)
 
 [Keep up with me on everything else](https://aramzs.glitch.me/)
 
@@ -64,6 +66,8 @@ Get Aram's full resume from its [printer-friendly page](https://aramzs.github.io
 [What Aram has Been Writing and Doing](https://aramzs.me)
 
 [What Aram has Been Reading Online](https://chronoto.pe)
+
+[What Aram Thinks You Should Read Online](https://aramzs.xyz/amplify/)
 
 [What Aram has Been Reading Offline](https://www.goodreads.com/user/show/1244876-aram)
 
