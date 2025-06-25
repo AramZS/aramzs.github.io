@@ -80,7 +80,7 @@ So I put together an HTML page:
 </html>
 ```
 
-As you can see, I've created a standalone HTML page on [my personal blog site](https://aramzs.xyz/) that includes a simple call to my privacy-focused analytics provider Plausible.
+As you can see, I've created a standalone HTML page on [my personal blog site](https://aramzs.xyz/) that includes a simple call to my privacy-focused analytics provider [Plausible](https://plausible.io).
 
 Then my RSS NJK template gets the iframe that loads this file added to the end of every article's content block:
 
