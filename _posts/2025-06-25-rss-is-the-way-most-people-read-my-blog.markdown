@@ -1,5 +1,5 @@
 ---
-title: Here's how I know that more people read my personal blog via RSS then any other
+title: Here's how I know more people read my personal blog via RSS then any other
   platform
 date: 2025-06-25 14:30:00 -04:00
 categories:
