@@ -1,5 +1,6 @@
 ---
-title: Here's how I know that more people read my personal blog via RSS then any other platform
+title: Here's how I know that more people read my personal blog via RSS then any other
+  platform
 date: 2025-06-25 14:30:00 -04:00
 categories:
 - open-source
@@ -12,7 +13,8 @@ tags:
 vertical: Code
 image: https://github.com/AramZS/aramzs.github.io/blob/master/_includes/rss-zs-favicon-2400-1200.png?raw=true
 hashtag: RSSLives
-excerpt: I am very happy to find out that more people read my blog on RSS than anywhere else, but how to figure that out and technically measure RSS readers proved difficult.
+excerpt: I am very happy to find out that more people read my blog on RSS than anywhere
+  else, but how to figure that out and technically measure RSS readers proved difficult.
 overlay: orange
 toc: false
 ---
