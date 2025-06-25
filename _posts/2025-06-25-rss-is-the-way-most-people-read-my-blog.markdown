@@ -83,7 +83,7 @@ As you can see, I've created a standalone HTML page on [my personal blog site](h
 Then my RSS NJK template gets the iframe that loads this file added to the end of every article's content block:
 
 ```liquid
-{%- set postContent = post.templateContent + '<br></br><iframe width="50" height="50" src="/some-url-with-that-html" title="Privacy-respecting tracker for feed readers" frameborder="0" allow="web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>' | htmlToAbsoluteUrls(absolutePostUrl) -%}
+set postContent = post.templateContent + '<br></br><iframe width="50" height="50" src="/some-url-with-that-html" title="Privacy-respecting tracker for feed readers" frameborder="0" allow="web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>' | htmlToAbsoluteUrls(absolutePostUrl)
 ```
 
 And yeah, this works! Now maybe some services cache iFrames as well, and so what I'm really getting isn't my full readership but a baseline of minimum-measurable-readers. This is very possible, but even the baseline is an exciting number to be able to get access to without enlisting anything other than my normal analytics provider!
