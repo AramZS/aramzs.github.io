@@ -96,11 +96,11 @@ I think this is a pretty reasonable number to work with!
 
 And look at my past 28 days! It turns out that I am getting more traffic on my RSS posts than on any other individual page.
 
-![Overall stats of pageviews per page on my site](../_includes/rss-stats-in-context.png)
+![Overall stats of pageviews per page on my site](/uploads/rss-stats-in-context.png)
 
 And when I break it out as a source it constitutes over a third of my traffic.
 
-![Stats on RSS as a standalone source](../_includes/rss-stats.png)
+![Stats on RSS as a standalone source](/uploads/rss-stats.png)
 
 This is super exciting to me! I want people to consume the two RSS feeds I produce for [aramzs.xyz](https://aramzs.xyz). It looks like they are!
 
