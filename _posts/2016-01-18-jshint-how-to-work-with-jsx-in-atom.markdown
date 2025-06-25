@@ -2,7 +2,7 @@
 title: How to get a React project linting in real time with Atom
 date: 2016-01-18 14:34:51 Z
 categories:
-- React,
+- React
 - JSHint
 layout: post
 vertical: Code
@@ -21,7 +21,7 @@ At the base of your project you'll need a `.jshintrc` file. It should enable ES6
 }
 
 {%endraw%}
-{% endhighlight %}  
+{% endhighlight %}
 
 Then under `Atom -> Open Your Config` add the following:
 
@@ -32,4 +32,4 @@ jshint:
   supportLintingJsx: true
 
 {%endraw%}
-{% endhighlight %}  
+{% endhighlight %}
