@@ -1,6 +1,6 @@
 ---
 title: How to get a React project linting in real time with Atom
-date: 2016-01-18 14:34:51 Z
+date: 2016-01-18 09:34:51 -05:00
 categories:
 - React
 - JSHint
