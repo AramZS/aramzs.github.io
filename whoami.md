@@ -40,7 +40,10 @@ Mostly New York City, but you can also find him online at these places:
 
 He has an email address that he uses but does not actively check at aramzs (at) hacktext (dot) com. Do not email it. [Keybase](https://keybase.io/aramzs) preferred as point of contact. 
 
+### How to Pronounce his Name
+
 Here's how you pronounce his name: 
+IPA phonetic text:  /ˌæ.ɹəm ˈt͡sʊ.kɚ 'ʃɑɹf/
 
 <audio controls>
   <source src="https://github.com/AramZS/aramzs.github.io/blob/master/_includes/aram-name.mp3?raw=true" type="audio/mp3">
