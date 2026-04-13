@@ -36,9 +36,9 @@ Mostly New York City, but you can also find him online at these places:
 
 [Bluesky: chronotope.aramzs.xyz](https://bsky.app/profile/did:plc:t5xmf33p5kqgkbznx22p7d7g)
 
-[Keep up with me on everything else](https://aramzs.glitch.me/)
+[Keep up with me on everything else](https://aramzs.nexus/)
 
-He has an email address that he uses but does not actively check at aramzs (at) hacktext (dot) com. Do not email it. [Keybase](https://keybase.io/aramzs) preferred as point of contact. 
+He has an email address that he uses but does not actively check at aramzs (at) hacktext (dot) com. Do not email it. DM him on BlueSky.
 
 ### How to Pronounce his Name
 
